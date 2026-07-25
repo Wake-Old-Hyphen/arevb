@@ -1,5 +1,5 @@
-youtube-morphe-exp (arm64-v8a): 21.29.368  
-youtube-morphe-exp (arm-v7a): 21.29.368  
+youtube-morphe-exp (arm64-v8a): 21.29.366  
+youtube-morphe-exp (arm-v7a): 21.29.366  
 youtube-music-morphe-exp (arm64-v8a): 9.28.51  
 youtube-music-morphe-exp (arm-v7a): 9.28.51  
 
