@@ -1,7 +1,5 @@
-calorie-counter-morphe (arm64-v8a): 11.6.0.1  
-calorie-counter-morphe (arm-v7a): 11.6.0.1  
-soundcloud-morphe-alt (arm64-v8a): 2026.06.25-release  
-soundcloud-morphe-alt (arm-v7a): 2026.06.25-release  
+discord-xposed (arm64-v8a): 339.11-Stable  
+discord-xposed (arm-v7a): 339.11-Stable  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,6 +7,6 @@ soundcloud-morphe-alt (arm-v7a): 2026.06.25-release
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-desktop-1.12.0-all.jar  
-Patches: kondratjev/patches-1.17.0.mpp  
-[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.17.0)  
+CLI: 7723mod/jar-v1.0.6-698-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1502)  
