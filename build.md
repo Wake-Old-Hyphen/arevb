@@ -1,5 +1,4 @@
-discord-xposed (arm64-v8a): 339.11-Stable  
-discord-xposed (arm-v7a): 339.11-Stable  
+lightroom-morphe (arm64-v8a): 11.4.5  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -7,6 +6,6 @@ discord-xposed (arm-v7a): 339.11-Stable
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: 7723mod/jar-v1.0.6-698-release.jar  
-Patches: revenge-mod/app-release.apk  
-[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1503)  
+CLI: MorpheApp/morphe-desktop-1.13.0-dev.4-all.jar  
+Patches: hoo-dles/patches-1.40.0-dev.5.mpp  
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.40.0-dev.5)  
