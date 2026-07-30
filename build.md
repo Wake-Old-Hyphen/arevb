@@ -1,7 +1,4 @@
 hbomax-morphe-androidtv (all): 7.7.0.78  
-peacock-morphe-androidtv (all): 7.6.100  
-prime-video-morphe-androidtv (arm-v7a): 6.23.23+v15.5.0.70-armv7a  
-tubi-morphe-androidtv (all): 10.28.5000  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
