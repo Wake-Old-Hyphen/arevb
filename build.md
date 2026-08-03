@@ -1,8 +1,7 @@
-twitter-morphe (arm64-v8a): 12.11.0-release.0  
-twitter-morphe (arm-v7a): 12.11.0-release.0  
-twitter-morphe-materialu (arm64-v8a): 12.11.0-release.0  
-twitter-morphe-materialu (arm-v7a): 12.11.0-release.0  
-instagram-morphe-piko (arm64-v8a): 439.0.0.37.89  
+instagram-instafel (arm64-v8a): 440.1.0.46.86  
+instagram-instafel (arm-v7a): 440.1.0.46.86  
+instagram-instafel-clone (arm64-v8a): 440.1.0.46.86  
+instagram-instafel-clone (arm-v7a): 440.1.0.46.86  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,6 +9,6 @@ instagram-morphe-piko (arm64-v8a): 439.0.0.37.89
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-desktop-1.12.0-all.jar  
-Patches: crimera/patches-3.9.0-dev.3.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.9.0-dev.3)  
+CLI: instafel/ifl-patcher-v4.7.0-release.jar  
+Patches: instafel/ifl-patcher-core-4c4e41d.jar  
+[Changelog](https://github.com/instafel/pc-rel/releases/tag/4c4e41d-4.7.0)  
