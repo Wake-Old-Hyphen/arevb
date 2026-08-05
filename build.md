@@ -1,5 +1,5 @@
-google-photos-revanced (arm64-v8a): 7.87.0.957333026  
-google-photos-revanced (arm-v7a): 7.87.0.957333026  
+discord-xposed (arm64-v8a): 340.13-Stable  
+discord-xposed (arm-v7a): 340.13-Stable  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -7,10 +7,6 @@ google-photos-revanced (arm-v7a): 7.87.0.957333026
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: ReVanced/revanced-cli-6.0.0-all.jar  
-Patches: Raudrobot/patches-6.1.0.rvp  
-[Changelog](https://github.com/Raudrobot/revanced-patches/releases/tag/6.1.0-patches)
-
-CLI: MorpheApp/morphe-desktop-1.12.0-all.jar  
-Patches: RookieEnough/patches-1.0.4.mpp  
-[Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.4)  
+CLI: 7723mod/jar-v1.0.6-698-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1601)  
