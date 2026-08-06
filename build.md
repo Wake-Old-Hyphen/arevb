@@ -7,6 +7,6 @@ discord-xposed (arm-v7a): 340.13-Stable
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: JingMatrix/lspatch.jar  
+CLI: 7723mod/jar-v1.0.6-698-release.jar  
 Patches: revenge-mod/app-release.apk  
 [Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1601)  
