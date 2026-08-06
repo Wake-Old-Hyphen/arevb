@@ -1,4 +1,5 @@
-discord-xposed (all): 340.13-Stable  
+discord-xposed (arm64-v8a): 340.13-Stable  
+discord-xposed (arm-v7a): 340.13-Stable  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -6,6 +7,6 @@ discord-xposed (all): 340.13-Stable
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: 7723mod/jar-v1.0.6-698-release.jar  
+CLI: JingMatrix/lspatch.jar  
 Patches: revenge-mod/app-release.apk  
 [Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1601)  
