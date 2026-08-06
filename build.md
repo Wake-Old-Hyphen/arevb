@@ -1,5 +1,4 @@
-discord-xposed (arm64-v8a): 340.13-Stable  
-discord-xposed (arm-v7a): 340.13-Stable  
+discord-xposed (all): 340.13-Stable  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
