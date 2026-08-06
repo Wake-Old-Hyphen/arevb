@@ -1,5 +1,5 @@
-showly-morphe (arm64-v8a): 3.70.0  
-showly-morphe (arm-v7a): 3.70.0  
+proton-mail-morphe (arm64-v8a): 7.10.4  
+proton-mail-morphe (arm-v7a): 7.10.4  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
