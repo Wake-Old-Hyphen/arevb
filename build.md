@@ -1,4 +1,5 @@
-gboard-morphe-alt (arm64-v8a): 17.7.7.932364120-release-arm64-v8a  
+showly-morphe (arm64-v8a): 3.70.0  
+showly-morphe (arm-v7a): 3.70.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -7,5 +8,5 @@ gboard-morphe-alt (arm64-v8a): 17.7.7.932364120-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.12.0-all.jar  
-Patches: jasonwu1994/patches-2.6.0-dev.1.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v2.6.0-dev.1)  
+Patches: hxreborn/patches-1.3.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.3.0)  
