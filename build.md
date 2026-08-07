@@ -1,9 +1,5 @@
-kinestop-morphe (arm64-v8a): 5.1  
-kinestop-morphe (arm-v7a): 5.1  
-calorie-counter-morphe (arm64-v8a): 11.7.0.1  
-calorie-counter-morphe (arm-v7a): 11.7.0.1  
-soundcloud-morphe-alt (arm64-v8a): 2026.07.23-release  
-soundcloud-morphe-alt (arm-v7a): 2026.07.23-release  
+hermit-morphe (arm64-v8a): 31.6.1  
+hermit-morphe (arm-v7a): 31.6.1  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -13,10 +9,4 @@ soundcloud-morphe-alt (arm-v7a): 2026.07.23-release
   
 CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
 Patches: kiraio-moe/patches-1.3.0.mpp  
-[Changelog](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0)
-
-Patches: kondratjev/patches-1.19.0.mpp  
-[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.19.0)
-
-Patches: shaun-the-sheep-patches/patches-1.1.0.mpp  
-[Changelog](https://github.com/shaun-the-sheep-patches/morphe-patches/releases/tag/v1.1.0)  
+[Changelog](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0)  
