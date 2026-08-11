@@ -1,16 +1,10 @@
-adguard-morphe-nightly (arm64-v8a): 4.14.68  
-adguard-morphe-nightly (arm-v7a): 4.14.68  
-waze-morphe (arm64-v8a): 5.22.0.3  
-warp-morphe (arm64-v8a): 6.38.8  
-warp-morphe (arm-v7a): 6.38.8  
-ninja-vpn-morphe (arm64-v8a): 1.4.7  
-windscribe-vpn-morphe (all): 4.2.2328  
-terabox-morphe (arm64-v8a): 4.22.6  
-terabox-morphe (arm-v7a): 4.22.6  
-beta-maniac-morphe (arm64-v8a): 0.9.4  
-beta-maniac-morphe (arm-v7a): 0.9.4  
-google-photos-morphe-alt (arm64-v8a): 7.87.0.957333026  
-google-photos-morphe-alt (arm-v7a): 7.87.0.957333026  
+accuweather-morphe (arm64-v8a): 21.1.14-5-rc  
+accuweather-morphe (arm-v7a): 21.1.14-5-rc  
+hola-vpn-morphe (arm64-v8a): AARCH64_1.248.400  
+moviebox-morphe-androidtv (arm64-v8a): 1.1.6.0723.03  
+moviebox-morphe-androidtv (arm-v7a): 1.1.6.0723.03  
+the-weather-channel-morphe (arm64-v8a): 16.16.0  
+the-weather-channel-morphe (arm-v7a): 16.16.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
