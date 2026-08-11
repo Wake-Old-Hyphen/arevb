@@ -1,10 +1,7 @@
-accuweather-morphe (arm64-v8a): 21.1.14-5-rc  
-accuweather-morphe (arm-v7a): 21.1.14-5-rc  
-hola-vpn-morphe (arm64-v8a): AARCH64_1.248.400  
-moviebox-morphe-androidtv (arm64-v8a): 1.1.6.0723.03  
-moviebox-morphe-androidtv (arm-v7a): 1.1.6.0723.03  
-the-weather-channel-morphe (arm64-v8a): 16.16.0  
-the-weather-channel-morphe (arm-v7a): 16.16.0  
+google-photos-morphe (arm64-v8a): 7.87.0.957333026  
+google-photos-morphe (arm-v7a): 7.87.0.957333026  
+tiktok-morphe (arm64-v8a): 46.2.3  
+tiktok-morphe (arm-v7a): 46.2.3  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -13,5 +10,8 @@ the-weather-channel-morphe (arm-v7a): 16.16.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
-Patches: rushiranpise/patches-1.17.0.mpp  
-[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.17.0)  
+Patches: icysymmetra/patches-0.7.0-dev.3.mpp  
+[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.7.0-dev.3)
+
+Patches: RookieEnough/patches-1.1.1-dev.1.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.1.1-dev.1)  
