@@ -1,6 +1,6 @@
 {
-  "version": "v7.87.0.957333026 (patches 1.2.0.mpp)",
-  "versionCode": 260205,
-  "zipUrl": "https://github.com/nullcpy/rvb/releases/download/260205/google-photos-morphe-module-v7.87.0.957333026-arm-v7a.zip",
+  "version": "v7.87.0.957333026 (patches 1.2.1.mpp)",
+  "versionCode": 260206,
+  "zipUrl": "https://github.com/nullcpy/rvb/releases/download/260206/google-photos-morphe-module-v7.87.0.957333026-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/nullcpy/rvb/update/build.md"
 }
