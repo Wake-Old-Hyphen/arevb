@@ -1,5 +1,4 @@
-gboard-morphe (arm64-v8a): 17.7.7.932364120-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 17.7.7.932364120-release-arm64-v8a  
+messenger-morphe (arm64-v8a): 573.0.0.44.88  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +7,5 @@ gboard-morphe-clone (arm64-v8a): 17.7.7.932364120-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
-Patches: jasonwu1994/patches-2.8.0-dev.2.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v2.8.0-dev.2)  
+Patches: rushiranpise/patches-1.18.0-dev.2.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.18.0-dev.2)  
