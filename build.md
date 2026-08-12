@@ -1,5 +1,5 @@
-messenger-morphe (arm64-v8a): 573.0.0.44.88  
-messenger-morphe (arm-v7a): 573.0.0.44.88  
+pocket-casts-morphe (arm64-v8a): 8.16  
+pocket-casts-morphe (arm-v7a): 8.16  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +8,5 @@ messenger-morphe (arm-v7a): 573.0.0.44.88
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
-Patches: rushiranpise/patches-1.18.0-dev.3.mpp  
-[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.18.0-dev.3)  
+Patches: rushiranpise/patches-1.17.0.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.17.0)  
