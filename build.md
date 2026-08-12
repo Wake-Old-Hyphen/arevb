@@ -1,7 +1,5 @@
-proton-mail-morphe (arm64-v8a): 7.10.4  
-proton-mail-morphe (arm-v7a): 7.10.4  
-showly-morphe (arm64-v8a): 3.70.0  
-showly-morphe (arm-v7a): 3.70.0  
+google-photos-morphe (arm64-v8a): 7.87.0.957333026  
+google-photos-morphe (arm-v7a): 7.87.0.957333026  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,5 +8,5 @@ showly-morphe (arm-v7a): 3.70.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
-Patches: hxreborn/patches-1.4.0.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.4.0)  
+Patches: RookieEnough/patches-1.2.1-dev.1.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.2.1-dev.1)  
