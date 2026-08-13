@@ -1,3 +1,4 @@
+threads-morphe (arm64-v8a): 434.0.0.41.74  
 tumblr-morphe (arm64-v8a): 45.0.0.109  
 tumblr-morphe (arm-v7a): 45.0.0.109  
 
