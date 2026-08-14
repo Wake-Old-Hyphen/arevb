@@ -1,5 +1,4 @@
-google-photos-morphe (arm64-v8a): 7.88.0.963667563  
-google-photos-morphe (arm-v7a): 7.88.0.963667563  
+facebook-morphe (arm64-v8a): 490.0.0.63.82  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
