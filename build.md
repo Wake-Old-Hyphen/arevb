@@ -1,6 +1,5 @@
-hola-vpn-morphe (arm64-v8a): AARCH64_1.248.400  
-terabox-morphe (arm64-v8a): 4.22.6  
-terabox-morphe (arm-v7a): 4.22.6  
+google-phone-morphe (arm64-v8a): 161.0.726587057  
+google-phone-morphe (arm-v7a): 161.0.726587057  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,5 +8,5 @@ terabox-morphe (arm-v7a): 4.22.6
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
-Patches: rushiranpise/patches-1.18.1.mpp  
-[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.18.1)  
+Patches: arandomhooman/patches-1.49.1.mpp  
+[Changelog](https://github.com/arandomhooman/hoomans-morphe-patches/releases/tag/v1.49.1)  
