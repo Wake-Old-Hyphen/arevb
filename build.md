@@ -1,22 +1,5 @@
-rumble-morphe (arm64-v8a): 3.14.5  
-rumble-morphe (arm-v7a): 3.14.5  
-twitch-morphe (arm64-v8a): 30.7.2  
-twitch-morphe (arm-v7a): 30.7.2  
-battery-guru-morphe (arm64-v8a): 2.5.0.6  
-battery-guru-morphe (arm-v7a): 2.5.0.6  
-money-manager-morphe (arm64-v8a): 4.11.1GF  
-money-manager-morphe (arm-v7a): 4.11.1GF  
-poweramp-morphe (all): build-1025-bundle-play  
-at4k-launcher-morphe (all): 0.99  
-projectivy-launcher-morphe (all): 4.70  
-adobe-acrobat-morphe (arm64-v8a): 26.5.0.45958  
-adobe-acrobat-morphe (arm-v7a): 26.5.0.45958  
-inshot-morphe (arm64-v8a): 2.214.1539  
-inshot-morphe (arm-v7a): 2.214.1539  
-todoist-morphe (arm64-v8a): 12190  
-todoist-morphe (arm-v7a): 12190  
-tumblr-morphe (arm64-v8a): 45.8.0.110  
-tumblr-morphe (arm-v7a): 45.8.0.110  
+google-phone-morphe (arm64-v8a): 161.0.726587057  
+google-phone-morphe (arm-v7a): 161.0.726587057  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
