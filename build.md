@@ -1,7 +1,5 @@
-instagram-instafel (arm64-v8a): 442.0.0.46.79  
-instagram-instafel (arm-v7a): 442.0.0.46.79  
-instagram-instafel-clone (arm64-v8a): 442.0.0.46.79  
-instagram-instafel-clone (arm-v7a): 442.0.0.46.79  
+tiktok-morphe (arm64-v8a): 46.2.3  
+tiktok-morphe (arm-v7a): 46.2.3  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,6 +7,6 @@ instagram-instafel-clone (arm-v7a): 442.0.0.46.79
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: instafel/ifl-patcher-v4.7.0-release.jar  
-Patches: instafel/ifl-patcher-core-b9a884a.jar  
-[Changelog](https://github.com/instafel/pc-rel/releases/tag/b9a884a-4.7.0)  
+CLI: MorpheApp/morphe-desktop-1.13.0-all.jar  
+Patches: icysymmetra/patches-0.7.0-dev.5.mpp  
+[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.7.0-dev.5)  
