@@ -1,8 +1,5 @@
-twitch-morphe (arm64-v8a): 30.7.2  
-twitch-morphe (arm-v7a): 30.7.2  
-adobe-acrobat-morphe (arm64-v8a): 26.7.1.47181  
-tumblr-morphe (arm64-v8a): 45.8.0.110  
-tumblr-morphe (arm-v7a): 45.8.0.110  
+google-photos-morphe (arm64-v8a): 7.89.0.966319819  
+google-photos-morphe (arm-v7a): 7.89.0.966319819  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -11,5 +8,5 @@ tumblr-morphe (arm-v7a): 45.8.0.110
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.1-all.jar  
-Patches: arandomhooman/patches-1.50.3.mpp  
-[Changelog](https://github.com/arandomhooman/hoomans-morphe-patches/releases/tag/v1.50.3)  
+Patches: RookieEnough/patches-1.2.2.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.2.2)  
