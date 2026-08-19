@@ -1,7 +1,7 @@
-amazon-india-morphe (arm64-v8a): 32.12.4.300  
-amazon-india-morphe (arm-v7a): 32.12.4.300  
-rar-morphe (arm64-v8a): 7.23.build134  
-rar-morphe (arm-v7a): 7.23.build134  
+instagram-instafel (arm64-v8a): 443.0.0.48.82  
+instagram-instafel (arm-v7a): 443.0.0.48.82  
+instagram-instafel-clone (arm64-v8a): 443.0.0.48.82  
+instagram-instafel-clone (arm-v7a): 443.0.0.48.82  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,6 +9,6 @@ rar-morphe (arm-v7a): 7.23.build134
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-desktop-1.13.1-all.jar  
-Patches: rushiranpise/patches-1.18.3.mpp  
-[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.18.3)  
+CLI: instafel/ifl-patcher-v4.7.0-release.jar  
+Patches: instafel/ifl-patcher-core-c31b1ab.jar  
+[Changelog](https://github.com/instafel/pc-rel/releases/tag/c31b1ab-4.7.0)  
