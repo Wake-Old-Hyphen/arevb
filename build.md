@@ -1,5 +1,7 @@
-brave-browser-morphe-beta (arm64-v8a): 1.94.112  
-brave-browser-morphe-beta (arm-v7a): 1.94.112  
+amazon-india-morphe (arm64-v8a): 32.12.4.300  
+amazon-india-morphe (arm-v7a): 32.12.4.300  
+rar-morphe (arm64-v8a): 7.23.build134  
+rar-morphe (arm-v7a): 7.23.build134  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +10,5 @@ brave-browser-morphe-beta (arm-v7a): 1.94.112
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.1-all.jar  
-Patches: dh6k/patches-1.2.0.mpp  
-[Changelog](https://github.com/dh6k/morphe-patches/releases/tag/v1.2.0)  
+Patches: rushiranpise/patches-1.18.3.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.18.3)  
