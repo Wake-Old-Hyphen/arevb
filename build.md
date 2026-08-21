@@ -1,9 +1,8 @@
-youtube-anddea (arm64-v8a): 20.51.39  
-youtube-anddea (arm-v7a): 20.51.39  
-youtube-music-anddea (arm64-v8a): 9.15.51  
-youtube-music-anddea (arm-v7a): 9.15.51  
-reddit-morphe-adobo (arm64-v8a): 2026.32.0  
-reddit-morphe-adobo (arm-v7a): 2026.32.0  
+google-photos-morphe (arm64-v8a): 7.89.0.968035987  
+instagram-instafel (arm64-v8a): 443.0.0.48.82  
+instagram-instafel (arm-v7a): 443.0.0.48.82  
+instagram-instafel-clone (arm64-v8a): 443.0.0.48.82  
+instagram-instafel-clone (arm-v7a): 443.0.0.48.82  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -11,9 +10,10 @@ reddit-morphe-adobo (arm-v7a): 2026.32.0
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-desktop-1.13.1-all.jar  
-Patches: anddea/patches-4.3.0-dev.2.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.3.0-dev.2)
+CLI: instafel/ifl-patcher-v4.7.0-release.jar  
+Patches: instafel/ifl-patcher-core-a3b665e.jar  
+[Changelog](https://github.com/instafel/pc-rel/releases/tag/a3b665e-4.7.0)
 
-Patches: jkennethcarino/patches-1.3.1-dev.2.mpp  
-[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.3.1-dev.2)  
+CLI: MorpheApp/morphe-desktop-1.13.1-all.jar  
+Patches: RookieEnough/patches-1.2.2.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.2.2)  
