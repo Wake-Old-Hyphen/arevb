@@ -1,5 +1,3 @@
-reddit-morphe-adobo (arm64-v8a): 2026.34.0  
-reddit-morphe-adobo (arm-v7a): 2026.34.0  
 youtube-morphe (arm64-v8a): 21.04.223  
 youtube-morphe (arm-v7a): 21.04.223  
 youtube-music-morphe (arm64-v8a): 9.15.51  
@@ -20,8 +18,5 @@ reddit-morphe (arm-v7a): 2026.14.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.1-all.jar  
-Patches: jkennethcarino/patches-1.4.0-dev.2.mpp  
-[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.4.0-dev.2)
-
-Patches: MorpheApp/patches-1.40.0-dev.15.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.40.0-dev.15)  
+Patches: MorpheApp/patches-1.40.0-dev.16.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.40.0-dev.16)  
