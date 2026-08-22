@@ -1,3 +1,4 @@
+brave-browser-morphe (arm64-v8a): 1.93.138  
 brave-browser-morphe (arm-v7a): 1.93.138  
 
 **Notes:**  
