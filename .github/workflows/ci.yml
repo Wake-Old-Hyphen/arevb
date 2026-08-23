@@ -9,19 +9,14 @@ concurrency:
   group: ci
   cancel-in-progress: false
 
-# --- ADDED THIS BLOCK TO FIX THE PERMISSION ERROR ---
 permissions:
   contents: write
-# ---------------------------------------------------
 
 jobs:
   check_patch:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    env:
-      CF_BYPASS_SOLVER_TRAWL_8191_ENABLED: "true"
     timeout-minutes: 10
     env:
       CF_BYPASS_SOLVER_TRAWL_8191_ENABLED: "true"
@@ -76,7 +71,7 @@ jobs:
         if: steps.ensure_patch_sources.outputs.created == 'false'
         id: fetch_app_versions
         run: bash .github/scripts/ci_fetch_app_versions.sh
-        
+
       - name: Compare App Versions
         if: steps.ensure_patch_sources.outputs.created == 'false'
         id: compare_apps
@@ -107,19 +102,8 @@ jobs:
           RAW_TRIGGER_APP_UPDATE: ${{ steps.compare_apps.outputs.TRIGGER_APP_UPDATE || '0' }}
         run: bash .github/scripts/ci_resolve_triggers.sh
 
-      - name: Notify telegram
-        if: ${{ steps.ensure_patch_sources.outputs.created == 'false' && (steps.compare.outputs.TRIGGER_STABLE == '1' || steps.compare.outputs.TRIGGER_PRERELEASE == '1' || steps.compare.outputs.TRIGGER_BLOCKED == '1' || steps.compare_apps.outputs.TRIGGER_APP_UPDATE == '1') }}
-        env:
-          TG_TOKEN: ${{ secrets.TG_TOKEN }}
-          TRIGGER_STABLE: ${{ steps.compare.outputs.TRIGGER_STABLE }}
-          TRIGGER_PRERELEASE: ${{ steps.compare.outputs.TRIGGER_PRERELEASE }}
-          TRIGGER_APP_UPDATE: ${{ steps.compare_apps.outputs.TRIGGER_APP_UPDATE }}
-          EFFECTIVE_STABLE: ${{ steps.effective_triggers.outputs.TRIGGER_STABLE }}
-          EFFECTIVE_PRERELEASE: ${{ steps.effective_triggers.outputs.TRIGGER_PRERELEASE }}
-        run: bash .github/scripts/ci_notify_telegram.sh
-
       - name: Commit updated patch sources and configs
-        if: ${{ steps.ensure_patch_sources.outputs.created == 'false' && (steps.compare.outputs.TRIGGER_STABLE == '1' || steps.compare.outputs.TRIGGER_PRERELEASE == '1' || steps.compare.outputs.TRIGGER_BLOCKED == '1' || steps.compare_apps.outputs.TRIGGER_APP_UPDATE == '1') }}
+        if: steps.ensure_patch_sources.outputs.created == 'false' && (steps.compare.outputs.TRIGGER_STABLE == '1' || steps.compare.outputs.TRIGGER_PRERELEASE == '1' || steps.compare.outputs.TRIGGER_BLOCKED == '1' || steps.compare_apps.outputs.TRIGGER_APP_UPDATE == '1')
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: main
@@ -127,39 +111,37 @@ jobs:
           file_pattern: .github/configs/*.json
           commit_message: "Update patch sources, app versions and generated configs [skip ci]"
 
-  build_dev:
-  
-    needs: check_patch
-    if: ${{ needs.check_patch.outputs.trigger_prerelease == '1' }}
-    uses: ./.github/workflows/build.yml
-    with:
-      config_file: ".github/configs/config.dev.updated.json"
-    secrets: inherit
+      - name: Notify telegram
+        if: always()
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_THREAD_ID: ${{ secrets.TG_THREAD_ID }}
+          TRIGGER_STABLE: ${{ steps.effective_triggers.outputs.TRIGGER_STABLE }}
+          TRIGGER_PRERELEASE: ${{ steps.effective_triggers.outputs.TRIGGER_PRERELEASE }}
+        run: bash .github/scripts/ci_notify_telegram.sh || true
 
+  # =============================================
+  # BUILD STABLE
+  # =============================================
   build_stable:
-    needs: [check_patch, build_dev]
-    if: ${{ always() && needs.check_patch.outputs.trigger_stable == '1' && needs.check_patch.result == 'success' && needs.build_dev.result != 'cancelled' }}
+    permissions:
+      contents: write
+    needs: check_patch
+    if: needs.check_patch.outputs.trigger_stable == '1'
     uses: ./.github/workflows/build.yml
     with:
-      config_file: ".github/configs/config.stable.updated.json"
+      config_file: .github/configs/config.stable.updated.json
     secrets: inherit
 
-  trigger_cleanup:
-    needs: [build_dev, build_stable]
-    if: ${{ always() && (needs.build_dev.result == 'success' || needs.build_stable.result == 'success') }}
-    uses: ./.github/workflows/cleanup.yml
-    secrets: inherit
-
-  trigger_website_update:
-    needs: [build_dev, build_stable, trigger_cleanup]
-    if: ${{ always() && (needs.build_dev.result == 'success' || needs.build_stable.result == 'success') }}
-    uses: ./.github/workflows/update-website.yml
-    secrets: inherit
-
-  trigger_notify_failure:
-    needs: [check_patch, build_dev, build_stable]
-    if: ${{ failure() }}
-    uses: ./.github/workflows/notify.yml
+  # =============================================
+  # BUILD DEV / PRERELEASE
+  # =============================================
+  build_dev:
+    permissions:
+      contents: write
+    needs: check_patch
+    if: needs.check_patch.outputs.trigger_prerelease == '1'
+    uses: ./.github/workflows/build.yml
     with:
-      workflow_name: "CI"
+      config_file: .github/configs/config.dev.updated.json
     secrets: inherit
