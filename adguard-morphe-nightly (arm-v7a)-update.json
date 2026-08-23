@@ -1,6 +1,6 @@
 {
-  "version": "v4.14.0 (patches 1.19.0.mpp)",
-  "versionCode": 260269,
-  "zipUrl": "https://github.com/nullcpy/rvb/releases/download/260269/adguard-morphe-nightly-module-v4.14.0-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/nullcpy/rvb/update/build.md"
+  "version": "v4.14.68 (patches 1.20.0.mpp)",
+  "versionCode": 260005,
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260005/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }
