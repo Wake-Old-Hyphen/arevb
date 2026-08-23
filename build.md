@@ -1,5 +1,4 @@
-gboard-morphe (arm64-v8a): 18.0.3.954559732-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 18.0.3.954559732-release-arm64-v8a  
+hbomax-morphe-androidtv (all): 7.9.0.61  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +7,5 @@ gboard-morphe-clone (arm64-v8a): 18.0.3.954559732-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.2-all.jar  
-Patches: jasonwu1994/patches-3.1.0-dev.1.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.1.0-dev.1)  
+Patches: ajstrick81/patches-1.29.1.mpp  
+[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.29.1)  
