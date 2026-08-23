@@ -9,11 +9,19 @@ concurrency:
   group: ci
   cancel-in-progress: false
 
+# --- ADDED THIS BLOCK TO FIX THE PERMISSION ERROR ---
+permissions:
+  contents: write
+# ---------------------------------------------------
+
 jobs:
   check_patch:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      CF_BYPASS_SOLVER_TRAWL_8191_ENABLED: "true"
     timeout-minutes: 10
     env:
       CF_BYPASS_SOLVER_TRAWL_8191_ENABLED: "true"
@@ -120,6 +128,7 @@ jobs:
           commit_message: "Update patch sources, app versions and generated configs [skip ci]"
 
   build_dev:
+  
     needs: check_patch
     if: ${{ needs.check_patch.outputs.trigger_prerelease == '1' }}
     uses: ./.github/workflows/build.yml
