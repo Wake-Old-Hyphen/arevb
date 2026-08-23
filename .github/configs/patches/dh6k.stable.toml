@@ -1,5 +1,5 @@
 [brave-browser-morphe-beta]
-enabled = true
+enabled = false
 pkg-name = "com.brave.browser_beta"
 app-name = "brave-browser"
 rv-brand = "morphe-beta"
@@ -15,7 +15,7 @@ apkcombo-dlurl = "https://apkcombo.com/brave-beta/com.brave.browser_beta"
 github-dlurl = "https://github.com/nullcpy/apks/releases/tag/com.brave.browser_beta"
 
 [brave-browser-morphe-nightly]
-enabled = true
+enabled = flase
 pkg-name = "com.brave.browser_nightly"
 app-name = "brave-browser"
 rv-brand = "morphe-nightly"
