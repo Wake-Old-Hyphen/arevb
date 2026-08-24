@@ -8,8 +8,5 @@ gboard-morphe-clone (arm64-v8a): 18.0.3.954559732-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.13.2-all.jar  
-Patches: jasonwu1994/patches-3.1.0.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.1.0)
-
-Patches: kveld9/patches-1.5.0.mpp  
-[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.5.0)  
+Patches: jasonwu1994/patches-3.2.0-dev.1.mpp  
+[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.2.0-dev.1)  
