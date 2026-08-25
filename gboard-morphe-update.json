@@ -1,6 +1,6 @@
 {
-  "version": "v18.0.3.954559732-release-arm64-v8a (patches 3.2.0.mpp)",
-  "versionCode": 260009,
-  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260009/gboard-morphe-module-v18.0.3.954559732-release-arm64-v8a-arm64-v8a.zip",
+  "version": "v18.0.3.954559732-release-arm64-v8a (patches 3.3.0.mpp)",
+  "versionCode": 260011,
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260011/gboard-morphe-module-v18.0.3.954559732-release-arm64-v8a-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }
