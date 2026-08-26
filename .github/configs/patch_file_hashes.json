@@ -159,8 +159,8 @@
   "imxeren/mix-patches": {
     "dev": {},
     "stable": {
-      "shared": "25450fb22c2926e3a7eec683a0523e91",
-      "tv.trakt.trakt": "59f52251049f3e408956356587a5c78f"
+      "shared": "d973fd1d6c4174c73cd0005647a93f16",
+      "tv.trakt.trakt": "8bf588748fb618ba3479d04c1f994d07"
     }
   },
   "instafel/pc-rel": {
@@ -173,8 +173,8 @@
       "shared": "e6838794fcf04cc9638d6066ec6ed5e6"
     },
     "stable": {
-      "com.google.android.inputmethod.latin": "ef7c93e2bbf58aee715a288c80409013",
-      "shared": "7f9b0d6168a92c1da25be7a891eecdf8"
+      "com.google.android.inputmethod.latin": "c1962e4b2d06bb3640b86c154f54e1bf",
+      "shared": "e0d0595b75b063cf3a9151b64103edf8"
     }
   },
   "jkennethcarino/adobo": {
