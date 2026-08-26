@@ -1,5 +1,7 @@
-proton-mail-morphe (arm64-v8a): 7.10.4[versionCodes:ARM64_V8A=17667,ARMEABI_V7A=17667,X86_64=17667,X86=17667]  
-proton-mail-morphe (arm-v7a): 7.10.4[versionCodes:ARM64_V8A=17667,ARMEABI_V7A=17667,X86_64=17667,X86=17667]  
+google-photos-morphe (arm64-v8a): 7.90.0.970916209  
+google-photos-morphe (arm-v7a): 7.90.0.970916209  
+gboard-morphe (arm64-v8a): 18.0.3.954559732-release-arm64-v8a  
+gboard-morphe-clone (arm64-v8a): 18.0.3.954559732-release-arm64-v8a  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +10,8 @@ proton-mail-morphe (arm-v7a): 7.10.4[versionCodes:ARM64_V8A=17667,ARMEABI_V7A=17
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.14.0-all.jar  
-Patches: hxreborn/patches-1.12.0.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.12.0)  
+Patches: jasonwu1994/patches-3.5.0.mpp  
+[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v3.5.0)
+
+Patches: RookieEnough/patches-1.2.2.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.2.2)  
