@@ -1,6 +1,6 @@
 {
-  "version": "v2.5.1.1 (patches 1.42.0.mpp)",
-  "versionCode": 260023,
-  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260023/xrecorder-morphe-module-v2.5.1.1-arm-v7a.zip",
+  "version": "v2.5.1.1 (patches 1.43.0.mpp)",
+  "versionCode": 260034,
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260034/xrecorder-morphe-module-v2.5.1.1-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }
