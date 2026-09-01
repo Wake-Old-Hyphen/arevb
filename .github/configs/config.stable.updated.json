@@ -467,7 +467,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/tv.trakt.trakt"
   },
   "komoot-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "de.komoot.android",
     "app-name": "komoot",
     "rv-brand": "morphe",
@@ -635,7 +635,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.apps.photos"
   },
   "instagram-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.instagram.android",
     "app-name": "instagram",
     "rv-brand": "morphe",
@@ -1390,7 +1390,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.instagram.android"
   },
   "gboard-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.google.android.inputmethod.latin",
     "app-name": "gboard",
     "rv-brand": "morphe",
@@ -1406,7 +1406,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.inputmethod.latin"
   },
   "gboard-morphe-clone": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.google.android.inputmethod.latin",
     "app-name": "gboard",
     "rv-brand": "morphe-clone",
@@ -1469,7 +1469,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.brave.browser"
   },
   "youtube-morphe-nord": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.youtube",
     "app-name": "youtube",
     "patch-folder": "youtube",
@@ -1486,7 +1486,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.youtube"
   },
   "youtube-morphe-mocha": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.youtube",
     "app-name": "youtube",
     "patch-folder": "youtube",
@@ -1503,7 +1503,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.youtube"
   },
   "youtube-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.youtube",
     "app-name": "youtube",
     "patch-folder": "youtube",
@@ -1519,7 +1519,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.youtube"
   },
   "youtube-music-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.apps.youtube.music",
     "app-name": "youtube-music",
     "patch-folder": "music",
@@ -1535,7 +1535,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.apps.youtube.music"
   },
   "youtube-morphe-exp": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.youtube",
     "app-name": "youtube",
     "patch-folder": "youtube",
@@ -1554,7 +1554,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/youtube/com.google.android.youtube"
   },
   "youtube-music-morphe-exp": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.apps.youtube.music",
     "app-name": "youtube-music",
     "patch-folder": "music",
@@ -1573,7 +1573,7 @@
     "apkcombo-dlurl": "https://apkcombo.com/youtube-music/com.google.android.apps.youtube.music"
   },
   "reddit-morphe-exp": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe-exp",
@@ -1588,7 +1588,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.reddit.frontpage"
   },
   "reddit-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe",
@@ -1603,7 +1603,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.reddit.frontpage"
   },
   "cricbuzz-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.cricbuzz.android",
     "app-name": "cricbuzz",
     "rv-brand": "morphe",
@@ -1618,7 +1618,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.cricbuzz.android"
   },
   "plus-messenger-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "org.telegram.plus",
     "app-name": "plus-messenger",
     "rv-brand": "morphe",
@@ -1633,7 +1633,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.telegram.plus"
   },
   "lumina-wallpapers-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.lumina.wallpapers",
     "app-name": "lumina-wallpapers",
     "rv-brand": "morphe",
@@ -1646,7 +1646,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.lumina.wallpapers"
   },
   "document-scanner-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "alldocumentreader.office.viewer.filereader.pdfviewerscanner",
     "app-name": "document-scanner",
     "rv-brand": "morphe",
@@ -1661,7 +1661,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/alldocumentreader.office.viewer.filereader.pdfviewerscanner"
   },
   "eyecon-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.eyecon.global",
     "app-name": "eyecon",
     "rv-brand": "morphe",
@@ -1676,7 +1676,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.eyecon.global"
   },
   "ticktick-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.ticktick.task",
     "app-name": "ticktick",
     "rv-brand": "morphe",
@@ -1691,7 +1691,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.ticktick.task"
   },
   "sdmaid-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "eu.darken.sdmse",
     "app-name": "sdmaid",
     "rv-brand": "morphe",
@@ -1706,7 +1706,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/eu.darken.sdmse"
   },
   "proton-vpn-morphe-paresh": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "ch.protonvpn.android",
     "app-name": "proton-vpn",
     "rv-brand": "morphe-paresh",
@@ -1722,7 +1722,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/ch.protonvpn.android"
   },
   "truecaller-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.truecaller",
     "app-name": "truecaller",
     "rv-brand": "morphe",
@@ -1738,7 +1738,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.truecaller"
   },
   "fing-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.overlook.android.fing",
     "app-name": "fing",
     "rv-brand": "morphe",
@@ -1753,7 +1753,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.overlook.android.fing"
   },
   "telegram-morphe-foss": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "org.telegram.messenger.web",
     "app-name": "telegram",
     "rv-brand": "morphe-foss",
@@ -1768,7 +1768,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.telegram.messenger.web"
   },
   "macrodroid-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.arlosoft.macrodroid",
     "app-name": "macrodroid",
     "rv-brand": "morphe",
@@ -1783,7 +1783,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.arlosoft.macrodroid"
   },
   "mxplayer-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.mxtech.videoplayer.ad",
     "app-name": "mxplayer",
     "rv-brand": "morphe",
@@ -2026,7 +2026,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "adguard-morphe-nightly": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.adguard.android",
     "app-name": "adguard",
     "rv-brand": "morphe-nightly",
@@ -2040,7 +2040,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.adguard.android"
   },
   "warp-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.cloudflare.onedotonedotonedotone",
     "app-name": "warp",
     "rv-brand": "morphe",
@@ -2053,7 +2053,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "hola-vpn-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "org.hola.play",
     "app-name": "hola-vpn",
     "rv-brand": "morphe",
@@ -2068,7 +2068,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.hola.play"
   },
   "ninja-vpn-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "app.ninjavpn.android",
     "patch-folder": "ninjvapn",
     "app-name": "ninja-vpn",
@@ -2083,7 +2083,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/app.ninjavpn.android"
   },
   "windscribe-vpn-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.windscribe.vpn",
     "app-name": "windscribe-vpn",
     "rv-brand": "morphe",
@@ -2098,7 +2098,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.windscribe.vpn"
   },
   "terabox-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.dubox.drive",
     "app-name": "terabox",
     "rv-brand": "morphe",
@@ -2112,7 +2112,7 @@
     "uptodown-dlurl": "https://terabox.en.uptodown.com/android"
   },
   "accuweather-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.accuweather.android",
     "app-name": "accuweather",
     "rv-brand": "morphe",
@@ -2128,7 +2128,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.accuweather.android"
   },
   "the-weather-channel-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.weather.Weather",
     "app-name": "the-weather-channel",
     "rv-brand": "morphe",
@@ -2144,7 +2144,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.weather.Weather"
   },
   "beta-maniac-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "it.mirko.beta",
     "app-name": "beta-maniac",
     "rv-brand": "morphe",
@@ -2157,7 +2157,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "google-photos-morphe-alt": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.google.android.apps.photos",
     "app-name": "google-photos",
     "rv-brand": "morphe-alt",
@@ -2171,7 +2171,7 @@
     "dpi": "nodpi anydpi auto"
   },
   "moviebox-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.community.mbox.tv",
     "app-name": "moviebox",
     "rv-brand": "morphe-androidtv",
@@ -2183,7 +2183,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.community.mbox.tv"
   },
   "messenger-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.facebook.orca",
     "app-name": "messenger",
     "rv-brand": "morphe",
@@ -2200,7 +2200,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.facebook.orca"
   },
   "pocket-casts-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "au.com.shiftyjelly.pocketcasts",
     "app-name": "pocket-casts",
     "rv-brand": "morphe",
@@ -2215,7 +2215,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/au.com.shiftyjelly.pocketcasts"
   },
   "rar-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.rarlab.rar",
     "app-name": "rar",
     "rv-brand": "morphe",
@@ -2231,7 +2231,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.rarlab.rar"
   },
   "amazon-india-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "in.amazon.mShop.android.shopping",
     "app-name": "amazon-india",
     "rv-brand": "morphe",
