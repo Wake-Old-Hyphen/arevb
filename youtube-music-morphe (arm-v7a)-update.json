@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.40.0.mpp)",
-  "versionCode": 260009,
-  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260009/youtube-music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches 1.41.0.mpp)",
+  "versionCode": 260048,
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260048/youtube-music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }

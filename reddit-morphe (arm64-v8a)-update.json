@@ -1,6 +1,6 @@
 {
-  "version": "v2026.14.0 (patches 1.40.0.mpp)",
-  "versionCode": 260009,
-  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260009/reddit-morphe-module-v2026.14.0-arm64-v8a.zip",
+  "version": "v2026.14.0 (patches 1.41.0.mpp)",
+  "versionCode": 260048,
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260048/reddit-morphe-module-v2026.14.0-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }
