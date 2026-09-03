@@ -1,5 +1,5 @@
-proton-mail-morphe (arm64-v8a): 7.10.4[versionCodes:ARM64_V8A=17667,ARMEABI_V7A=17667,X86_64=17667,X86=17667]  
-proton-mail-morphe (arm-v7a): 7.10.4[versionCodes:ARM64_V8A=17667,ARMEABI_V7A=17667,X86_64=17667,X86=17667]  
+brave-browser-morphe (arm64-v8a): 1.94.119  
+brave-browser-morphe (arm-v7a): 1.94.119  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +8,5 @@ proton-mail-morphe (arm-v7a): 7.10.4[versionCodes:ARM64_V8A=17667,ARMEABI_V7A=17
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.14.0-all.jar  
-Patches: hxreborn/patches-1.14.1.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.14.1)  
+Patches: kveld9/patches-1.11.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.11.0)  
