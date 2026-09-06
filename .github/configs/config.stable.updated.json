@@ -760,7 +760,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/jp.pxv.android"
   },
   "strava-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.strava",
     "app-name": "strava",
     "rv-brand": "morphe",
