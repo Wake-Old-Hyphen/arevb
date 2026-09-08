@@ -1,10 +1,16 @@
-prime-video-morphe-androidtv (arm-v7a): 6.23.23+v15.5.0.70-armv7a  
-hbomax-morphe-androidtv (all): 7.9.0.61  
-peacock-morphe-androidtv (all): 7.8.100  
-tubi-morphe-androidtv (all): 10.28.5000  
-vix-morphe-androidtv (all): 4.46.0_tv  
-plutotv-morphe-androidtv (all): 5.66.0-leanback  
-netflix-morphe-androidtv (arm-v7a): 13.0.1build25028  
+hola-vpn-morphe (arm64-v8a): AARCH64_1.248.400  
+accuweather-morphe (arm64-v8a): 21.1.15-3-rc[versionCodes:ARM64_V8A=210115003,ARMEABI_V7A=210115003,X86_64=210115003,X86=210115003]  
+accuweather-morphe (arm-v7a): 21.1.15-3-rc[versionCodes:ARM64_V8A=210115003,ARMEABI_V7A=210115003,X86_64=210115003,X86=210115003]  
+the-weather-channel-morphe (arm64-v8a): 16.19.1[versionCodes:ARM64_V8A=1080014279,ARMEABI_V7A=1080014279,X86_64=1080014279,X86=1080014279]  
+the-weather-channel-morphe (arm-v7a): 16.19.1[versionCodes:ARM64_V8A=1080014279,ARMEABI_V7A=1080014279,X86_64=1080014279,X86=1080014279]  
+google-photos-morphe-alt (arm64-v8a): 7.90.0.971743778  
+google-photos-morphe-alt (arm-v7a): 7.90.0.971743778  
+messenger-morphe (arm64-v8a): 576.0.0.47.92[versionCodes:ARMEABI_V7A=345212666,ARM64_V8A=345212670]  
+messenger-morphe (arm-v7a): 576.0.0.47.92[versionCodes:ARMEABI_V7A=345212666,ARM64_V8A=345212670]  
+rar-morphe (arm64-v8a): 7.23.build134[versionCodes:ARM64_V8A=134,ARMEABI_V7A=134,X86_64=134,X86=134]  
+rar-morphe (arm-v7a): 7.23.build134[versionCodes:ARM64_V8A=134,ARMEABI_V7A=134,X86_64=134,X86=134]  
+amazon-india-morphe (arm64-v8a): 32.16.2.300[versionCodes:ARM64_V8A=1243222206,ARMEABI_V7A=1243222206,X86_64=1243222206,X86=1243222206]  
+amazon-india-morphe (arm-v7a): 32.16.2.300[versionCodes:ARM64_V8A=1243222206,ARMEABI_V7A=1243222206,X86_64=1243222206,X86=1243222206]  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -13,5 +19,8 @@ netflix-morphe-androidtv (arm-v7a): 13.0.1build25028
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.0-all.jar  
-Patches: ajstrick81/patches-1.35.0.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.35.0)  
+Patches: hxreborn/patches-1.16.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.16.0)
+
+Patches: rushiranpise/patches-1.21.5.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.21.5)  
