@@ -13,8 +13,5 @@ netflix-morphe-androidtv (arm-v7a): 13.0.1build25028
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.0-all.jar  
-Patches: ajstrick81/patches-1.34.1.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.34.1)
-
-Patches: hxreborn/patches-1.15.0.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.15.0)  
+Patches: ajstrick81/patches-1.35.0.mpp  
+[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.35.0)  
