@@ -1,11 +1,7 @@
-youtube-morphe (arm64-v8a): 21.13.164  
-youtube-morphe (arm-v7a): 21.13.164  
-youtube-music-morphe (arm64-v8a): 9.15.51  
-youtube-music-morphe (arm-v7a): 9.15.51  
-youtube-morphe-exp (arm64-v8a): 21.36.45  
-youtube-morphe-exp (arm-v7a): 21.36.45  
-youtube-music-morphe-exp (arm64-v8a): 9.35.54  
-youtube-music-morphe-exp (arm-v7a): 9.35.54  
+discord-xposed (arm64-v8a): 343.12-Stable  
+discord-xposed (arm-v7a): 343.12-Stable  
+brave-browser-morphe (arm64-v8a): 1.94.121  
+brave-browser-morphe (arm-v7a): 1.94.121  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -14,5 +10,9 @@ youtube-music-morphe-exp (arm-v7a): 9.35.54
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.0-all.jar  
-Patches: MorpheApp/patches-1.42.0-dev.9.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.42.0-dev.9)  
+Patches: kveld9/patches-1.16.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.16.0)
+
+CLI: 7723mod/jar-v1.0.7-741-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1603)  
