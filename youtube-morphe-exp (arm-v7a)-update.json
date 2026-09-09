@@ -1,6 +1,6 @@
 {
-  "version": "v21.35.442 (patches 1.41.0.mpp)",
-  "versionCode": 260048,
-  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260048/youtube-morphe-exp-module-v21.35.442-arm-v7a.zip",
+  "version": "v21.36.45 (patches 1.42.0.mpp)",
+  "versionCode": 260085,
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260085/youtube-morphe-exp-module-v21.36.45-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }
