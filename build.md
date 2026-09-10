@@ -1,7 +1,9 @@
-twitter-morphe (arm64-v8a): 12.19.1-release.0  
-twitter-morphe (arm-v7a): 12.19.1-release.0  
-twitter-morphe-materialu (arm64-v8a): 12.19.1-release.0  
-twitter-morphe-materialu (arm-v7a): 12.19.1-release.0  
+calorie-counter-morphe (arm64-v8a): 11.8.0.5  
+calorie-counter-morphe (arm-v7a): 11.8.0.5  
+soundcloud-morphe-alt (arm64-v8a): 2026.08.26-release  
+soundcloud-morphe-alt (arm-v7a): 2026.08.26-release  
+brave-browser-morphe (arm64-v8a): 1.94.121  
+brave-browser-morphe (arm-v7a): 1.94.121  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,6 +11,9 @@ twitter-morphe-materialu (arm-v7a): 12.19.1-release.0
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-desktop-1.15.0-all.jar  
-Patches: crimera/patches-3.10.0-dev.6.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.6)  
+CLI: MorpheApp/morphe-desktop-1.15.1-all.jar  
+Patches: kondratjev/patches-1.23.0.mpp  
+[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.23.0)
+
+Patches: kveld9/patches-1.17.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.17.0)  
