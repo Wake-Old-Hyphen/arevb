@@ -1,15 +1,16 @@
-youtube-morphe (arm64-v8a): 21.13.164  
-youtube-morphe (arm-v7a): 21.13.164  
-youtube-music-morphe (arm64-v8a): 9.15.51  
-youtube-music-morphe (arm-v7a): 9.15.51  
-youtube-morphe-exp (arm64-v8a): 21.36.45  
-youtube-morphe-exp (arm-v7a): 21.36.45  
-youtube-music-morphe-exp (arm64-v8a): 9.35.54  
-youtube-music-morphe-exp (arm-v7a): 9.35.54  
-reddit-morphe-exp (arm64-v8a): 2026.35.0  
-reddit-morphe-exp (arm-v7a): 2026.35.0  
-reddit-morphe (arm64-v8a): 2026.14.0  
-reddit-morphe (arm-v7a): 2026.14.0  
+google-photos-morphe (arm64-v8a): 7.92.0.977185651  
+google-photos-morphe (arm-v7a): 7.92.0.977185651  
+google-recorder-morphe (arm64-v8a): 4.2.20260709.976121876  
+photomath-morphe (arm64-v8a): 8.48.0  
+photomath-morphe (arm-v7a): 8.48.0  
+viber-morphe (arm64-v8a): 26.1.2.0  
+viber-morphe (arm-v7a): 26.1.2.0  
+pixiv-morphe (arm64-v8a): 6.141.1  
+pixiv-morphe (arm-v7a): 6.141.1  
+strava-morphe (arm64-v8a): 477.14  
+strava-morphe (arm-v7a): 477.14  
+brave-browser-morphe (arm64-v8a): 1.94.121  
+brave-browser-morphe (arm-v7a): 1.94.121  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -18,5 +19,8 @@ reddit-morphe (arm-v7a): 2026.14.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.1-all.jar  
-Patches: MorpheApp/patches-1.42.1-dev.1.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.42.1-dev.1)  
+Patches: kveld9/patches-1.18.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.18.0)
+
+Patches: RookieEnough/patches-1.3.3.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.3.3)  
