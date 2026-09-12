@@ -1,3 +1,5 @@
+discord-xposed (arm64-v8a): 344.13-Stable  
+discord-xposed (arm-v7a): 344.13-Stable  
 proton-mail-morphe (arm64-v8a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18317,X86_64=18317,X86=18317]  
 proton-mail-morphe (arm-v7a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18317,X86_64=18317,X86=18317]  
 
@@ -8,5 +10,9 @@ proton-mail-morphe (arm-v7a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.1-all.jar  
-Patches: hxreborn/patches-1.19.1.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.19.1)  
+Patches: hxreborn/patches-1.20.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.20.0)
+
+CLI: 7723mod/jar-v1.0.7-741-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1603)  
