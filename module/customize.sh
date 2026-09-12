@@ -32,19 +32,12 @@ else
 	fi
 fi
 
+IS_SYSTEM_APP=false
 INS=true
 if BASEPATH=$(get_basepath); then
-	if [ "${BASEPATH:1:4}" != data ]; then
-		ui_print "* Detected $PKG_NAME as a system app"
-		SCNM="/data/adb/post-fs-data.d/$PKG_NAME-uninstall.sh"
-		mkdir -p /data/adb/post-fs-data.d
-		echo "mount -t tmpfs none $BASEPATH" >"$SCNM"
-		chmod +x "$SCNM"
-		ui_print ""
-		ui_print "* Created the uninstall script."
-		ui_print ""
-		ui_print "* Reflash after a reboot to complete installation."
-		exit 0
+	if [ "${BASEPATH:1:4}" != "data" ]; then
+		IS_SYSTEM_APP=true
+		ui_print "* $PKG_NAME is a system app"
 	fi
 
 	VERSION=$(get_app_version)
@@ -57,12 +50,6 @@ if BASEPATH=$(get_basepath); then
 			module:    '$PKG_VER'"
 		abort
 	fi
-
-	# TODO:
-	# elif "${MODPATH:?}/bin/$ARCH/cmpr" "$BASEPATH/base.apk" "$MODPATH/$PKG_NAME.apk"; then
-	# 	ui_print "* $PKG_NAME is up-to-date"
-	# 	INS=false
-	# fi
 fi
 
 install() {
@@ -98,14 +85,22 @@ install() {
 		if ! op=$(pmex install-commit "$SES"); then
 			ui_print "$op"
 			if echo "$op" | grep -q -e INSTALL_FAILED_VERSION_DOWNGRADE -e INSTALL_FAILED_UPDATE_INCOMPATIBLE -e INSTALL_FAILED_DUPLICATE; then
-				ex_unins_arg=""
-				if echo "$op" | grep -q INSTALL_FAILED_DUPLICATE; then
-					ui_print "* Uninstalling without data loss..."
-					ex_unins_arg="-k"
-				else
-					ui_print "* Uninstalling..."
+				if [ "$IS_SYSTEM_APP" = true ]; then
+					mkdir -p /data/adb/rvhc/empty /data/adb/post-fs-data.d
+					chcon u:object_r:system_file:s0 /data/adb/rvhc/empty
+					P="/data/adb/post-fs-data.d/$PKG_NAME-uninstall.sh"
+					echo "mount -o bind /data/adb/rvhc/empty ${BASEPATH}" >"$P"
+					chmod +x "$P"
+
+					ui_print "* Created the uninstall script."
+					ui_print ""
+					ui_print "* Reboot and reflash the module!"
+					install_err=" "
+					break
 				fi
-				if ! op=$(pmex uninstall --user 0 $ex_unins_arg "$PKG_NAME"); then
+
+				ui_print "* Uninstalling..."
+				if ! op=$(pmex uninstall --user 0 "$PKG_NAME"); then
 					ui_print "$op"
 					if [ $IT = 2 ]; then
 						install_err="ERROR: pm uninstall failed."
@@ -151,7 +146,7 @@ ui_print "* Mounting $PKG_NAME"
 mkdir -p "/data/adb/rvhc"
 mv -f "$MODPATH/base.apk" "$RVPATH"
 
-if ! op=$(mm mount -o bind "$RVPATH" "$BASEPATH/base.apk" 2>&1); then
+if ! op=$(su -M -c mount -o bind "$RVPATH" "$BASEPATH/base.apk" 2>&1); then
 	ui_print "ERROR: Mount failed!"
 	ui_print "$op"
 fi
@@ -172,8 +167,7 @@ if [ "$KSU" ]; then
 	if [ "$UID" ]; then
 		if ! OP=$("${MODPATH:?}/bin/$ARCH/ksu_profile" "$UID" "$PKG_NAME" 2>&1); then
 			ui_print "  $OP"
-			ui_print "* Because you are using a fork of KernelSU, "
-			ui_print "  * you need to go to your root manager app and"
+			ui_print "  * In your root manager app,"
 			ui_print "    disable 'Unmount modules' for $PKG_NAME"
 		fi
 	else
