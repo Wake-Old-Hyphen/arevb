@@ -1,5 +1,7 @@
-proton-mail-morphe (arm64-v8a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18317,X86_64=18317,X86=18317]  
-proton-mail-morphe (arm-v7a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18317,X86_64=18317,X86=18317]  
+twitter-morphe (arm64-v8a): 12.19.1-release.0  
+twitter-morphe (arm-v7a): 12.19.1-release.0  
+twitter-morphe-materialu (arm64-v8a): 12.19.1-release.0  
+twitter-morphe-materialu (arm-v7a): 12.19.1-release.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +10,5 @@ proton-mail-morphe (arm-v7a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.1-all.jar  
-Patches: hxreborn/patches-1.20.4.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.20.4)  
+Patches: crimera/patches-3.10.0-dev.7.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.7)  
