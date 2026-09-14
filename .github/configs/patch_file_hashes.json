@@ -159,7 +159,7 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "014ffe504c768741eb2cc27c4ac460fa",
+      "com.zhiliaoapp.musically": "f197950837dfe231b1a631043d2cc65a",
       "shared": "4c8e9750b338baa9b2956091fbe5841a"
     },
     "stable": {
@@ -214,8 +214,8 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "19a7f7d24bd712c0324e96f578d8f6fc",
-      "shared": "fc12671aa86e19c39c70b7612d805b66"
+      "com.brave.browser": "2d2b39325854f228bcfeaad1ef6b7bc3",
+      "shared": "da5e82a57b47551aeab3da70e233c241"
     }
   },
   "morpheapp/morphe-patches": {
