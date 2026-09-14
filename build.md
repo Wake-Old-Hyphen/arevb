@@ -1,4 +1,5 @@
-brave-browser-morphe (arm-v7a): 1.95.101  
+tiktok-morphe (arm64-v8a): 46.2.3  
+tiktok-morphe (arm-v7a): 46.2.3  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -7,5 +8,5 @@ brave-browser-morphe (arm-v7a): 1.95.101
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.16.0-all.jar  
-Patches: kveld9/patches-1.27.0.mpp  
-[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.27.0)  
+Patches: icysymmetra/patches-0.8.0-dev.11.mpp  
+[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.8.0-dev.11)  
