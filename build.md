@@ -1,23 +1,5 @@
-microsoft-edge-morphe (arm64-v8a): 152.0.4191.65  
-microsoft-edge-morphe (arm-v7a): 152.0.4191.65  
-proton-mail-morphe (arm64-v8a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18317,X86_64=18317,X86=18317]  
-proton-mail-morphe (arm-v7a): 7.11.5[versionCodes:ARM64_V8A=18317,ARMEABI_V7A=18317,X86_64=18317,X86=18317]  
-youtube-morphe-nord (arm64-v8a): 21.13.164  
-youtube-morphe-nord (arm-v7a): 21.13.164  
-youtube-morphe-mocha (arm64-v8a): 21.13.164  
-youtube-morphe-mocha (arm-v7a): 21.13.164  
-youtube-morphe (arm64-v8a): 21.13.164  
-youtube-morphe (arm-v7a): 21.13.164  
-youtube-music-morphe (arm64-v8a): 9.15.51  
-youtube-music-morphe (arm-v7a): 9.15.51  
-youtube-morphe-exp (arm64-v8a): 21.36.45  
-youtube-morphe-exp (arm-v7a): 21.36.45  
-youtube-music-morphe-exp (arm64-v8a): 9.36.50  
-youtube-music-morphe-exp (arm-v7a): 9.36.50  
-reddit-morphe-exp (arm64-v8a): 2026.37.0  
-reddit-morphe-exp (arm-v7a): 2026.37.0  
-reddit-morphe (arm64-v8a): 2026.14.0  
-reddit-morphe (arm-v7a): 2026.14.0  
+tiktok-morphe (arm64-v8a): 46.2.3  
+tiktok-morphe (arm-v7a): 46.2.3  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -26,14 +8,5 @@ reddit-morphe (arm-v7a): 2026.14.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.15.1-all.jar  
-Patches: hxreborn/patches-1.22.0.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.22.0)
-
-Patches: kveld9/patches-1.24.0.mpp  
-[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.24.0)
-
-Patches: MorpheApp/patches-1.43.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.43.0)
-
-Patches: quantavil/patches-1.36.1.mpp  
-[Changelog](https://github.com/quantavil/edge-morphe-patches/releases/tag/v1.36.1)  
+Patches: icysymmetra/patches-0.8.0-dev.10.mpp  
+[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.8.0-dev.10)  
