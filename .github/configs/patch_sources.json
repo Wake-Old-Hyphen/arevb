@@ -7,10 +7,10 @@
   },
   "devanced": {
     "repo": "RookieEnough/De-Vanced",
-    "stable": "v1.4.0",
+    "stable": "v1.4.2",
     "prerelease": "v1.4.1-dev.1",
     "blocked": false,
-    "stable_date": "2026-09-11T17:03:28Z",
+    "stable_date": "2026-09-15T11:45:50Z",
     "pre_date": "2026-09-13T09:27:00Z"
   },
   "anddea": {
@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.43.0",
-    "prerelease": "v1.43.0-dev.7",
+    "prerelease": "v1.43.1-dev.2",
     "blocked": false,
     "stable_date": "2026-09-14T12:57:41Z",
-    "pre_date": "2026-09-14T10:12:45Z"
+    "pre_date": "2026-09-15T11:58:50Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.22.0",
-    "stable_date": "2026-09-14T14:12:59Z",
+    "stable": "v1.23.0",
+    "stable_date": "2026-09-15T05:51:29Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false

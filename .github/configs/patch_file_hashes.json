@@ -152,9 +152,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "e60de2206a377c196ab0869980f053d2",
+      "ch.protonmail.android": "759e59ff983b247540370eacf5dc347a",
       "com.michaldrabik.showly2": "467a225092a9950bf586e4fea6d6ad99",
-      "shared": "242afa0e2bcafca2a672a1ef008aacce"
+      "shared": "120ce607112f2536ba363d1dc11084fd"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -220,10 +220,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "19b1e85a1fe744379d88acbb94eae675",
-      "com.google.android.youtube": "5d834e29f33359b180ec3f8e5db78cbc",
-      "com.reddit.frontpage": "83b50d08493a31ed2f0a1131467bd767",
-      "shared": "977388f6ceb0081814ddbb699b232b2f"
+      "com.google.android.apps.youtube.music": "cbbf1bfa6c4d8af4fb14786a8d4c6484",
+      "com.google.android.youtube": "f463a763a35df9c6bea7022ac61733f1",
+      "com.reddit.frontpage": "569f7eb9334163efdffd8a0715e61d26",
+      "shared": "90075e2cd54a18d840affd66456acf5e"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "d0fac8952bcb3c5e898f43a9af93f87c",
@@ -269,13 +269,13 @@
     },
     "stable": {
       "com.adobe.psmobile": "b9667c696d47df8cdce969af2eec1d75",
-      "com.google.android.apps.photos": "235e86c23e3b2e19f5cba5b5af3f466c",
-      "com.google.android.apps.recorder": "e70e3cd9663b4cf744c6cac8d3608967",
-      "com.microblink.photomath": "9fa368aa396bf143800a21258c9902ee",
+      "com.google.android.apps.photos": "7be47d5f7d30b6b00723010f69467ecc",
+      "com.google.android.apps.recorder": "5152383ce38e3454e36ec67b6b348e25",
+      "com.microblink.photomath": "fc0e894721c1469757865985103c10f0",
       "com.microsoft.lens": "84dfa71a873a4e353ff3e27cdf4ead82",
-      "com.strava": "38cba2f0c2057df5ff0ea0542dc2c4ac",
-      "com.viber.voip": "461cf1010fe9b6678ede0fd7e11dc5a7",
-      "jp.pxv.android": "6bb89cdb2e06487befdbe8bba03d9b36",
+      "com.strava": "23c284485e0f571d94d5ceabf9f69e70",
+      "com.viber.voip": "78e3d52707a0cedf260d99add0de6c1d",
+      "jp.pxv.android": "815bf175611d7fd76ebbbf57d634629c",
       "shared": "c7c0b1ab00a768a24f19783c60c69f3b"
     }
   },
