@@ -4,7 +4,7 @@
     "stable": {
       "com.amazon.amazonvideo.livingroom": "def42a8de5e286140b0dab4ffe36aedb",
       "com.disney.disneyplus": "7d34a9626400902f133b5016887509f8",
-      "com.netflix.ninja": "da8e66d3332f1d63c42f00c05036243a",
+      "com.netflix.ninja": "db9bdba0cf971d916d921b722955cc4e",
       "com.peacocktv.peacockandroid": "7ff4398760822eebd22cc15045755afd",
       "com.tubitv": "ad4cfa4b600c6451571625a911aace33",
       "com.univision.prendetv": "af7f8e042bd4b56df21f80a2c99ac58f",
@@ -214,8 +214,8 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "2d2b39325854f228bcfeaad1ef6b7bc3",
-      "shared": "da5e82a57b47551aeab3da70e233c241"
+      "com.brave.browser": "fd5637131e8c32c03efe295a0b7749c9",
+      "shared": "35b8fe4c209cddf64ad67e3d5d8c4e28"
     }
   },
   "morpheapp/morphe-patches": {
