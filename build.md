@@ -1,7 +1,8 @@
-calorie-counter-morphe (arm64-v8a): 11.8.0.5  
-calorie-counter-morphe (arm-v7a): 11.8.0.5  
-soundcloud-morphe-alt (arm64-v8a): 2026.08.26-release  
-soundcloud-morphe-alt (arm-v7a): 2026.08.26-release  
+brave-browser-morphe (arm64-v8a): 1.95.101  
+brave-browser-morphe (arm-v7a): 1.95.101  
+hola-vpn-morphe (arm64-v8a): AARCH64_1.248.400  
+google-photos-morphe-alt (arm64-v8a): 7.92.0.977185651  
+google-photos-morphe-alt (arm-v7a): 7.92.0.977185651  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,5 +11,8 @@ soundcloud-morphe-alt (arm-v7a): 2026.08.26-release
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.16.0-all.jar  
-Patches: kondratjev/patches-1.24.0.mpp  
-[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.24.0)  
+Patches: kveld9/patches-1.30.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.30.0)
+
+Patches: rushiranpise/patches-1.22.0.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.22.0)  
