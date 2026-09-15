@@ -215,7 +215,7 @@
     "dev": {},
     "stable": {
       "com.brave.browser": "fd5637131e8c32c03efe295a0b7749c9",
-      "shared": "35b8fe4c209cddf64ad67e3d5d8c4e28"
+      "shared": "bbe027176f2b7e9a5b68f93d47fd766a"
     }
   },
   "morpheapp/morphe-patches": {
@@ -282,21 +282,21 @@
   "rushiranpise/morphe-patches": {
     "dev": {},
     "stable": {
-      "app.ninjavpn.android": "b1ae56319815a5c71ae77b09ead7287a",
-      "au.com.shiftyjelly.pocketcasts": "2bf3a2fb9d4e5529f7675b95ab54bbde",
-      "com.accuweather.android": "e13ff759ba0fc5ed0b9a2ea78a87e38c",
-      "com.adguard.android": "82b7f029fe04d6960aa4a74e34f9bf2f",
-      "com.cloudflare.onedotonedotonedotone": "5877e0f73f2c8227ba5d96ac4b6a8d20",
+      "app.ninjavpn.android": "c30ff1490a44b88ffd4c7c717044f25a",
+      "au.com.shiftyjelly.pocketcasts": "c5c092228e9a43ab49b3707e1b6f7dc1",
+      "com.accuweather.android": "2049a5ca24003b6ed4ced6f0c520d6eb",
+      "com.adguard.android": "5b2b7a02e6f99456e95cd0300799e011",
+      "com.cloudflare.onedotonedotonedotone": "e482dea53e48b8e01b9ab4617f2a22a1",
       "com.community.mbox.tv": "d41d8cd98f00b204e9800998ecf8427e",
       "com.dubox.drive": "d41d8cd98f00b204e9800998ecf8427e",
-      "com.facebook.orca": "aebed6c65320b234af9f2f23041dfea8",
-      "com.google.android.apps.photos": "6fdd9d53b73d460381ba584cbc0876ee",
-      "com.rarlab.rar": "d286d2f2af5660cfc31b027880b25dd2",
-      "com.weather.Weather": "77b3cda6914cfaa05b4447188d9daffa",
-      "com.windscribe.vpn": "52a1a2c98abed75013f50fb1886d3f2f",
-      "in.amazon.mShop.android.shopping": "6281daaca055b834db82e35a47e1ff83",
-      "it.mirko.beta": "55e46cd291285f9aee3fb9d5d7d77e08",
-      "org.hola.play": "bfc7c32f1e7479f6f98984db08d3f236",
+      "com.facebook.orca": "4ec3053b35298ac5b69c3d43fbebdd24",
+      "com.google.android.apps.photos": "a519146c3007fff8b0aa93a1eda164b4",
+      "com.rarlab.rar": "bb2ae9a3e9129de23d2f75034ceb0534",
+      "com.weather.Weather": "c74470ad064208d8246289b0342ac520",
+      "com.windscribe.vpn": "371910661a688b92d7bfe1a8b54b7b83",
+      "in.amazon.mShop.android.shopping": "6901649f342501d6f941ff6a52811b26",
+      "it.mirko.beta": "9b4e60af84fb2b247a68fbbba0a6945e",
+      "org.hola.play": "bf0d9efd9e415b358359702c472eeb83",
       "shared": "3feee68e9fca7acb1461160dc0edc12a"
     }
   }
