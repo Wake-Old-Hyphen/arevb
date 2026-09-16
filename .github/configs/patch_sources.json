@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.37.1",
+    "stable": "v1.37.2",
     "prerelease": "v1.5.7-dev.3",
     "blocked": false,
-    "stable_date": "2026-09-15T00:22:58Z",
+    "stable_date": "2026-09-16T19:17:05Z",
     "pre_date": "2026-06-26T16:45:34Z"
   },
   "revenge": {
@@ -223,8 +223,8 @@
   },
   "instafel": {
     "repo": "instafel/pc-rel",
-    "stable": "a3b665e-4.7.0",
-    "stable_date": "2026-08-21T14:07:19Z",
+    "stable": "db441b9-4.7.0",
+    "stable_date": "2026-09-16T15:07:16Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
@@ -279,8 +279,8 @@
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
-    "stable": "v1.31.0",
-    "stable_date": "2026-09-16T04:23:24Z",
+    "stable": "v1.31.2",
+    "stable_date": "2026-09-16T17:56:22Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
