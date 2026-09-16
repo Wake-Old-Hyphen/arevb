@@ -215,7 +215,7 @@
     "dev": {},
     "stable": {
       "com.brave.browser": "fd5637131e8c32c03efe295a0b7749c9",
-      "shared": "bbe027176f2b7e9a5b68f93d47fd766a"
+      "shared": "f068b78ffa9d7ba71642fb19fdc41a2c"
     }
   },
   "morpheapp/morphe-patches": {
