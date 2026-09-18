@@ -8,5 +8,5 @@ brave-browser-morphe (arm-v7a): 1.95.101
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.16.0-all.jar  
-Patches: kveld9/patches-1.38.2.mpp  
-[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.38.2)  
+Patches: kveld9/patches-1.41.1.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v1.41.1)  
