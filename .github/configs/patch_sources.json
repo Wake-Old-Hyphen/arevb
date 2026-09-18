@@ -8,26 +8,26 @@
   "devanced": {
     "repo": "RookieEnough/De-Vanced",
     "stable": "v1.4.2",
-    "prerelease": "v1.4.3-dev.1",
+    "prerelease": "v1.4.3-dev.2",
     "blocked": false,
     "stable_date": "2026-09-15T11:45:50Z",
-    "pre_date": "2026-09-17T19:37:17Z"
+    "pre_date": "2026-09-18T13:02:28Z"
   },
   "anddea": {
     "repo": "anddea/revanced-patches",
     "stable": "v4.2.0",
-    "prerelease": "v4.3.0-dev.6",
+    "prerelease": "v4.3.0-dev.7",
     "blocked": false,
     "stable_date": "2026-08-07T15:03:16Z",
-    "pre_date": "2026-09-11T16:19:31Z"
+    "pre_date": "2026-09-18T15:59:41Z"
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.43.0",
-    "prerelease": "v1.44.0-dev.5",
+    "prerelease": "v1.44.0-dev.6",
     "blocked": false,
     "stable_date": "2026-09-14T12:57:41Z",
-    "pre_date": "2026-09-18T07:55:08Z"
+    "pre_date": "2026-09-18T16:39:09Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -207,18 +207,18 @@
   },
   "kondratjev": {
     "repo": "kondratjev/morphe-patches",
-    "stable": "v1.24.0",
-    "stable_date": "2026-09-15T15:25:21Z",
-    "prerelease": "v1.24.0-dev.1",
-    "pre_date": "2026-09-15T15:21:18Z",
+    "stable": "v1.25.0",
+    "stable_date": "2026-09-18T17:35:05Z",
+    "prerelease": "v1.25.0-dev.1",
+    "pre_date": "2026-09-18T17:23:20Z",
     "blocked": false
   },
   "gboard": {
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "custom-theme-previews-v1",
     "stable_date": "2026-09-17T16:50:03Z",
-    "prerelease": "v3.10.0-dev.3",
-    "pre_date": "2026-09-01T22:42:41Z",
+    "prerelease": "v3.11.0-dev.2",
+    "pre_date": "2026-09-18T14:38:25Z",
     "blocked": false
   },
   "instafel": {
