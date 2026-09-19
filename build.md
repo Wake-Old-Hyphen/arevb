@@ -1,10 +1,11 @@
-prime-video-morphe-androidtv (arm-v7a): 6.23.23+v15.5.0.70-armv7a  
-hbomax-morphe-androidtv (all): 7.9.0.61  
-peacock-morphe-androidtv (all): 7.8.100  
-tubi-morphe-androidtv (all): 10.28.5000  
-vix-morphe-androidtv (all): 4.46.0_tv  
-plutotv-morphe-androidtv (all): 5.66.0-leanback  
-netflix-morphe-androidtv (arm-v7a): 13.0.1build25028  
+youtube-morphe (arm64-v8a): 21.16.256  
+youtube-morphe (arm-v7a): 21.16.256  
+youtube-music-morphe (arm64-v8a): 9.15.51  
+youtube-music-morphe (arm-v7a): 9.15.51  
+youtube-morphe-exp (arm64-v8a): 21.38.123  
+youtube-morphe-exp (arm-v7a): 21.38.123  
+youtube-music-morphe-exp (arm64-v8a): 9.36.50  
+youtube-music-morphe-exp (arm-v7a): 9.36.50  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -13,5 +14,5 @@ netflix-morphe-androidtv (arm-v7a): 13.0.1build25028
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.16.0-all.jar  
-Patches: ajstrick81/patches-1.37.3.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.37.3)  
+Patches: MorpheApp/patches-1.44.0-dev.8.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.44.0-dev.8)  
