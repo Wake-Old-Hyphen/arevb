@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.43.0",
-    "prerelease": "v1.44.0-dev.8",
+    "prerelease": "v1.44.0-dev.10",
     "blocked": false,
     "stable_date": "2026-09-14T12:57:41Z",
-    "pre_date": "2026-09-19T11:51:27Z"
+    "pre_date": "2026-09-19T15:45:23Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -47,11 +47,11 @@
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
-    "stable": "v1.4.0",
-    "prerelease": "v1.5.0-dev.2",
+    "stable": "v1.5.0",
+    "prerelease": "v1.5.0-dev.4",
     "blocked": false,
-    "stable_date": "2026-08-31T17:13:01Z",
-    "pre_date": "2026-09-06T15:04:24Z"
+    "stable_date": "2026-09-19T15:26:04Z",
+    "pre_date": "2026-09-19T15:22:24Z"
   },
   "rvexp": {
     "repo": "Aunali321/ReVancedExperiments",

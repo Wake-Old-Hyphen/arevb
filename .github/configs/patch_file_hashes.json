@@ -190,12 +190,12 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "f493579d5bf1ef758cddac331ae02938",
+      "com.reddit.frontpage": "ef6b5f0bd591c6a80e0c4d7d3f3627aa",
       "shared": "d951daa79b374c4a5554ac8cee2acbeb"
     },
     "stable": {
       "com.imdb.mobile": "d09462d6bd0e422d7586a2c679626b83",
-      "com.reddit.frontpage": "2d779742ea0e5c2e8fa743a7859462b2",
+      "com.reddit.frontpage": "ef6b5f0bd591c6a80e0c4d7d3f3627aa",
       "shared": "d951daa79b374c4a5554ac8cee2acbeb"
     }
   },
@@ -220,10 +220,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "c50b981a042f188b56e80d6f0c07f03f",
-      "com.google.android.youtube": "f5d05716140a71e0a97dc92fce419013",
-      "com.reddit.frontpage": "569f7eb9334163efdffd8a0715e61d26",
-      "shared": "15acc84bec8476ff0a246706e7c0b822"
+      "com.google.android.apps.youtube.music": "c827ab08c0282ecb40618225468b3ea5",
+      "com.google.android.youtube": "ee89c36e719201a37c51eed866ccf0a5",
+      "com.reddit.frontpage": "3e8eeeb8e27553038933e95c92c1cb60",
+      "shared": "e352dbb1917d2766b04000d8cbc9ed12"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "d0fac8952bcb3c5e898f43a9af93f87c",
