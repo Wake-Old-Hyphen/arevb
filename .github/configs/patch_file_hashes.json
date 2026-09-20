@@ -152,9 +152,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "6f939688ac1431babef0ab8e397bca5e",
-      "com.michaldrabik.showly2": "f5be9e25c229954f607306b0042d5159",
-      "shared": "1ccd1d127580d53a777a03f8d25ed3ff"
+      "ch.protonmail.android": "5e5af67f5fddb89a2b9cb92d0f8b4fe9",
+      "com.michaldrabik.showly2": "e0da2232de75c7e98b46c809d4da97f9",
+      "shared": "ec3ee6ac87441b44ca89c62548a691c4"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -190,7 +190,7 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "ef6b5f0bd591c6a80e0c4d7d3f3627aa",
+      "com.reddit.frontpage": "660b13b2ddd3878343022d0c0d22352a",
       "shared": "d951daa79b374c4a5554ac8cee2acbeb"
     },
     "stable": {
