@@ -159,10 +159,10 @@
   "rushiranpise": {
     "repo": "rushiranpise/morphe-patches",
     "stable": "v1.22.0",
-    "prerelease": "v1.22.0-dev.1",
+    "prerelease": "v1.23.0-dev.1",
     "blocked": false,
     "stable_date": "2026-09-15T20:58:05Z",
-    "pre_date": "2026-09-15T20:50:28Z"
+    "pre_date": "2026-09-20T12:55:20Z"
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
