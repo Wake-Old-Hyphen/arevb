@@ -150,10 +150,10 @@
   },
   "hoomans": {
     "repo": "arandomhooman/hoomans-morphe-patches",
-    "stable": "v1.51.1",
+    "stable": "v1.52.0",
     "prerelease": "v1.44.0-dev.4",
     "blocked": false,
-    "stable_date": "2026-08-25T18:01:14Z",
+    "stable_date": "2026-09-20T00:18:01Z",
     "pre_date": "2026-08-13T04:04:19Z"
   },
   "rushiranpise": {
@@ -166,11 +166,11 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.37.3",
-    "prerelease": "pv-v15-diag-120",
+    "stable": "v1.37.4",
+    "prerelease": "pv-v15-fix-120",
     "blocked": false,
-    "stable_date": "2026-09-19T01:41:54Z",
-    "pre_date": "2026-09-17T23:50:52Z"
+    "stable_date": "2026-09-20T00:02:04Z",
+    "pre_date": "2026-09-19T23:38:16Z"
   },
   "revenge": {
     "repo": "revenge-mod/revenge-xposed",
