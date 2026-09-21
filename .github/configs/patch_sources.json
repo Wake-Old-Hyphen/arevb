@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.43.0",
-    "prerelease": "v1.44.0-dev.13",
+    "prerelease": "v1.44.0-dev.19",
     "blocked": false,
     "stable_date": "2026-09-14T12:57:41Z",
-    "pre_date": "2026-09-20T23:51:56Z"
+    "pre_date": "2026-09-21T13:40:13Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -40,10 +40,10 @@
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
     "stable": "v1.44.1",
-    "prerelease": "v1.44.2-dev.1",
+    "prerelease": "v1.45.0-dev.1",
     "blocked": false,
     "stable_date": "2026-09-17T16:37:30Z",
-    "pre_date": "2026-09-17T22:21:40Z"
+    "pre_date": "2026-09-21T06:08:39Z"
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.26.0",
-    "stable_date": "2026-09-20T16:48:58Z",
+    "stable": "v1.27.0",
+    "stable_date": "2026-09-21T12:19:40Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
