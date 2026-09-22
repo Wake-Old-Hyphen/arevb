@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.44.0",
-    "prerelease": "v1.44.0-dev.19",
+    "prerelease": "v1.45.0-dev.1",
     "blocked": false,
     "stable_date": "2026-09-21T15:11:56Z",
-    "pre_date": "2026-09-21T13:40:13Z"
+    "pre_date": "2026-09-22T09:11:48Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -215,8 +215,8 @@
   },
   "gboard": {
     "repo": "jasonwu1994/Gboard-patches",
-    "stable": "custom-theme-previews-v1",
-    "stable_date": "2026-09-17T16:50:03Z",
+    "stable": "v3.11.0",
+    "stable_date": "2026-09-22T06:59:02Z",
     "prerelease": "v3.11.0-dev.3",
     "pre_date": "2026-09-21T03:17:20Z",
     "blocked": false
