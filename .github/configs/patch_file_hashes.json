@@ -215,15 +215,15 @@
     "dev": {},
     "stable": {
       "com.brave.browser": "eb53ea4ca9d46afacb5f3ac99da669be",
-      "shared": "48d1796f2f0054a2cdbd23a6e9aca6a8"
+      "shared": "eff568767b55e0bab28bf11bdd1cf3ff"
     }
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "90027ec89cce04837b65dd8c6646275a",
-      "com.google.android.youtube": "1e7f19525faf44d38a67a5540692e80c",
-      "com.reddit.frontpage": "370796bdb788f454e80025497239545d",
-      "shared": "e5dbdbe83f0710a8be2c4875d56dfeee"
+      "com.google.android.apps.youtube.music": "b9add2487d3d8c78142b5b8b396043b3",
+      "com.google.android.youtube": "9f16ba78e616fbc4434164f3b48d74ab",
+      "com.reddit.frontpage": "7411d2fd2d6980bc1b59f05f20a2b658",
+      "shared": "ffb06bb92d6055c2597fd1019f0732fb"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "908eefc5b29a33d6807ef54a9ef097d9",
