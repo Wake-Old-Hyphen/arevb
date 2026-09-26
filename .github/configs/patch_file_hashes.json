@@ -152,9 +152,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "0f7a1c2a52a277f359b802d4c6b8b6a7",
-      "com.michaldrabik.showly2": "f4118926a2ac65e36417d0c679225e36",
-      "shared": "1d50af664e17bdd56ff9cbf2c547bed6"
+      "ch.protonmail.android": "1a403eacb573b891a03b0a184bd7140d",
+      "com.michaldrabik.showly2": "4ca588019cf100b955f9ed85896db1f9",
+      "shared": "a92407e9bba34ef5ac419b4f8d48b817"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
