@@ -573,7 +573,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.instagram.barcelona"
   },
   "byair-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.byairapp.android",
     "app-name": "byair",
     "rv-brand": "morphe",
