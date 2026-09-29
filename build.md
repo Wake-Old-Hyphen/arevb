@@ -1,7 +1,5 @@
-youtube-morphe (arm64-v8a): 21.16.256  
-youtube-morphe (arm-v7a): 21.16.256  
-youtube-morphe-exp (arm64-v8a): 21.39.522  
-youtube-morphe-exp (arm-v7a): 21.39.522  
+brave-browser-morphe (arm64-v8a): 1.96.59  
+brave-browser-morphe (arm-v7a): 1.96.59  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,5 +8,5 @@ youtube-morphe-exp (arm-v7a): 21.39.522
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.17.0-all.jar  
-Patches: MorpheApp/patches-1.45.0-dev.20.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0-dev.20)  
+Patches: kveld9/patches-2.1.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v2.1.0)  
