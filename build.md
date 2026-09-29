@@ -1,5 +1,7 @@
-brave-browser-morphe (arm64-v8a): 1.96.59  
-brave-browser-morphe (arm-v7a): 1.96.59  
+twitter-morphe (arm64-v8a): 12.19.1-release.0  
+twitter-morphe (arm-v7a): 12.19.1-release.0  
+twitter-morphe-materialu (arm64-v8a): 12.19.1-release.0  
+twitter-morphe-materialu (arm-v7a): 12.19.1-release.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +10,5 @@ brave-browser-morphe (arm-v7a): 1.96.59
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.17.0-all.jar  
-Patches: kveld9/patches-2.1.0.mpp  
-[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v2.1.0)  
+Patches: crimera/patches-3.10.0-dev.9.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.9)  
