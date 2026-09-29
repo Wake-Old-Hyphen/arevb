@@ -56,9 +56,9 @@
   },
   "crimera/piko": {
     "dev": {
-      "com.instagram.android": "9fdac617e2f3580eeaf8156617709903",
-      "com.twitter.android": "4fc2550423abe25a1647d19df78db37f",
-      "shared": "306a26f969894f9f6eb65156853a889a"
+      "com.instagram.android": "d11a308bd5975b1e031bd75b79b677ab",
+      "com.twitter.android": "fdffc390c593cfc8f0ba76cc093b18b6",
+      "shared": "fd0f7f25f8b90543c362c99530812b52"
     },
     "stable": {
       "com.instagram.android": "084b5083d2993f8e93436d3ba6df3d7d",
@@ -156,9 +156,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "a10fe7821add98c0514468b705285713",
-      "com.michaldrabik.showly2": "3a872d7e9dc53c7e4666a9be490b4c21",
-      "shared": "e746debbca1edcc7d9d3d36965ff901c"
+      "ch.protonmail.android": "71986785b73a4ce40d2e13ddba32ad5c",
+      "com.michaldrabik.showly2": "16fd9d90ef87deeb22076db736ed1116",
+      "shared": "9f6acef4b944060104cc533ab1f831d8"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
