@@ -8,10 +8,10 @@
   "devanced": {
     "repo": "RookieEnough/De-Vanced",
     "stable": "v1.4.4",
-    "prerelease": "v1.4.4-dev.1",
+    "prerelease": "v1.5.0-dev.1",
     "blocked": false,
     "stable_date": "2026-09-20T23:42:11Z",
-    "pre_date": "2026-09-20T23:37:47Z"
+    "pre_date": "2026-09-28T20:32:14Z"
   },
   "anddea": {
     "repo": "anddea/revanced-patches",
@@ -39,11 +39,11 @@
   },
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
-    "stable": "v1.44.1",
-    "prerelease": "v1.45.0-dev.5",
+    "stable": "v1.45.0",
+    "prerelease": "v1.46.0-dev.2",
     "blocked": false,
-    "stable_date": "2026-09-17T16:37:30Z",
-    "pre_date": "2026-09-28T06:56:09Z"
+    "stable_date": "2026-09-28T18:20:13Z",
+    "pre_date": "2026-09-28T21:15:10Z"
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
