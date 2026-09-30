@@ -1,9 +1,15 @@
-peacock-morphe-androidtv (all): 7.10.102  
-tubi-morphe-androidtv (all): 10.36.5000  
-google-photos-morphe (arm64-v8a): 7.95.0.989626323  
-google-photos-morphe (arm-v7a): 7.95.0.989626323  
-brave-browser-morphe (arm64-v8a): 1.96.59  
-brave-browser-morphe (arm-v7a): 1.96.59  
+youtube-morphe (arm64-v8a): 21.16.256  
+youtube-morphe (arm-v7a): 21.16.256  
+youtube-music-morphe (arm64-v8a): 9.15.51  
+youtube-music-morphe (arm-v7a): 9.15.51  
+youtube-morphe-exp (arm64-v8a): 21.39.522  
+youtube-morphe-exp (arm-v7a): 21.39.522  
+youtube-music-morphe-exp (arm64-v8a): 9.38.51  
+youtube-music-morphe-exp (arm-v7a): 9.38.51  
+reddit-morphe-exp (arm64-v8a): 2026.39.0  
+reddit-morphe-exp (arm-v7a): 2026.39.0  
+reddit-morphe (arm64-v8a): 2026.24.0  
+reddit-morphe (arm-v7a): 2026.24.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -12,11 +18,5 @@ brave-browser-morphe (arm-v7a): 1.96.59
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.17.0-all.jar  
-Patches: ajstrick81/patches-1.40.3.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.40.3)
-
-Patches: kveld9/patches-2.2.0.mpp  
-[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v2.2.0)
-
-Patches: RookieEnough/patches-1.4.4.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.4)  
+Patches: MorpheApp/patches-1.45.0-dev.21.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0-dev.21)  
