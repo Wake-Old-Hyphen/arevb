@@ -39,10 +39,10 @@
   },
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
-    "stable": "v1.45.0",
+    "stable": "v1.46.0",
     "prerelease": "v1.46.0-dev.7",
     "blocked": false,
-    "stable_date": "2026-09-28T18:20:13Z",
+    "stable_date": "2026-09-30T18:19:04Z",
     "pre_date": "2026-09-30T09:31:05Z"
   },
   "adobo": {
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.36.0",
-    "stable_date": "2026-09-29T17:27:35Z",
+    "stable": "v1.37.0",
+    "stable_date": "2026-09-30T17:08:50Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
@@ -273,8 +273,8 @@
     "repo": "dh6k/morphe-patches",
     "stable": "v1.7.0",
     "stable_date": "2026-09-24T07:45:37Z",
-    "prerelease": "v1.8.0-dev.3",
-    "pre_date": "2026-09-30T14:49:11Z",
+    "prerelease": "v1.8.0-dev.6",
+    "pre_date": "2026-09-30T17:48:07Z",
     "blocked": false
   },
   "kveld9": {
