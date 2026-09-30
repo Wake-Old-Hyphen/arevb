@@ -40,10 +40,10 @@
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
     "stable": "v1.45.0",
-    "prerelease": "v1.46.0-dev.5",
+    "prerelease": "v1.46.0-dev.6",
     "blocked": false,
     "stable_date": "2026-09-28T18:20:13Z",
-    "pre_date": "2026-09-29T19:34:43Z"
+    "pre_date": "2026-09-30T01:10:16Z"
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.40.1",
+    "stable": "v1.40.3",
     "prerelease": "test-212",
     "blocked": false,
-    "stable_date": "2026-09-28T01:47:59Z",
+    "stable_date": "2026-09-30T00:49:34Z",
     "pre_date": "2026-09-28T02:55:15Z"
   },
   "revenge": {
@@ -279,8 +279,8 @@
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
-    "stable": "v2.1.0",
-    "stable_date": "2026-09-29T01:39:16Z",
+    "stable": "v2.2.0",
+    "stable_date": "2026-09-30T01:11:03Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
