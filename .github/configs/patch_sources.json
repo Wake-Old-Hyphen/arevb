@@ -23,10 +23,10 @@
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
-    "stable": "v1.44.0",
+    "stable": "v1.45.0",
     "prerelease": "v1.45.0-dev.23",
     "blocked": false,
-    "stable_date": "2026-09-21T15:11:56Z",
+    "stable_date": "2026-10-02T08:55:35Z",
     "pre_date": "2026-10-01T16:14:30Z"
   },
   "piko": {
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.7.2",
-    "prerelease": "v1.7.2-dev.2",
+    "prerelease": "v1.8.0-dev.1",
     "blocked": false,
     "stable_date": "2026-09-27T07:34:41.179Z",
-    "pre_date": "2026-09-27T07:30:32.290Z"
+    "pre_date": "2026-10-02T05:48:14.401Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.38.0",
-    "stable_date": "2026-10-01T18:56:53Z",
+    "stable": "v1.39.0",
+    "stable_date": "2026-10-02T12:55:05Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
