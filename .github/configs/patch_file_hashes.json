@@ -218,8 +218,8 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "359559f967b53982000ad2f60b8caeea",
-      "shared": "d2fd3ba66afd0a34843b40654def2376"
+      "com.brave.browser": "90dcc6e9c635e251ccc00f479e28e5ff",
+      "shared": "88362a78639b4cf9eeb42c6d2e528bbb"
     }
   },
   "morpheapp/morphe-patches": {

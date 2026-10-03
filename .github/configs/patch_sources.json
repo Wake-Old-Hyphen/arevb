@@ -40,10 +40,10 @@
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
     "stable": "v1.46.0",
-    "prerelease": "v1.46.0-dev.7",
+    "prerelease": "v1.47.0-dev.1",
     "blocked": false,
     "stable_date": "2026-09-30T18:19:04Z",
-    "pre_date": "2026-09-30T09:31:05Z"
+    "pre_date": "2026-10-03T20:58:29Z"
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
@@ -279,8 +279,8 @@
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
-    "stable": "v2.3.0",
-    "stable_date": "2026-10-01T03:29:52Z",
+    "stable": "v2.4.0",
+    "stable_date": "2026-10-03T20:17:11Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
