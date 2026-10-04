@@ -1,17 +1,7 @@
-reddit-morphe-adobo (arm64-v8a): 2026.40.0  
-reddit-morphe-adobo (arm-v7a): 2026.40.0  
-youtube-morphe (arm64-v8a): 21.16.256  
-youtube-morphe (arm-v7a): 21.16.256  
-youtube-music-morphe (arm64-v8a): 9.20.53  
-youtube-music-morphe (arm-v7a): 9.20.53  
-youtube-morphe-exp (arm64-v8a): 21.39.522  
-youtube-morphe-exp (arm-v7a): 21.39.522  
-youtube-music-morphe-exp (arm64-v8a): 9.39.52  
-youtube-music-morphe-exp (arm-v7a): 9.39.52  
-reddit-morphe-exp (arm64-v8a): 2026.40.0  
-reddit-morphe-exp (arm-v7a): 2026.40.0  
-reddit-morphe (arm64-v8a): 2026.24.0  
-reddit-morphe (arm-v7a): 2026.24.0  
+twitter-morphe (arm64-v8a): 12.19.1-release.0  
+twitter-morphe (arm-v7a): 12.19.1-release.0  
+twitter-morphe-materialu (arm64-v8a): 12.19.1-release.0  
+twitter-morphe-materialu (arm-v7a): 12.19.1-release.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -20,8 +10,5 @@ reddit-morphe (arm-v7a): 2026.24.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.18.0-all.jar  
-Patches: jkennethcarino/patches-1.6.0-dev.4.mpp  
-[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.6.0-dev.4)
-
-Patches: MorpheApp/patches-1.46.0-dev.2.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0-dev.2)  
+Patches: crimera/patches-3.10.0-dev.10.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.10)  
