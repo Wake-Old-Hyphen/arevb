@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.46.0",
-    "prerelease": "v1.46.0-dev.10",
+    "prerelease": "v1.47.0-dev.1",
     "blocked": false,
     "stable_date": "2026-10-06T11:42:42Z",
-    "pre_date": "2026-10-06T10:49:00Z"
+    "pre_date": "2026-10-06T22:59:43Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -40,10 +40,10 @@
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
     "stable": "v1.47.0",
-    "prerelease": "v1.47.0-dev.3",
+    "prerelease": "v1.47.1-dev.1",
     "blocked": false,
     "stable_date": "2026-10-04T18:45:44Z",
-    "pre_date": "2026-10-04T02:11:21Z"
+    "pre_date": "2026-10-06T20:40:33Z"
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
@@ -166,11 +166,11 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.40.4",
+    "stable": "v1.40.5",
     "prerelease": "test-212",
     "blocked": false,
-    "stable_date": "2026-10-04T00:13:28Z",
-    "pre_date": "2026-09-28T02:55:15Z"
+    "stable_date": "2026-10-06T20:32:19Z",
+    "pre_date": "2026-10-06T22:01:57Z"
   },
   "revenge": {
     "repo": "revenge-mod/revenge-xposed",
