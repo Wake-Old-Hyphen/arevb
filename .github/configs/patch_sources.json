@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.45.0",
-    "prerelease": "v1.46.0-dev.7",
+    "prerelease": "v1.46.0-dev.8",
     "blocked": false,
     "stable_date": "2026-10-02T08:55:35Z",
-    "pre_date": "2026-10-05T14:49:58Z"
+    "pre_date": "2026-10-05T21:36:17Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -273,8 +273,8 @@
     "repo": "dh6k/morphe-patches",
     "stable": "v1.8.0",
     "stable_date": "2026-10-01T06:24:48Z",
-    "prerelease": "v1.9.0-dev.3",
-    "pre_date": "2026-10-05T16:38:23Z",
+    "prerelease": "v1.9.0-dev.4",
+    "pre_date": "2026-10-05T19:15:22Z",
     "blocked": false
   },
   "kveld9": {
