@@ -174,10 +174,10 @@
   },
   "revenge": {
     "repo": "revenge-mod/revenge-xposed",
-    "stable": "1603",
+    "stable": "1700",
     "prerelease": "",
     "blocked": false,
-    "stable_date": "2026-09-09T16:26:35Z",
+    "stable_date": "2026-10-07T15:39:06Z",
     "pre_date": ""
   },
   "bufferk": {
