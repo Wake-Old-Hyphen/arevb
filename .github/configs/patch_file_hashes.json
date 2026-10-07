@@ -54,6 +54,10 @@
       "shared": "e8477a3349f8bb6238d3bdfde82b803b"
     }
   },
+  "bufferk/morphe-patches": {
+    "dev": {},
+    "stable": {}
+  },
   "crimera/piko": {
     "dev": {
       "com.instagram.android": "5490effee679aeddb0f5f58e8530d3bc",
@@ -174,7 +178,7 @@
   "imxeren/mix-patches": {
     "dev": {},
     "stable": {
-      "shared": "45b38cffc5cbe2f9f24e24a56fe9acea",
+      "shared": "f75b120b0240483b0b207c2c0e88c096",
       "tv.trakt.trakt": "96070b6b79998c52b1785f831bfb27b9"
     }
   },

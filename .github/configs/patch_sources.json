@@ -183,18 +183,18 @@
   "bufferk": {
     "repo": "bufferk/morphe-patches",
     "stable": "v1.8.0",
-    "prerelease": "v1.8.0-dev.1",
+    "prerelease": "v1.9.0-dev.1",
     "blocked": false,
     "stable_date": "2026-07-18T18:58:06Z",
-    "pre_date": "2026-07-18T11:46:49Z"
+    "pre_date": "2026-10-07T04:52:47Z"
   },
   "IMXEren": {
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
-    "stable": "v1.7.2",
+    "stable": "v1.8.0",
     "prerelease": "v1.8.0-dev.1",
     "blocked": false,
-    "stable_date": "2026-09-27T07:34:41.179Z",
+    "stable_date": "2026-10-07T04:17:11.999Z",
     "pre_date": "2026-10-02T05:48:14.401Z"
   },
   "quantavil": {
