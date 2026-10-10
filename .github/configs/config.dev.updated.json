@@ -79,7 +79,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.zhiliaoapp.musically"
   },
   "reddit-morphe-adobo": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe-adobo",
@@ -284,7 +284,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.twitter.android"
   },
   "instagram-morphe-piko": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.instagram.android",
     "app-name": "instagram",
     "rv-brand": "morphe-piko",

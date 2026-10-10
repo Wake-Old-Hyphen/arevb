@@ -24,18 +24,18 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.46.0",
-    "prerelease": "v1.47.0-dev.14",
+    "prerelease": "v1.47.0-dev.18",
     "blocked": false,
     "stable_date": "2026-10-06T11:42:42Z",
-    "pre_date": "2026-10-09T23:23:55Z"
+    "pre_date": "2026-10-10T10:29:12Z"
   },
   "piko": {
     "repo": "crimera/piko",
     "stable": "v3.9.0",
-    "prerelease": "v3.10.0-dev.13",
+    "prerelease": "v3.10.0-dev.14",
     "blocked": false,
     "stable_date": "2026-08-31T02:40:04Z",
-    "pre_date": "2026-10-09T08:28:33Z"
+    "pre_date": "2026-10-10T07:16:09Z"
   },
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
@@ -48,10 +48,10 @@
   "adobo": {
     "repo": "jkennethcarino/adobo",
     "stable": "v1.5.0",
-    "prerelease": "v1.6.0-dev.4",
+    "prerelease": "v1.6.0-dev.5",
     "blocked": false,
     "stable_date": "2026-09-19T15:26:04Z",
-    "pre_date": "2026-10-04T11:00:23Z"
+    "pre_date": "2026-10-10T08:51:20Z"
   },
   "rvexp": {
     "repo": "Aunali321/ReVancedExperiments",
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.6.0",
     "stable_date": "2026-10-10T03:05:27Z",
-    "prerelease": "v2.6.0-experimental.16",
-    "pre_date": "2026-10-10T02:53:40Z",
+    "prerelease": "v2.7.0-experimental.1",
+    "pre_date": "2026-10-10T13:52:23Z",
     "blocked": false
   },
   "hxreborn-tiktok": {

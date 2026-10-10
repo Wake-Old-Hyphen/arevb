@@ -60,7 +60,7 @@
   },
   "crimera/piko": {
     "dev": {
-      "com.instagram.android": "d7da3ca9d822276d9d98e1c98ec7bc2f",
+      "com.instagram.android": "90b1539aa4fd996d64df92684f5747b4",
       "com.twitter.android": "b8ef463a3395befffaaf196a91f1ab8f",
       "shared": "af8e6b25a156bf0a8dd0cc8a238f9f09"
     },
@@ -198,7 +198,7 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "e134922b19d06dd6ab11e68aaf8195b3",
+      "com.reddit.frontpage": "4fc80e625af321cf52409e7d85eec89a",
       "shared": "d951daa79b374c4a5554ac8cee2acbeb"
     },
     "stable": {
@@ -228,10 +228,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "37834c0b9eab6b73a67f15c899cbf843",
-      "com.google.android.youtube": "b8549267bfefc15c9c32359a6c72739f",
-      "com.reddit.frontpage": "e7926321ab64d923e0736a9bf8b2541d",
-      "shared": "6e90d256d5458c3046f1899d5d56fe7e"
+      "com.google.android.apps.youtube.music": "85cc05ef5c59f39524e30d9bbc273781",
+      "com.google.android.youtube": "81cf7e2ac075fe284edbf53bc5bf4e44",
+      "com.reddit.frontpage": "5148d1bcf83e788f6a7d366b7b4c6716",
+      "shared": "b723e5d632ba985c63d8a3dfce2f8673"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "3327ea672455ad2775caead711a576d1",
