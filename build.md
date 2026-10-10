@@ -1,15 +1,9 @@
-youtube-morphe (arm64-v8a): 21.20.405  
-youtube-morphe (arm-v7a): 21.20.405  
-youtube-music-morphe (arm64-v8a): 9.20.53  
-youtube-music-morphe (arm-v7a): 9.20.53  
-youtube-morphe-exp (arm64-v8a): 21.40.161  
-youtube-morphe-exp (arm-v7a): 21.40.161  
-youtube-music-morphe-exp (arm64-v8a): 9.40.51  
-youtube-music-morphe-exp (arm-v7a): 9.40.51  
-twitter-morphe (arm64-v8a): 12.19.1-release.0  
-twitter-morphe (arm-v7a): 12.19.1-release.0  
-twitter-morphe-materialu (arm64-v8a): 12.19.1-release.0  
-twitter-morphe-materialu (arm-v7a): 12.19.1-release.0  
+discord-xposed (arm64-v8a): 344.13-Stable  
+discord-xposed (arm-v7a): 344.13-Stable  
+calorie-counter-morphe (arm64-v8a): 11.8.1.1  
+calorie-counter-morphe (arm-v7a): 11.8.1.1  
+brave-browser-morphe (arm64-v8a): 1.97.56  
+brave-browser-morphe (arm-v7a): 1.97.56  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -18,11 +12,15 @@ twitter-morphe-materialu (arm-v7a): 12.19.1-release.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.18.1-all.jar  
-Patches: crimera/patches-3.10.0-dev.13.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.10.0-dev.13)
+Patches: hxreborn/patches-1.46.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.46.0)
 
-Patches: MorpheApp/patches-1.47.0-dev.10.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.47.0-dev.10)
+Patches: kondratjev/patches-1.27.0.mpp  
+[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.27.0)
 
-Patches: MorpheApp/patches-1.47.0-dev.11.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.47.0-dev.11)  
+Patches: kveld9/patches-2.6.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v2.6.0)
+
+CLI: 7723mod/jar-v1.0.8-801-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1701)  
