@@ -160,9 +160,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "e169134065b5099aec2cb7b58958e439",
-      "com.michaldrabik.showly2": "569c0a08c8187529ef323022b03790bb",
-      "shared": "c0678534dcb4c4966db63b86ee53e23b"
+      "ch.protonmail.android": "e9bfa1861b0968890c96ee7240675c9f",
+      "com.michaldrabik.showly2": "eda13c217060e03a2073893ed132568e",
+      "shared": "b80cc7b0bb31457d2cc7ccfa2862ca8e"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -188,8 +188,8 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "d7e330ef6b4d286a8db0b2eaabb163d8",
-      "shared": "1d25d3822a8e70798e59b023790fb950"
+      "com.google.android.inputmethod.latin": "a4c9e2ed85338499d1fe5e427d867b32",
+      "shared": "a16653680b70bdff0006d79786e75a69"
     },
     "stable": {
       "com.google.android.inputmethod.latin": "c47434ff4d36e25323d30e352ae55e14",
