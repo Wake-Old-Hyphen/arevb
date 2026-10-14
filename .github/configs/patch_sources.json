@@ -158,11 +158,11 @@
   },
   "rushiranpise": {
     "repo": "rushiranpise/morphe-patches",
-    "stable": "v1.22.0",
-    "prerelease": "v1.23.0-dev.1",
+    "stable": "v1.23.0",
+    "prerelease": "v1.22.0-dev.1",
     "blocked": false,
-    "stable_date": "2026-09-15T20:58:05Z",
-    "pre_date": "2026-09-20T12:55:20Z"
+    "stable_date": "2026-10-14T17:39:11Z",
+    "pre_date": "2026-09-15T20:50:28Z"
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v3.12.0",
     "stable_date": "2026-10-04T16:37:59Z",
-    "prerelease": "v3.13.0-dev.1",
-    "pre_date": "2026-10-14T03:29:28Z",
+    "prerelease": "v3.13.0-dev.2",
+    "pre_date": "2026-10-14T19:42:12Z",
     "blocked": false
   },
   "instafel": {
@@ -273,16 +273,16 @@
     "repo": "dh6k/morphe-patches",
     "stable": "v1.8.0",
     "stable_date": "2026-10-01T06:24:48Z",
-    "prerelease": "v1.9.0-dev.6",
-    "pre_date": "2026-10-14T05:04:37Z",
+    "prerelease": "v1.9.0-dev.15",
+    "pre_date": "2026-10-14T20:02:53Z",
     "blocked": false
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.6.0",
     "stable_date": "2026-10-10T03:05:27Z",
-    "prerelease": "v2.7.0-experimental.20",
-    "pre_date": "2026-10-14T05:48:07Z",
+    "prerelease": "v2.7.0-experimental.22",
+    "pre_date": "2026-10-14T19:27:03Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
