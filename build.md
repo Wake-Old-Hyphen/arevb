@@ -1,6 +1,4 @@
-hola-vpn-morphe (arm64-v8a): AARCH64_1.248.400  
-google-photos-morphe-alt (arm64-v8a): 7.97.0.997578476  
-google-photos-morphe-alt (arm-v7a): 7.97.0.997578476  
+vix-morphe-androidtv (all): 4.46.0_tv  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,5 +7,8 @@ google-photos-morphe-alt (arm-v7a): 7.97.0.997578476
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.18.1-all.jar  
-Patches: rushiranpise/patches-1.23.0.mpp  
-[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.23.0)  
+Patches: ajstrick81/patches-1.40.6.mpp  
+[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.40.6)
+
+Patches: hxreborn/patches-1.52.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.52.0)  
