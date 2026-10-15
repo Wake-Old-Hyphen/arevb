@@ -167,11 +167,11 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "4dbbc2c764e93c8131bfeba4742c852a",
+      "com.zhiliaoapp.musically": "3153d9b7096bf51034d7b5e20d70fb1f",
       "shared": "4c8e9750b338baa9b2956091fbe5841a"
     },
     "stable": {
-      "com.zhiliaoapp.musically": "4dbbc2c764e93c8131bfeba4742c852a",
+      "com.zhiliaoapp.musically": "3153d9b7096bf51034d7b5e20d70fb1f",
       "shared": "4c8e9750b338baa9b2956091fbe5841a"
     }
   },
