@@ -1,7 +1,5 @@
-youtube-anddea (arm64-v8a): 21.13.164  
-youtube-anddea (arm-v7a): 21.13.164  
-youtube-music-anddea (arm64-v8a): 9.15.51  
-youtube-music-anddea (arm-v7a): 9.15.51  
+google-photos-morphe (arm64-v8a): 7.97.0.1000520730  
+google-photos-morphe (arm-v7a): 7.97.0.1000520730  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,5 +8,5 @@ youtube-music-anddea (arm-v7a): 9.15.51
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.18.1-all.jar  
-Patches: anddea/patches-4.4.0-dev.2.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.4.0-dev.2)  
+Patches: RookieEnough/patches-1.5.1.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.5.1)  
