@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.41.0",
+    "stable": "v1.42.0",
     "prerelease": "test-212",
     "blocked": false,
-    "stable_date": "2026-10-16T16:29:25Z",
+    "stable_date": "2026-10-17T02:22:24Z",
     "pre_date": "2026-10-06T22:01:57Z"
   },
   "revenge": {
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.7.0",
     "stable_date": "2026-10-15T20:19:42Z",
-    "prerelease": "v2.7.0-experimental.28",
-    "pre_date": "2026-10-16T18:35:13Z",
+    "prerelease": "v2.8.0-experimental.1",
+    "pre_date": "2026-10-17T02:38:14Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
