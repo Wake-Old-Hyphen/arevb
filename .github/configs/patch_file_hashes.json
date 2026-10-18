@@ -198,12 +198,12 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "4fc80e625af321cf52409e7d85eec89a",
+      "com.reddit.frontpage": "848e07ad11b9a6eb668330e5d9c783aa",
       "shared": "d951daa79b374c4a5554ac8cee2acbeb"
     },
     "stable": {
       "com.imdb.mobile": "d09462d6bd0e422d7586a2c679626b83",
-      "com.reddit.frontpage": "ef6b5f0bd591c6a80e0c4d7d3f3627aa",
+      "com.reddit.frontpage": "848e07ad11b9a6eb668330e5d9c783aa",
       "shared": "d951daa79b374c4a5554ac8cee2acbeb"
     }
   },
