@@ -1,5 +1,5 @@
-reddit-morphe-adobo (arm64-v8a): 2026.42.0  
-reddit-morphe-adobo (arm-v7a): 2026.42.0  
+byair-morphe (arm64-v8a): 2.41.0  
+byair-morphe (arm-v7a): 2.41.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +8,5 @@ reddit-morphe-adobo (arm-v7a): 2026.42.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.18.1-all.jar  
-Patches: jkennethcarino/patches-1.6.0.mpp  
-[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.6.0)  
+Patches: franticg33k/patches-1.5.1.mpp  
+[Changelog](https://github.com/franticg33k/morphe-patches/releases/tag/v1.5.1)  
