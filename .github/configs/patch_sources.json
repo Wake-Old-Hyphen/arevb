@@ -263,10 +263,10 @@
   },
   "franticg33k": {
     "repo": "franticg33k/morphe-patches",
-    "stable": "v1.5.0",
-    "stable_date": "2026-10-16T05:40:52Z",
-    "prerelease": "v1.5.0-dev.3",
-    "pre_date": "2026-10-16T05:20:17Z",
+    "stable": "v1.5.1",
+    "stable_date": "2026-10-19T13:59:17Z",
+    "prerelease": "v1.5.1-dev.2",
+    "pre_date": "2026-10-19T13:50:09Z",
     "blocked": false
   },
   "dh6k": {
