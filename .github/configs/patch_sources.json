@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v1.47.0",
-    "prerelease": "v1.48.0-dev.12",
+    "prerelease": "v1.48.0-dev.13",
     "blocked": false,
     "stable_date": "2026-10-11T15:20:10Z",
-    "pre_date": "2026-10-18T09:22:51Z"
+    "pre_date": "2026-10-19T15:39:53Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.7.0",
     "stable_date": "2026-10-15T20:19:42Z",
-    "prerelease": "v2.8.0-experimental.2",
-    "pre_date": "2026-10-18T14:25:53Z",
+    "prerelease": "v2.8.0-experimental.3",
+    "pre_date": "2026-10-19T20:31:57Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
