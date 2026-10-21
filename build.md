@@ -4,6 +4,8 @@ youtube-music-morphe (arm64-v8a): 9.20.53
 youtube-music-morphe (arm-v7a): 9.20.53  
 youtube-morphe-exp (arm64-v8a): 21.42.241  
 youtube-morphe-exp (arm-v7a): 21.42.241  
+youtube-music-morphe-exp (arm64-v8a): 9.42.52  
+youtube-music-morphe-exp (arm-v7a): 9.42.52  
 reddit-morphe-exp (arm64-v8a): 2026.42.0  
 reddit-morphe-exp (arm-v7a): 2026.42.0  
 reddit-morphe (arm64-v8a): 2026.24.0  
@@ -16,5 +18,5 @@ reddit-morphe (arm-v7a): 2026.24.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.18.1-all.jar  
-Patches: MorpheApp/patches-1.48.0-dev.16.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0-dev.16)  
+Patches: MorpheApp/patches-1.48.0-dev.18.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.48.0-dev.18)  
