@@ -1,7 +1,5 @@
-youtube-anddea (arm64-v8a): 21.13.164  
-youtube-anddea (arm-v7a): 21.13.164  
-youtube-music-anddea (arm64-v8a): 9.15.51  
-youtube-music-anddea (arm-v7a): 9.15.51  
+discord-xposed (arm64-v8a): 344.13-Stable  
+discord-xposed (arm-v7a): 344.13-Stable  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,8 +8,9 @@ youtube-music-anddea (arm-v7a): 9.15.51
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.19.0-all.jar  
-Patches: anddea/patches-4.4.0-dev.3.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.4.0-dev.3)
+Patches: kveld9/patches-2.8.0.mpp  
+[Changelog](https://github.com/kveld9/kveld-morphe-patches/releases/tag/v2.8.0)
 
-Patches: jasonwu1994/patches-4.0.0-dev.1.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.0.0-dev.1)  
+CLI: 7723mod/jar-v1.0.9-833-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1903)  
