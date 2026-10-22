@@ -55,11 +55,11 @@
   },
   "rvexp": {
     "repo": "Aunali321/ReVancedExperiments",
-    "stable": "v2.0.0",
-    "prerelease": "v2.0.0-dev.1",
+    "stable": "",
+    "prerelease": "",
     "blocked": false,
-    "stable_date": "2026-03-23T06:50:11Z",
-    "pre_date": "2026-03-20T12:45:06Z"
+    "stable_date": "",
+    "pre_date": ""
   },
   "brosssh": {
     "repo": "brosssh/morphe-patches",
@@ -231,8 +231,8 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.56.0",
-    "stable_date": "2026-10-20T00:13:13Z",
+    "stable": "v1.57.0",
+    "stable_date": "2026-10-22T00:12:45Z",
     "prerelease": "v1.1.0-dev.1",
     "pre_date": "2026-07-19T18:13:41Z",
     "blocked": false
