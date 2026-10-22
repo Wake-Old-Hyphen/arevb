@@ -16,10 +16,10 @@
   "anddea": {
     "repo": "anddea/revanced-patches",
     "stable": "v4.3.0",
-    "prerelease": "v4.4.0-dev.2",
+    "prerelease": "v4.4.0-dev.3",
     "blocked": false,
     "stable_date": "2026-09-28T12:26:39Z",
-    "pre_date": "2026-10-16T16:19:56Z"
+    "pre_date": "2026-10-22T18:49:56Z"
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
@@ -174,10 +174,10 @@
   },
   "revenge": {
     "repo": "revenge-mod/revenge-xposed",
-    "stable": "1902",
+    "stable": "1903",
     "prerelease": "1901",
     "blocked": false,
-    "stable_date": "2026-10-20T12:20:35Z",
+    "stable_date": "2026-10-22T15:15:40Z",
     "pre_date": "2026-10-20T11:33:48Z"
   },
   "bufferk": {
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v3.13.0",
     "stable_date": "2026-10-16T10:05:53Z",
-    "prerelease": "v3.13.0-dev.2",
-    "pre_date": "2026-10-14T19:42:12Z",
+    "prerelease": "v4.0.0-dev.1",
+    "pre_date": "2026-10-22T19:31:28Z",
     "blocked": false
   },
   "instafel": {
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.58.0",
     "stable_date": "2026-10-22T11:47:00Z",
-    "prerelease": "v1.1.0-dev.1",
-    "pre_date": "2026-07-19T18:13:41Z",
+    "prerelease": "v1.59.0-dev.7",
+    "pre_date": "2026-10-22T20:03:16Z",
     "blocked": false
   },
   "kiraio": {
@@ -271,18 +271,18 @@
   },
   "dh6k": {
     "repo": "dh6k/morphe-patches",
-    "stable": "v1.8.0",
-    "stable_date": "2026-10-01T06:24:48Z",
+    "stable": "v1.9.0",
+    "stable_date": "2026-10-22T16:40:51Z",
     "prerelease": "v1.9.0-dev.16",
     "pre_date": "2026-10-15T08:54:14Z",
     "blocked": false
   },
   "kveld9": {
     "repo": "kveld9/kveld-morphe-patches",
-    "stable": "v2.7.0",
-    "stable_date": "2026-10-15T20:19:42Z",
-    "prerelease": "v2.8.0-experimental.7",
-    "pre_date": "2026-10-21T22:29:18Z",
+    "stable": "v2.8.0",
+    "stable_date": "2026-10-22T20:02:37Z",
+    "prerelease": "v2.8.0-experimental.9",
+    "pre_date": "2026-10-22T20:02:20Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
