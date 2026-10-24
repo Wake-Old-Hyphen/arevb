@@ -1,17 +1,20 @@
-gboard-morphe (arm64-v8a): 18.5.3.993608717-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 18.5.3.993608717-release-arm64-v8a  
-youtube-morphe (arm64-v8a): 21.23.492  
-youtube-morphe (arm-v7a): 21.23.492  
-youtube-music-morphe (arm64-v8a): 9.20.53  
-youtube-music-morphe (arm-v7a): 9.20.53  
-youtube-morphe-exp (arm64-v8a): 21.43.523  
-youtube-morphe-exp (arm-v7a): 21.43.523  
-youtube-music-morphe-exp (arm64-v8a): 9.42.52  
-youtube-music-morphe-exp (arm-v7a): 9.42.52  
-reddit-morphe-exp (arm64-v8a): 2026.42.0  
-reddit-morphe-exp (arm-v7a): 2026.42.0  
-reddit-morphe (arm64-v8a): 2026.24.0  
-reddit-morphe (arm-v7a): 2026.24.0  
+discord-xposed (arm64-v8a): 344.13-Stable  
+discord-xposed (arm-v7a): 344.13-Stable  
+google-photos-morphe (arm64-v8a): 7.98.0.1001971222  
+google-photos-morphe (arm-v7a): 7.98.0.1001971222  
+google-recorder-morphe (arm64-v8a): 4.2.20260823.992025916  
+photomath-morphe (arm64-v8a): 8.48.0  
+photomath-morphe (arm-v7a): 8.48.0  
+viber-morphe (arm64-v8a): 26.1.2.0  
+viber-morphe (arm-v7a): 26.1.2.0  
+pixiv-morphe (arm64-v8a): 6.196.0  
+pixiv-morphe (arm-v7a): 6.196.0  
+strava-morphe (arm64-v8a): 477.14  
+strava-morphe (arm-v7a): 477.14  
+calorie-counter-morphe (arm64-v8a): 11.8.2.1  
+calorie-counter-morphe (arm-v7a): 11.8.2.1  
+soundcloud-morphe-alt (arm64-v8a): 2026.09.09-release  
+soundcloud-morphe-alt (arm-v7a): 2026.09.09-release  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -20,11 +23,12 @@ reddit-morphe (arm-v7a): 2026.24.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.19.0-all.jar  
-Patches: icysymmetra/patches-0.9.0-dev.2.mpp  
-[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.9.0-dev.2)
+Patches: kondratjev/patches-1.28.0.mpp  
+[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.28.0)
 
-Patches: jasonwu1994/patches-4.0.0-dev.3.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.0.0-dev.3)
+CLI: 7723mod/jar-v1.0.9-833-release.jar  
+Patches: revenge-mod/app-release.apk  
+[Changelog](https://github.com/revenge-mod/revenge-xposed/releases/tag/1904)
 
-Patches: MorpheApp/patches-1.49.0-dev.3.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.49.0-dev.3)  
+Patches: RookieEnough/patches-1.6.0.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.6.0)  
