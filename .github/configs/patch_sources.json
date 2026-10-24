@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.8.0",
-    "prerelease": "v1.9.0-dev.4",
+    "prerelease": "v1.9.0-dev.5",
     "blocked": false,
     "stable_date": "2026-10-07T04:17:11.999Z",
-    "pre_date": "2026-10-23T22:03:27.135Z"
+    "pre_date": "2026-10-23T23:15:50.558Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v3.13.0",
     "stable_date": "2026-10-16T10:05:53Z",
-    "prerelease": "v4.0.0-dev.1",
-    "pre_date": "2026-10-22T19:31:28Z",
+    "prerelease": "v4.0.0-dev.2",
+    "pre_date": "2026-10-23T23:20:25Z",
     "blocked": false
   },
   "instafel": {
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.8.0",
     "stable_date": "2026-10-22T20:02:37Z",
-    "prerelease": "v2.8.0-experimental.9",
-    "pre_date": "2026-10-22T20:02:20Z",
+    "prerelease": "v2.9.0-experimental.2",
+    "pre_date": "2026-10-24T02:06:01Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
