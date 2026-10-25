@@ -2,7 +2,7 @@
   "patches-version": "latest",
   "enable-module-update": true,
   "imdb-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.imdb.mobile",
     "app-name": "imdb",
     "rv-brand": "morphe",
@@ -409,7 +409,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.withouthat.acalendar"
   },
   "truecaller-morphe-alt": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.truecaller",
     "app-name": "truecaller",
     "rv-brand": "morphe-alt",
@@ -424,7 +424,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.truecaller"
   },
   "medium-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.medium.reader",
     "app-name": "medium",
     "rv-brand": "morphe",
@@ -665,7 +665,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.zhiliaoapp.musically"
   },
   "reddit-morphe-adobo": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe-adobo",
@@ -1316,7 +1316,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.dialer"
   },
   "proton-mail-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "ch.protonmail.android",
     "app-name": "proton-mail",
     "rv-brand": "morphe",
@@ -1333,7 +1333,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/ch.protonmail.android"
   },
   "showly-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.michaldrabik.showly2",
     "app-name": "showly",
     "rv-brand": "morphe",

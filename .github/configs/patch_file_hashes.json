@@ -73,8 +73,8 @@
   },
   "crimera/piko": {
     "dev": {
-      "com.instagram.android": "2a3226968e15363f4d0570728b2dc62e",
-      "com.twitter.android": "a6a7095bee0ac9a43882efa29b2ba5e8",
+      "com.instagram.android": "74e205b3d2d1660e1448088296b14918",
+      "com.twitter.android": "cdc54c718e4fb37394a6c291281b2092",
       "shared": "221135cfb774e1d17ecaeaa7e2e1e946"
     },
     "stable": {
@@ -173,14 +173,14 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "f8341b8070a0597b54fe667fb0186c37",
-      "com.michaldrabik.showly2": "42ebd4b07fb7b0a964b1845d1558bc09",
-      "shared": "e29888ca1ac695bf058b391917865889"
+      "ch.protonmail.android": "ae275612dd8a9b8665ce8c281adc7f68",
+      "com.michaldrabik.showly2": "1516c9fd219f652051db100766d64a3d",
+      "shared": "6121deeb89d1b880b91c06f0a77b6c18"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "eb80f0c43879ed348ab4c6a95bd28ee9",
+      "com.zhiliaoapp.musically": "1c0f85de6bfda7e4aa915316d9a459ba",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {
@@ -211,13 +211,13 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "e5055330ede9a262390ecf18e87d06ef",
+      "com.reddit.frontpage": "b76b8a5a86c6a120ebc8fdc786c5094e",
       "shared": "042b69840c096850d7e038c0a4da8751"
     },
     "stable": {
-      "com.imdb.mobile": "d09462d6bd0e422d7586a2c679626b83",
-      "com.reddit.frontpage": "848e07ad11b9a6eb668330e5d9c783aa",
-      "shared": "d951daa79b374c4a5554ac8cee2acbeb"
+      "com.imdb.mobile": "c65259fcffa441f5478aa8c0921507af",
+      "com.reddit.frontpage": "b76b8a5a86c6a120ebc8fdc786c5094e",
+      "shared": "042b69840c096850d7e038c0a4da8751"
     }
   },
   "kiraio-moe/lain-patches": {
@@ -241,10 +241,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "5a04ac8a9e37f48222a2b002b88f9c10",
-      "com.google.android.youtube": "43eed920d8d4c6745f8e5b5a3fa6f837",
-      "com.reddit.frontpage": "522e60ccdd3df282b81c7aa86cda3f2c",
-      "shared": "12d060d0aed3c12d56ed6ac5676a3379"
+      "com.google.android.apps.youtube.music": "892f63414067e916a492989157bc51c4",
+      "com.google.android.youtube": "ed2b631d7f85c8fdb23e2ae930e71caa",
+      "com.reddit.frontpage": "ded42ffe683daa0fad763fbe7ee8abff",
+      "shared": "a2de5f3987f907be59b9056d97c58ac7"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "5c699e38afa2b27c65f4d4cc10bd92d7",
