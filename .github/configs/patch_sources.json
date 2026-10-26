@@ -166,11 +166,11 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.42.3",
-    "prerelease": "test-212",
+    "stable": "v1.44.0",
+    "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-10-23T03:26:30Z",
-    "pre_date": "2026-10-06T22:01:57Z"
+    "stable_date": "2026-10-26T00:25:08Z",
+    "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {
     "repo": "revenge-mod/revenge-xposed",
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.61.0",
     "stable_date": "2026-10-25T14:59:16Z",
-    "prerelease": "v1.62.0-dev.5",
-    "pre_date": "2026-10-25T22:33:11Z",
+    "prerelease": "v1.62.0-dev.8",
+    "pre_date": "2026-10-25T23:09:13Z",
     "blocked": false
   },
   "kiraio": {
