@@ -205,8 +205,8 @@
       "shared": "c12717b4bf6cf673c82a0cde2e9625df"
     },
     "stable": {
-      "com.google.android.inputmethod.latin": "2b386956fca774c631a6b373b7758be8",
-      "shared": "8498854420cdf3dd91e3864a7ccdebfd"
+      "com.google.android.inputmethod.latin": "e8245a912f487e45f5da02c53dbe6749",
+      "shared": "507c4dfa7132443d1df0ab72dd03ffaf"
     }
   },
   "jkennethcarino/adobo": {
@@ -235,8 +235,8 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "1679caaf244ee91d4db5525ec71971df",
-      "shared": "c02ef9d0166b1af11d6153922aaac10a"
+      "com.brave.browser": "1cb64511e3a97939106796f275d4efda",
+      "shared": "d0abc65e69ba0b1af9bd47a8f8420731"
     }
   },
   "morpheapp/morphe-patches": {
