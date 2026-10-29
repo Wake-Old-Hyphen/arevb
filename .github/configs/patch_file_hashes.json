@@ -8,9 +8,9 @@
       "com.peacocktv.peacockandroid": "fd369c36ba65c72d7297980fb92ebb83",
       "com.tubitv": "fc311c606f9ce12c99fca616dda555d7",
       "com.univision.prendetv": "c105da71166c302285d93a75a6808212",
-      "com.wbd.hbomax": "04db80a6460c84ff5bb97c71ef770cdf",
-      "shared": "8560e598b4978fbeaceb8ba67cdf7021",
-      "tv.pluto.android": "661b0cff26c5ddd8ffd53d2d271663ab"
+      "com.wbd.hbomax": "3207f7b31937c7a244db20f6aab69999",
+      "shared": "c97676d30610c3e7431b885f34758cb1",
+      "tv.pluto.android": "98895257925d3a7a2847ad677e3c93e0"
     }
   },
   "anddea/revanced-patches": {
@@ -201,8 +201,8 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "b8e8852930030949190cf4527a02f70f",
-      "shared": "c12717b4bf6cf673c82a0cde2e9625df"
+      "com.google.android.inputmethod.latin": "1a09370c498dd6d6955ae83f784563b5",
+      "shared": "722c8d7402e041afc10854c47d73b245"
     },
     "stable": {
       "com.google.android.inputmethod.latin": "e8245a912f487e45f5da02c53dbe6749",
