@@ -1,17 +1,14 @@
-gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
-youtube-morphe (arm64-v8a): 21.30.216  
-youtube-morphe (arm-v7a): 21.30.216  
-youtube-music-morphe (arm64-v8a): 9.20.53  
-youtube-music-morphe (arm-v7a): 9.20.53  
-youtube-morphe-exp (arm64-v8a): 21.43.523  
-youtube-morphe-exp (arm-v7a): 21.43.523  
-youtube-music-morphe-exp (arm64-v8a): 9.43.51  
-youtube-music-morphe-exp (arm-v7a): 9.43.51  
-reddit-morphe-exp (arm64-v8a): 2026.44.0  
-reddit-morphe-exp (arm-v7a): 2026.44.0  
-reddit-morphe (arm64-v8a): 2026.40.0  
-reddit-morphe (arm-v7a): 2026.40.0  
+google-photos-morphe (arm64-v8a): 7.99.0.1007655401  
+google-photos-morphe (arm-v7a): 7.99.0.1007655401  
+google-recorder-morphe (arm64-v8a): 4.2.20260823.992025916  
+photomath-morphe (arm64-v8a): 8.48.0  
+photomath-morphe (arm-v7a): 8.48.0  
+viber-morphe (arm64-v8a): 26.1.2.0  
+viber-morphe (arm-v7a): 26.1.2.0  
+pixiv-morphe (arm64-v8a): 6.196.0  
+pixiv-morphe (arm-v7a): 6.196.0  
+strava-morphe (arm64-v8a): 477.14  
+strava-morphe (arm-v7a): 477.14  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -20,8 +17,8 @@ reddit-morphe (arm-v7a): 2026.40.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.19.1-all.jar  
-Patches: jasonwu1994/patches-4.1.0-dev.2.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.1.0-dev.2)
+Patches: hxreborn/patches-1.66.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.66.0)
 
-Patches: MorpheApp/patches-1.49.0-dev.11.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.49.0-dev.11)  
+Patches: RookieEnough/patches-1.6.2.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.6.2)  
