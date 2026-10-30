@@ -265,8 +265,8 @@
     "repo": "franticg33k/morphe-patches",
     "stable": "v1.6.0",
     "stable_date": "2026-10-21T03:39:51Z",
-    "prerelease": "v1.6.1-dev.1",
-    "pre_date": "2026-10-29T17:13:45Z",
+    "prerelease": "v1.6.1-dev.2",
+    "pre_date": "2026-10-30T02:59:06Z",
     "blocked": false
   },
   "dh6k": {
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.9.0",
     "stable_date": "2026-10-27T00:24:54Z",
-    "prerelease": "v2.10.0-experimental.4",
-    "pre_date": "2026-10-29T19:32:04Z",
+    "prerelease": "v2.10.0-experimental.5",
+    "pre_date": "2026-10-29T22:47:42Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
