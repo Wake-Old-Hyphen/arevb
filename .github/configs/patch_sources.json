@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.0.0",
-    "prerelease": "v2.0.0-dev.4",
+    "prerelease": "v2.1.0-dev.2",
     "blocked": false,
     "stable_date": "2026-10-30T11:16:04Z",
-    "pre_date": "2026-10-30T11:01:50Z"
+    "pre_date": "2026-10-31T09:44:52Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.8.0",
-    "prerelease": "v2.0.0-dev.1",
+    "prerelease": "v2.0.0-dev.2",
     "blocked": false,
     "stable_date": "2026-10-07T04:17:11.999Z",
-    "pre_date": "2026-10-30T19:36:07.194Z"
+    "pre_date": "2026-10-31T12:21:08.093Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v4.1.0",
     "stable_date": "2026-10-31T02:56:36Z",
-    "prerelease": "v4.1.0-dev.4",
-    "pre_date": "2026-10-31T00:57:42Z",
+    "prerelease": "v4.1.1-dev.1",
+    "pre_date": "2026-10-31T10:53:14Z",
     "blocked": false
   },
   "instafel": {
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.66.0",
-    "stable_date": "2026-10-29T12:50:35Z",
-    "prerelease": "v1.67.0-dev.3",
-    "pre_date": "2026-10-30T23:29:27Z",
+    "stable": "v1.67.0",
+    "stable_date": "2026-10-31T07:35:46Z",
+    "prerelease": "v1.68.0-dev.3",
+    "pre_date": "2026-10-31T14:25:31Z",
     "blocked": false
   },
   "kiraio": {
@@ -265,8 +265,8 @@
     "repo": "franticg33k/morphe-patches",
     "stable": "v1.6.0",
     "stable_date": "2026-10-21T03:39:51Z",
-    "prerelease": "v1.7.0-dev.1",
-    "pre_date": "2026-10-30T06:05:43Z",
+    "prerelease": "v1.7.0-dev.3",
+    "pre_date": "2026-10-31T11:08:28Z",
     "blocked": false
   },
   "dh6k": {
