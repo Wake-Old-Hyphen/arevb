@@ -201,12 +201,12 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "f902f1a60022d57f9a80bf5c1175d3b3",
-      "shared": "85e97e1f411df3b76373d58d3a14b48b"
+      "com.google.android.inputmethod.latin": "e85dff9635aad40d6a48febe27510321",
+      "shared": "b76accaa22531a1ea9f35e01cc0d032c"
     },
     "stable": {
-      "com.google.android.inputmethod.latin": "e8245a912f487e45f5da02c53dbe6749",
-      "shared": "507c4dfa7132443d1df0ab72dd03ffaf"
+      "com.google.android.inputmethod.latin": "8b0d72d5c9851622f941c1fa9cb8fbd3",
+      "shared": "49dc42ca40207d9aa2225283728cb5cb"
     }
   },
   "jkennethcarino/adobo": {
