@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.0.0",
-    "prerelease": "v2.1.0-dev.2",
+    "prerelease": "v2.1.0-dev.4",
     "blocked": false,
     "stable_date": "2026-10-30T11:16:04Z",
-    "pre_date": "2026-10-31T09:44:52Z"
+    "pre_date": "2026-10-31T17:10:04Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.46.2",
+    "stable": "v1.48.0",
     "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-10-30T16:17:32Z",
+    "stable_date": "2026-10-31T19:00:29Z",
     "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.8.0",
-    "prerelease": "v2.0.0-dev.2",
+    "prerelease": "v2.0.0-dev.4",
     "blocked": false,
     "stable_date": "2026-10-07T04:17:11.999Z",
-    "pre_date": "2026-10-31T12:21:08.093Z"
+    "pre_date": "2026-10-31T16:49:35.347Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -215,8 +215,8 @@
   },
   "gboard": {
     "repo": "jasonwu1994/Gboard-patches",
-    "stable": "v4.1.0",
-    "stable_date": "2026-10-31T02:56:36Z",
+    "stable": "v4.1.1",
+    "stable_date": "2026-10-31T19:29:30Z",
     "prerelease": "v4.1.1-dev.1",
     "pre_date": "2026-10-31T10:53:14Z",
     "blocked": false
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.67.0",
     "stable_date": "2026-10-31T07:35:46Z",
-    "prerelease": "v1.68.0-dev.3",
-    "pre_date": "2026-10-31T14:25:31Z",
+    "prerelease": "v1.68.0-dev.5",
+    "pre_date": "2026-10-31T16:46:02Z",
     "blocked": false
   },
   "kiraio": {
@@ -263,10 +263,10 @@
   },
   "franticg33k": {
     "repo": "franticg33k/morphe-patches",
-    "stable": "v1.6.0",
-    "stable_date": "2026-10-21T03:39:51Z",
-    "prerelease": "v1.7.0-dev.3",
-    "pre_date": "2026-10-31T11:08:28Z",
+    "stable": "v1.7.0",
+    "stable_date": "2026-10-31T15:58:39Z",
+    "prerelease": "v1.7.0-dev.5",
+    "pre_date": "2026-10-31T15:47:22Z",
     "blocked": false
   },
   "dh6k": {
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.9.0",
     "stable_date": "2026-10-27T00:24:54Z",
-    "prerelease": "v2.10.0-experimental.9",
-    "pre_date": "2026-10-31T00:50:19Z",
+    "prerelease": "v2.10.0-experimental.10",
+    "pre_date": "2026-10-31T19:46:37Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
