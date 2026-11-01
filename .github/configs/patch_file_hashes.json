@@ -180,7 +180,7 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "1c0f85de6bfda7e4aa915316d9a459ba",
+      "com.zhiliaoapp.musically": "c92215413d78735d76c746a621421648",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {
@@ -211,8 +211,8 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "b76b8a5a86c6a120ebc8fdc786c5094e",
-      "shared": "042b69840c096850d7e038c0a4da8751"
+      "com.reddit.frontpage": "7ae351496cfded7398d13a17490d5570",
+      "shared": "7c3ede93cb096012ebd7721ee7598d68"
     },
     "stable": {
       "com.imdb.mobile": "c65259fcffa441f5478aa8c0921507af",

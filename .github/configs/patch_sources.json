@@ -48,10 +48,10 @@
   "adobo": {
     "repo": "jkennethcarino/adobo",
     "stable": "v1.7.0",
-    "prerelease": "v1.7.0-dev.4",
+    "prerelease": "v2.0.0-dev.3",
     "blocked": false,
     "stable_date": "2026-10-25T14:41:12Z",
-    "pre_date": "2026-10-25T14:15:55Z"
+    "pre_date": "2026-11-01T17:27:28Z"
   },
   "rvexp": {
     "repo": "Aunali321/ReVancedExperiments",
@@ -135,10 +135,10 @@
   "tiktok": {
     "repo": "icysymmetra/tiktok-patches-for-morphe",
     "stable": "v0.8.1",
-    "prerelease": "v0.9.0-dev.4",
+    "prerelease": "v0.9.0-dev.5",
     "blocked": false,
     "stable_date": "2026-10-15T18:23:48Z",
-    "pre_date": "2026-10-25T15:37:17Z"
+    "pre_date": "2026-11-01T15:55:35Z"
   },
   "x-shim": {
     "enabled": false,
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.68.0",
     "stable_date": "2026-11-01T07:51:54Z",
-    "prerelease": "v1.69.0-dev.4",
-    "pre_date": "2026-11-01T11:26:27Z",
+    "prerelease": "v1.69.0-dev.7",
+    "pre_date": "2026-11-01T19:20:16Z",
     "blocked": false
   },
   "kiraio": {
