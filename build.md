@@ -1,7 +1,7 @@
-google-photos-morphe (arm64-v8a): 7.99.0.1007655401  
-google-photos-morphe (arm-v7a): 7.99.0.1007655401  
-gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
+instagram-instafel (arm64-v8a): 446.0.0.49.77  
+instagram-instafel (arm-v7a): 446.0.0.49.77  
+instagram-instafel-clone (arm64-v8a): 446.0.0.49.77  
+instagram-instafel-clone (arm-v7a): 446.0.0.49.77  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,8 +10,9 @@ gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-1.20.0-all.jar  
-Patches: jasonwu1994/patches-4.2.0-dev.2.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.2.0-dev.2)
+Patches: hxreborn/patches-1.68.0.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.68.0)
 
-Patches: RookieEnough/patches-1.6.3-dev.1.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.6.3-dev.1)  
+CLI: instafel/ifl-patcher-v4.7.0-release.jar  
+Patches: instafel/ifl-patcher-core-b7764c7.jar  
+[Changelog](https://github.com/instafel/pc-rel/releases/tag/b7764c7-4.7.0)  
