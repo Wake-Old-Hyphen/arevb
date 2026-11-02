@@ -135,10 +135,10 @@
   "tiktok": {
     "repo": "icysymmetra/tiktok-patches-for-morphe",
     "stable": "v0.8.1",
-    "prerelease": "v0.9.0-dev.5",
+    "prerelease": "v0.9.0-dev.6",
     "blocked": false,
     "stable_date": "2026-10-15T18:23:48Z",
-    "pre_date": "2026-11-01T15:55:35Z"
+    "pre_date": "2026-11-01T22:28:22Z"
   },
   "x-shim": {
     "enabled": false,
@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.48.0",
+    "stable": "v1.48.2",
     "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-10-31T19:00:29Z",
+    "stable_date": "2026-11-02T01:14:35Z",
     "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {

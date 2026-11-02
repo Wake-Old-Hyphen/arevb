@@ -9,8 +9,8 @@
       "com.tubitv": "fc311c606f9ce12c99fca616dda555d7",
       "com.univision.prendetv": "c105da71166c302285d93a75a6808212",
       "com.wbd.hbomax": "b6657334c84c0d74109828c5ed3857ac",
-      "shared": "93d135d970815e695e3bb0ee36bbb1c3",
-      "tv.pluto.android": "98895257925d3a7a2847ad677e3c93e0"
+      "shared": "3a0ed268368b605a9bfd19e616475e2e",
+      "tv.pluto.android": "c3edffb29467ad2cd8dd147fd3ea5c62"
     }
   },
   "anddea/revanced-patches": {
@@ -180,7 +180,7 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "c92215413d78735d76c746a621421648",
+      "com.zhiliaoapp.musically": "fc6f4ed7a249b688a6509137c0025edc",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {
