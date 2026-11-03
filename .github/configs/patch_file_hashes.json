@@ -180,7 +180,7 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "fc6f4ed7a249b688a6509137c0025edc",
+      "com.zhiliaoapp.musically": "bb8acab9be21c0593e13fdad21dfb67f",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {
@@ -201,8 +201,8 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "a9073a9635012009459a8a29f8c7d127",
-      "shared": "c0f43034c7dd70fd110429a977ea5c43"
+      "com.google.android.inputmethod.latin": "b6adc39ce5890e0ef7402a66db05e668",
+      "shared": "65cf5b92e11c9706de6d86fc3ee87adc"
     },
     "stable": {
       "com.google.android.inputmethod.latin": "2bcbcec113d202dac6caa8f247081075",
@@ -235,8 +235,8 @@
   "kveld9/kveld-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.brave.browser": "1cb64511e3a97939106796f275d4efda",
-      "shared": "d0abc65e69ba0b1af9bd47a8f8420731"
+      "com.brave.browser": "a77fafeacb756f4b4d95810c99344083",
+      "shared": "284d5669d1225b91375cb66107fd7d0d"
     }
   },
   "morpheapp/morphe-patches": {
@@ -285,18 +285,18 @@
   },
   "rookieenough/de-vanced": {
     "dev": {
-      "com.google.android.apps.photos": "379a0efe80302a06087b997a0cd7729b",
+      "com.google.android.apps.photos": "66cc5569c9dfe38d9f5a60be21645a4f",
       "shared": "53bc29bd97211283f3f3a9270f0e64bb"
     },
     "stable": {
       "com.adobe.psmobile": "ef056282ebe004ba9cc679a3e16ff772",
-      "com.google.android.apps.photos": "c11b4c4e4113ec49e3435fac075287b0",
-      "com.google.android.apps.recorder": "7b1fde5a25aaa4f8684c57f9e34ea67d",
-      "com.microblink.photomath": "0487f96e6a02121dd2cbc8f8c9315061",
-      "com.microsoft.lens": "17e773d2dbd756a0f034e4408f97348e",
-      "com.strava": "06f6d785f717d7ee06306aa2cc6687b8",
-      "com.viber.voip": "b357f284150c19b5e6f0dfe0f4eba641",
-      "jp.pxv.android": "cd1c034bed777c326963defb6395c10a",
+      "com.google.android.apps.photos": "66cc5569c9dfe38d9f5a60be21645a4f",
+      "com.google.android.apps.recorder": "0e357ba6a5b0b5c0098460810c811be4",
+      "com.microblink.photomath": "36029f114484fbbab535af5f74469d0f",
+      "com.microsoft.lens": "ea8a30734794405eb1deb4e826af3062",
+      "com.strava": "f8541a395a151d8525f2630676c4564a",
+      "com.viber.voip": "1ec6e3a7d0ef5ee982d8f3dffb5ad3cd",
+      "jp.pxv.android": "a921bb7c024018ce6d253379497c8cc6",
       "shared": "53bc29bd97211283f3f3a9270f0e64bb"
     }
   },
