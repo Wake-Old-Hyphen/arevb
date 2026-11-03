@@ -8,10 +8,10 @@
   "devanced": {
     "repo": "RookieEnough/De-Vanced",
     "stable": "v1.6.3",
-    "prerelease": "v1.6.3-dev.3",
+    "prerelease": "v1.6.4-dev.1",
     "blocked": false,
     "stable_date": "2026-11-02T19:58:05Z",
-    "pre_date": "2026-11-02T19:34:34Z"
+    "pre_date": "2026-11-03T09:12:28Z"
   },
   "anddea": {
     "repo": "anddea/revanced-patches",
@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.0.0",
-    "prerelease": "v2.1.0-dev.6",
+    "prerelease": "v2.1.0-dev.7",
     "blocked": false,
     "stable_date": "2026-10-30T11:16:04Z",
-    "pre_date": "2026-11-02T08:28:24Z"
+    "pre_date": "2026-11-03T08:24:27Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v4.1.1",
     "stable_date": "2026-10-31T19:29:30Z",
-    "prerelease": "v4.2.0-dev.4",
-    "pre_date": "2026-11-03T00:43:58Z",
+    "prerelease": "v4.2.0-dev.5",
+    "pre_date": "2026-11-03T08:48:59Z",
     "blocked": false
   },
   "instafel": {
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.69.0",
     "stable_date": "2026-11-02T08:53:39Z",
-    "prerelease": "v1.70.0-dev.8",
-    "pre_date": "2026-11-02T19:08:36Z",
+    "prerelease": "v1.70.0-dev.9",
+    "pre_date": "2026-11-03T07:01:54Z",
     "blocked": false
   },
   "kiraio": {
