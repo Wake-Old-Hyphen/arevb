@@ -241,10 +241,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "c3dc863ce7a229cf3f7f3fcf7ad0df6e",
-      "com.google.android.youtube": "09bd9a11ae9abf8baa5919cb73f96580",
+      "com.google.android.apps.youtube.music": "05854c243482d55501b743fa590b6903",
+      "com.google.android.youtube": "deca2b7f9988b4aee5d5c75655cc6ea3",
       "com.reddit.frontpage": "5123e4b8640e04524bcee19fb219eee1",
-      "shared": "a5b73a6a8607dcd14a36f372c911f89d"
+      "shared": "9a53ab7b341ab16ff7bf138c301f52ff"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "5997a31d4f87678f5b659cf4e0b83a6e",
@@ -285,19 +285,19 @@
   },
   "rookieenough/de-vanced": {
     "dev": {
-      "com.google.android.apps.photos": "17c55cfef1cf082763e8926fb4e39541",
+      "com.google.android.apps.photos": "63b1209d4e165ee57de3dfe54644cdbc",
       "shared": "30500b6db4f67c18bdb86c102c75eaf3"
     },
     "stable": {
-      "com.adobe.psmobile": "ef056282ebe004ba9cc679a3e16ff772",
-      "com.google.android.apps.photos": "66cc5569c9dfe38d9f5a60be21645a4f",
-      "com.google.android.apps.recorder": "0e357ba6a5b0b5c0098460810c811be4",
-      "com.microblink.photomath": "36029f114484fbbab535af5f74469d0f",
+      "com.adobe.psmobile": "3af93b0a4351fdd6a628f0e7db64d1fe",
+      "com.google.android.apps.photos": "63b1209d4e165ee57de3dfe54644cdbc",
+      "com.google.android.apps.recorder": "21e3d5c8609d3599be4457fa6006cc60",
+      "com.microblink.photomath": "896ec12a4703bf5ae14a7750fa88a292",
       "com.microsoft.lens": "ea8a30734794405eb1deb4e826af3062",
-      "com.strava": "f8541a395a151d8525f2630676c4564a",
-      "com.viber.voip": "1ec6e3a7d0ef5ee982d8f3dffb5ad3cd",
-      "jp.pxv.android": "a921bb7c024018ce6d253379497c8cc6",
-      "shared": "53bc29bd97211283f3f3a9270f0e64bb"
+      "com.strava": "31302586ae06146266deded74bff2e24",
+      "com.viber.voip": "701e7b5fb3c3fb63a2bdf9d94d2abf6b",
+      "jp.pxv.android": "3e0c58a6d12e8075ddbcd8b22eee453d",
+      "shared": "30500b6db4f67c18bdb86c102c75eaf3"
     }
   },
   "rushiranpise/morphe-patches": {
