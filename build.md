@@ -1,7 +1,14 @@
 google-photos-morphe (arm64-v8a): 8.0.0.1011730683  
 google-photos-morphe (arm-v7a): 8.0.0.1011730683  
-gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
+google-recorder-morphe (arm64-v8a): 4.2.20260823.992025916  
+photomath-morphe (arm64-v8a): 8.48.0  
+photomath-morphe (arm-v7a): 8.48.0  
+viber-morphe (arm64-v8a): 26.1.2.0  
+viber-morphe (arm-v7a): 26.1.2.0  
+pixiv-morphe (arm64-v8a): 6.202.1  
+pixiv-morphe (arm-v7a): 6.202.1  
+strava-morphe (arm64-v8a): 477.14  
+strava-morphe (arm-v7a): 477.14  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -10,11 +17,5 @@ gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.0.0-all.jar  
-Patches: hxreborn/patches-1.71.0.mpp  
-[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.71.0)
-
-Patches: jasonwu1994/patches-4.2.0.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.2.0)
-
-Patches: RookieEnough/patches-1.6.3.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.6.3)  
+Patches: RookieEnough/patches-1.6.4.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.6.4)  
