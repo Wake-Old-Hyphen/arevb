@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.0.0",
-    "prerelease": "v2.1.0-dev.10",
+    "prerelease": "v2.1.0-dev.11",
     "blocked": false,
     "stable_date": "2026-10-30T11:16:04Z",
-    "pre_date": "2026-11-04T15:00:43Z"
+    "pre_date": "2026-11-05T08:23:09Z"
   },
   "piko": {
     "repo": "crimera/piko",
