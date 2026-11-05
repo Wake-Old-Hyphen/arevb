@@ -18,5 +18,5 @@ reddit-morphe (arm-v7a): 2026.40.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.0.0-all.jar  
-Patches: MorpheApp/patches-2.1.0-dev.10.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0-dev.10)  
+Patches: MorpheApp/patches-2.1.0-dev.11.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0-dev.11)  
