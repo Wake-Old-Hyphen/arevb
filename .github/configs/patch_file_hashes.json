@@ -15,9 +15,9 @@
   },
   "anddea/revanced-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "e44bf0bb24ac56ee874a7a5269607db4",
-      "com.google.android.youtube": "3b47a24e435eda5be16a45e841799fc8",
-      "shared": "3c5db8eea8e767eee962c37031f86799"
+      "com.google.android.apps.youtube.music": "2b2ff8392d2808a4b69d3cdc5977be65",
+      "com.google.android.youtube": "a3aca7fc1a2ebec39ed8a23cf4bab023",
+      "shared": "8728e9fff733b718637c5ff8f60eb34a"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "38f7dee029d8d691d4d374f1f5bf7718",
