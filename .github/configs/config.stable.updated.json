@@ -1421,7 +1421,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.inputmethod.latin"
   },
   "calorie-counter-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.fatsecret.android",
     "app-name": "calorie-counter",
     "rv-brand": "morphe",
@@ -1437,7 +1437,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.fatsecret.android"
   },
   "soundcloud-morphe-alt": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.soundcloud.android",
     "app-name": "soundcloud",
     "rv-brand": "morphe-alt",
