@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.50.0",
+    "stable": "v1.50.3",
     "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-11-07T14:55:19Z",
+    "stable_date": "2026-11-07T20:54:29Z",
     "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.8.0",
-    "prerelease": "v2.0.0-dev.8",
+    "prerelease": "v2.0.0-dev.9",
     "blocked": false,
     "stable_date": "2026-10-07T04:17:11.999Z",
-    "pre_date": "2026-11-07T16:15:50.406Z"
+    "pre_date": "2026-11-07T21:33:06.724Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
