@@ -1,9 +1,11 @@
 disneyplus-morphe-androidtv (all): 26.16.0+rc2-2026.09.08  
+prime-video-morphe-androidtv (arm-v7a): 6.23.23+v15.5.0.70-armv7a  
 hbomax-morphe-androidtv (all): 7.9.0.61  
-calorie-counter-morphe (arm64-v8a): 11.8.2.1  
-calorie-counter-morphe (arm-v7a): 11.8.2.1  
-soundcloud-morphe-alt (arm64-v8a): 2026.09.09-release  
-soundcloud-morphe-alt (arm-v7a): 2026.09.09-release  
+peacock-morphe-androidtv (all): 7.10.102  
+tubi-morphe-androidtv (all): 10.40.5000  
+vix-morphe-androidtv (all): 4.46.0_tv  
+plutotv-morphe-androidtv (all): 5.66.0-leanback  
+netflix-morphe-androidtv (arm-v7a): 13.0.1build25028  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -12,8 +14,5 @@ soundcloud-morphe-alt (arm-v7a): 2026.09.09-release
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.1.1-all.jar  
-Patches: ajstrick81/patches-1.50.0.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.50.0)
-
-Patches: kondratjev/patches-1.28.2.mpp  
-[Changelog](https://github.com/kondratjev/morphe-patches/releases/tag/v1.28.2)  
+Patches: ajstrick81/patches-1.50.3.mpp  
+[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.50.3)  
