@@ -78,9 +78,9 @@
       "shared": "faf1c83762cbbcef469538d89f47784d"
     },
     "stable": {
-      "com.instagram.android": "90b1539aa4fd996d64df92684f5747b4",
-      "com.twitter.android": "b8ef463a3395befffaaf196a91f1ab8f",
-      "shared": "af8e6b25a156bf0a8dd0cc8a238f9f09"
+      "com.instagram.android": "1c2a54273e2b97a1731c2118fdec2aa7",
+      "com.twitter.android": "defec6088d45e9604dc18ccf727e6ece",
+      "shared": "faf1c83762cbbcef469538d89f47784d"
     }
   },
   "dh6k/morphe-patches": {
@@ -96,7 +96,7 @@
     "dev": {},
     "stable": {
       "com.instagram.barcelona": "8154ad9811995b4f49bbeea5611f6776",
-      "shared": "268c362cb6dfcb8bf5ac492df6a6dd67"
+      "shared": "9116d8dd1a576d7112371ef8947e9238"
     }
   },
   "franticg33k/morphe-patches": {
@@ -173,9 +173,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "7a25fd29f1043149c1aab179e8303d89",
-      "com.michaldrabik.showly2": "2eec85b8bfd7616ed781e005ee9a5a88",
-      "shared": "9e26e91e315751e1cd623aba36a64933"
+      "ch.protonmail.android": "e3f5679a0231e328302b2161a3080b71",
+      "com.michaldrabik.showly2": "c4c5ea2003686dcb5f4224760006f5eb",
+      "shared": "06bae754daa0d32b5a56ce3fe5605d8a"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -241,10 +241,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "28d7a8ac2ce5821e0673c309f72f7735",
-      "com.google.android.youtube": "6f8bc07f359357acd881e281b3d7a8af",
+      "com.google.android.apps.youtube.music": "91c9c8ef947320ac560a57d803447ca8",
+      "com.google.android.youtube": "164078a854fbd59c5ee7149f7293d3b3",
       "com.reddit.frontpage": "a80f47edc6bffe8de3dd83546fd23b99",
-      "shared": "f0e58e3e043e19b57257cb058220a7e3"
+      "shared": "590b17eec629d0b6024f1096d9b324c6"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "8b1b42785b041acec50d8685f0484d56",
