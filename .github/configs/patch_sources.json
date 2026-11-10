@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.75.1",
     "stable_date": "2026-11-09T15:26:45Z",
-    "prerelease": "v1.75.1-dev.1",
-    "pre_date": "2026-11-09T15:10:48Z",
+    "prerelease": "v1.76.0-dev.6",
+    "pre_date": "2026-11-09T22:19:46Z",
     "blocked": false
   },
   "kiraio": {
@@ -255,8 +255,8 @@
   },
   "durgesh0505": {
     "repo": "durgesh0505/chiggi_morphe_patches",
-    "stable": "v1.27.7",
-    "stable_date": "2026-11-09T18:34:13Z",
+    "stable": "v1.27.8",
+    "stable_date": "2026-11-09T19:03:42Z",
     "prerelease": "",
     "pre_date": "",
     "blocked": false
@@ -281,8 +281,8 @@
     "repo": "kveld9/kveld-morphe-patches",
     "stable": "v2.10.1",
     "stable_date": "2026-11-02T21:12:06Z",
-    "prerelease": "v2.11.0-experimental.8",
-    "pre_date": "2026-11-09T14:31:10Z",
+    "prerelease": "v2.11.0-experimental.9",
+    "pre_date": "2026-11-10T02:42:56Z",
     "blocked": false
   },
   "hxreborn-tiktok": {
