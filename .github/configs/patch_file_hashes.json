@@ -7,9 +7,9 @@
       "com.netflix.ninja": "53f9941ba7f01b83be5afc5060400dba",
       "com.peacocktv.peacockandroid": "fd369c36ba65c72d7297980fb92ebb83",
       "com.tubitv": "fc311c606f9ce12c99fca616dda555d7",
-      "com.univision.prendetv": "c105da71166c302285d93a75a6808212",
+      "com.univision.prendetv": "639530c7738b9564382d855894b1ccc4",
       "com.wbd.hbomax": "9ee44fdffc4eeb96246f41913b255a98",
-      "shared": "5cf9d84a34f926b78f994b5e624e7225",
+      "shared": "79314a1885b6ddc892d158902f8cd67b",
       "tv.pluto.android": "4ed99387abbc8e1246f4f5f12cfaec39"
     }
   },
@@ -78,9 +78,9 @@
       "shared": "0a00b99b1db2284e02de7fc0da0a6b5d"
     },
     "stable": {
-      "com.instagram.android": "1c2a54273e2b97a1731c2118fdec2aa7",
-      "com.twitter.android": "defec6088d45e9604dc18ccf727e6ece",
-      "shared": "faf1c83762cbbcef469538d89f47784d"
+      "com.instagram.android": "c13b67ded64f5888dbca1c35c14977ad",
+      "com.twitter.android": "333e61cd2831aace8ead433d56722a39",
+      "shared": "0a00b99b1db2284e02de7fc0da0a6b5d"
     }
   },
   "dh6k/morphe-patches": {
@@ -173,9 +173,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "e3f5679a0231e328302b2161a3080b71",
-      "com.michaldrabik.showly2": "c4c5ea2003686dcb5f4224760006f5eb",
-      "shared": "06bae754daa0d32b5a56ce3fe5605d8a"
+      "ch.protonmail.android": "228873fa1d0d58a335b0a5e2a8dc829e",
+      "com.michaldrabik.showly2": "de3b2b3a8ec0e22b46576f722e316e2b",
+      "shared": "135073e65ea7ef4a20d1d2dce864fef3"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -247,10 +247,10 @@
       "shared": "3944214a52fabf31805766312c7106fc"
     },
     "stable": {
-      "com.google.android.apps.youtube.music": "8b1b42785b041acec50d8685f0484d56",
-      "com.google.android.youtube": "502191b95cc0c725e5fd051af5a3b0eb",
-      "com.reddit.frontpage": "9e4383fdea6c9ea58acc76b168e7b898",
-      "shared": "524bdc55d024f4263ec858843466e574"
+      "com.google.android.apps.youtube.music": "208e1dacd9e69e1d6ac02d64e1a6c540",
+      "com.google.android.youtube": "b0d90012b8e172e6665dbaa32cf1b246",
+      "com.reddit.frontpage": "7651c59bc39ee30946d3821d09cafe17",
+      "shared": "a6f067af81f0c9d47e6d1db136df2db8"
     }
   },
   "paresh-maheshwari/paresh-patches": {

@@ -23,18 +23,18 @@
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
-    "stable": "v2.1.0",
+    "stable": "v2.2.0",
     "prerelease": "v2.2.0-dev.5",
     "blocked": false,
-    "stable_date": "2026-11-06T14:15:16Z",
+    "stable_date": "2026-11-10T14:41:45Z",
     "pre_date": "2026-11-10T09:01:34Z"
   },
   "piko": {
     "repo": "crimera/piko",
-    "stable": "v3.11.0",
+    "stable": "v3.11.1",
     "prerelease": "v3.11.1-dev.1",
     "blocked": false,
-    "stable_date": "2026-11-09T10:54:44Z",
+    "stable_date": "2026-11-10T12:59:39Z",
     "pre_date": "2026-11-10T10:19:04Z"
   },
   "hoodles": {
@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.51.0",
+    "stable": "v1.52.1",
     "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-11-08T00:51:07Z",
+    "stable_date": "2026-11-10T21:05:26Z",
     "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.75.1",
-    "stable_date": "2026-11-09T15:26:45Z",
-    "prerelease": "v1.76.0-dev.7",
-    "pre_date": "2026-11-10T09:12:26Z",
+    "stable": "v1.76.0",
+    "stable_date": "2026-11-10T19:31:28Z",
+    "prerelease": "v1.76.0-dev.8",
+    "pre_date": "2026-11-10T19:20:59Z",
     "blocked": false
   },
   "kiraio": {
@@ -273,8 +273,8 @@
     "repo": "dh6k/morphe-patches",
     "stable": "v1.9.0",
     "stable_date": "2026-10-22T16:40:51Z",
-    "prerelease": "v1.10.0-dev.1",
-    "pre_date": "2026-10-30T14:54:11Z",
+    "prerelease": "v1.10.0-dev.3",
+    "pre_date": "2026-11-10T19:26:09Z",
     "blocked": false
   },
   "kveld9": {
