@@ -1,6 +1,6 @@
 {
-  "version": "v8.0.0.1011730683 (patches 1.6.4.mpp)",
+  "version": "v8.1.0.1016919706 (patches 1.6.4.mpp)",
   "versionCode": 260194,
-  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260194/google-photos-morphe-module-v8.0.0.1011730683-arm64-v8a.zip",
+  "zipUrl": "https://github.com/Wake-Old-Hyphen/arevb/releases/download/260194/google-photos-morphe-module-v8.1.0.1016919706-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Wake-Old-Hyphen/arevb/update/build.md"
 }
