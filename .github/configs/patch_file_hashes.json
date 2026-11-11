@@ -4,7 +4,7 @@
     "stable": {
       "com.amazon.amazonvideo.livingroom": "3ad81af66f716c321949386905b011cd",
       "com.disney.disneyplus": "1a5c00d6bbc4ede650082350f3dc7597",
-      "com.netflix.ninja": "53f9941ba7f01b83be5afc5060400dba",
+      "com.netflix.ninja": "76e540ffbd06d29b1015cd271522b357",
       "com.peacocktv.peacockandroid": "fd369c36ba65c72d7297980fb92ebb83",
       "com.tubitv": "fc311c606f9ce12c99fca616dda555d7",
       "com.univision.prendetv": "639530c7738b9564382d855894b1ccc4",
@@ -241,10 +241,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "3f518378740ced9219c462771970ac91",
-      "com.google.android.youtube": "63c86851aa99319268a466b5dde1287b",
-      "com.reddit.frontpage": "9a675ef836d909ea202ce5548ca0d0d2",
-      "shared": "3944214a52fabf31805766312c7106fc"
+      "com.google.android.apps.youtube.music": "9144e9645b766707fb13526272293c20",
+      "com.google.android.youtube": "c56b564197b6e4c7542e22b9bbfa3396",
+      "com.reddit.frontpage": "7651c59bc39ee30946d3821d09cafe17",
+      "shared": "efd1ddd3e920f5ac8d48c9a4a7627794"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "208e1dacd9e69e1d6ac02d64e1a6c540",
