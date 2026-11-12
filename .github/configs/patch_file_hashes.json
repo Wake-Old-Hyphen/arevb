@@ -180,7 +180,7 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "b1018ba5167a4a463dbff469b00042a3",
+      "com.zhiliaoapp.musically": "628c4e373a18d835f87cb69e3c33d355",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {
@@ -241,10 +241,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "9144e9645b766707fb13526272293c20",
-      "com.google.android.youtube": "c56b564197b6e4c7542e22b9bbfa3396",
-      "com.reddit.frontpage": "7651c59bc39ee30946d3821d09cafe17",
-      "shared": "efd1ddd3e920f5ac8d48c9a4a7627794"
+      "com.google.android.apps.youtube.music": "6b35bf7510b45dcb96a9a4b4156761a0",
+      "com.google.android.youtube": "d9645ed8a1b5834a7799741c5a24203d",
+      "com.reddit.frontpage": "e2574334e5d99261589c5154b1330a92",
+      "shared": "fdbcb260b126f5423950105d0ea83eec"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "208e1dacd9e69e1d6ac02d64e1a6c540",

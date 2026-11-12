@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.2.0",
-    "prerelease": "v2.3.0-dev.1",
+    "prerelease": "v2.3.0-dev.2",
     "blocked": false,
     "stable_date": "2026-11-10T14:41:45Z",
-    "pre_date": "2026-11-11T10:57:43Z"
+    "pre_date": "2026-11-12T13:58:32Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -135,10 +135,10 @@
   "tiktok": {
     "repo": "icysymmetra/tiktok-patches-for-morphe",
     "stable": "v0.10.0",
-    "prerelease": "v0.11.0-dev.1",
+    "prerelease": "v0.11.0-dev.2",
     "blocked": false,
     "stable_date": "2026-11-11T21:26:37Z",
-    "pre_date": "2026-11-12T01:25:36Z"
+    "pre_date": "2026-11-12T10:41:17Z"
   },
   "x-shim": {
     "enabled": false,
