@@ -173,14 +173,14 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "228873fa1d0d58a335b0a5e2a8dc829e",
-      "com.michaldrabik.showly2": "de3b2b3a8ec0e22b46576f722e316e2b",
-      "shared": "135073e65ea7ef4a20d1d2dce864fef3"
+      "ch.protonmail.android": "e7cf921db5329e3df1cf81de01e5d81d",
+      "com.michaldrabik.showly2": "1526e305065bf9b280ffac7efa6c7daf",
+      "shared": "d91dccb4c20c04cb198e6088aafb441f"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "072ccb653b3eac8c346f7686e2cbf001",
+      "com.zhiliaoapp.musically": "b1018ba5167a4a463dbff469b00042a3",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {

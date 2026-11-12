@@ -135,10 +135,10 @@
   "tiktok": {
     "repo": "icysymmetra/tiktok-patches-for-morphe",
     "stable": "v0.10.0",
-    "prerelease": "v0.10.0-dev.2",
+    "prerelease": "v0.11.0-dev.1",
     "blocked": false,
     "stable_date": "2026-11-11T21:26:37Z",
-    "pre_date": "2026-11-11T21:19:28Z"
+    "pre_date": "2026-11-12T01:25:36Z"
   },
   "x-shim": {
     "enabled": false,
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.76.0",
-    "stable_date": "2026-11-10T19:31:28Z",
-    "prerelease": "v1.76.1-dev.1",
-    "pre_date": "2026-11-11T09:51:55Z",
+    "stable": "v1.77.0",
+    "stable_date": "2026-11-12T06:00:06Z",
+    "prerelease": "v1.77.0-dev.2",
+    "pre_date": "2026-11-12T05:18:33Z",
     "blocked": false
   },
   "kiraio": {
