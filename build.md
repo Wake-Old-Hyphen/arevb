@@ -1,5 +1,3 @@
-disneyplus-morphe-androidtv (all): 26.16.0+rc2-2026.09.08  
-hbomax-morphe-androidtv (all): 7.9.0.61  
 gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
 gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
 
@@ -10,8 +8,8 @@ gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.1.1-all.jar  
-Patches: ajstrick81/patches-1.54.0.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.54.0)
+Patches: icysymmetra/patches-0.11.0-dev.4.mpp  
+[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.11.0-dev.4)
 
-Patches: jasonwu1994/patches-4.3.0.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.3.0)  
+Patches: jasonwu1994/patches-4.4.0-dev.1.mpp  
+[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.4.0-dev.1)  
