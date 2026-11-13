@@ -180,7 +180,7 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "cf5df7b647ba6ec0f0a6a300c42fdd64",
+      "com.zhiliaoapp.musically": "1676286f2bcdb5053ce5a3d32b03688b",
       "shared": "999940beba9ae3e33368c32b0650a6d5"
     },
     "stable": {
@@ -201,8 +201,8 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "65c8bc67da54314499627609aa1b38a5",
-      "shared": "17c9671692884a18816f33cf8b96c448"
+      "com.google.android.inputmethod.latin": "0edb715d21e87bae7c4101db6b76ed61",
+      "shared": "4bc81fbb5699c0be5f6655e785bbbd81"
     },
     "stable": {
       "com.google.android.inputmethod.latin": "dd9c8c212e4c5165d5a3b69cda35d53b",
