@@ -1,15 +1,7 @@
-youtube-morphe (arm64-v8a): 21.30.216  
-youtube-morphe (arm-v7a): 21.30.216  
-youtube-music-morphe (arm64-v8a): 9.30.53  
-youtube-music-morphe (arm-v7a): 9.30.53  
-youtube-morphe-exp (arm64-v8a): 21.45.82  
-youtube-morphe-exp (arm-v7a): 21.45.82  
-youtube-music-morphe-exp (arm64-v8a): 9.45.51  
-youtube-music-morphe-exp (arm-v7a): 9.45.51  
-reddit-morphe-exp (arm64-v8a): 2026.45.0  
-reddit-morphe-exp (arm-v7a): 2026.45.0  
-reddit-morphe (arm64-v8a): 2026.40.0  
-reddit-morphe (arm-v7a): 2026.40.0  
+disneyplus-morphe-androidtv (all): 26.16.0+rc2-2026.09.08  
+hbomax-morphe-androidtv (all): 7.9.0.61  
+gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
+gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -18,8 +10,8 @@ reddit-morphe (arm-v7a): 2026.40.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.1.1-all.jar  
-Patches: icysymmetra/patches-0.11.0-dev.2.mpp  
-[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.11.0-dev.2)
+Patches: ajstrick81/patches-1.54.0.mpp  
+[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.54.0)
 
-Patches: MorpheApp/patches-2.3.0-dev.2.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.3.0-dev.2)  
+Patches: jasonwu1994/patches-4.3.0.mpp  
+[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.3.0)  
