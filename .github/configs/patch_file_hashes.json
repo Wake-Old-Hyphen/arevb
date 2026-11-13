@@ -15,9 +15,9 @@
   },
   "anddea/revanced-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "2b2ff8392d2808a4b69d3cdc5977be65",
-      "com.google.android.youtube": "a3aca7fc1a2ebec39ed8a23cf4bab023",
-      "shared": "8728e9fff733b718637c5ff8f60eb34a"
+      "com.google.android.apps.youtube.music": "b61913b8b341cd65b5cb8ae3d7ac57a7",
+      "com.google.android.youtube": "41224df37e6de5fa681f26840c83838e",
+      "shared": "04a91d3e19061c4acf4937e8c7182bbd"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "38f7dee029d8d691d4d374f1f5bf7718",
@@ -51,6 +51,10 @@
       "org.telegram.messenger.web": "15b1a310f52541ae1e311491cf1ca092",
       "shared": "1c29accc9255fcf425f6651eea76d7d3"
     }
+  },
+  "bholeykabhakt/revanced-patches-xtra": {
+    "dev": {},
+    "stable": {}
   },
   "brosssh/morphe-patches": {
     "dev": {
@@ -180,8 +184,8 @@
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "1676286f2bcdb5053ce5a3d32b03688b",
-      "shared": "999940beba9ae3e33368c32b0650a6d5"
+      "com.zhiliaoapp.musically": "bd8cae4ce5bf340e3994faf577635803",
+      "shared": "ca88f5d913390c9f6a799bfe6f166e72"
     },
     "stable": {
       "com.zhiliaoapp.musically": "072ccb653b3eac8c346f7686e2cbf001",
@@ -241,10 +245,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "6b35bf7510b45dcb96a9a4b4156761a0",
-      "com.google.android.youtube": "d9645ed8a1b5834a7799741c5a24203d",
-      "com.reddit.frontpage": "e2574334e5d99261589c5154b1330a92",
-      "shared": "fdbcb260b126f5423950105d0ea83eec"
+      "com.google.android.apps.youtube.music": "1b3955b3436a31b0a8e5d3c4c0625415",
+      "com.google.android.youtube": "fe2e01e2619720fab2620432ff1fc9d5",
+      "com.reddit.frontpage": "693cfe70d1c7a44b522c3064337d9553",
+      "shared": "4f895125eaa9c8e0ea05385d8413bbb9"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "208e1dacd9e69e1d6ac02d64e1a6c540",

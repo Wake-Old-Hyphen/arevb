@@ -16,18 +16,18 @@
   "anddea": {
     "repo": "anddea/revanced-patches",
     "stable": "v4.3.0",
-    "prerelease": "v4.4.0-dev.6",
+    "prerelease": "v4.4.0-dev.7",
     "blocked": false,
     "stable_date": "2026-09-28T12:26:39Z",
-    "pre_date": "2026-11-06T16:37:45Z"
+    "pre_date": "2026-11-13T18:00:13Z"
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.2.0",
-    "prerelease": "v2.3.0-dev.2",
+    "prerelease": "v2.3.0-dev.3",
     "blocked": false,
     "stable_date": "2026-11-10T14:41:45Z",
-    "pre_date": "2026-11-12T13:58:32Z"
+    "pre_date": "2026-11-13T12:34:09Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -104,10 +104,10 @@
   "rvxtra": {
     "repo": "BholeyKaBhakt/revanced-patches-xtra",
     "stable": "v2.12.0",
-    "prerelease": "v2.12.0-dev.1",
+    "prerelease": "v2.0.4-dev.1",
     "blocked": false,
     "stable_date": "2026-06-22T17:44:41Z",
-    "pre_date": "2026-06-19T07:44:04Z"
+    "pre_date": "2026-05-20T08:17:53Z"
   },
   "meta": {
     "repo": "MeridianFresco/morphe-meta-patches",
@@ -135,10 +135,10 @@
   "tiktok": {
     "repo": "icysymmetra/tiktok-patches-for-morphe",
     "stable": "v0.10.0",
-    "prerelease": "v0.11.0-dev.4",
+    "prerelease": "v0.11.0-dev.5",
     "blocked": false,
     "stable_date": "2026-11-11T21:26:37Z",
-    "pre_date": "2026-11-13T02:19:45Z"
+    "pre_date": "2026-11-13T16:51:18Z"
   },
   "x-shim": {
     "enabled": false,
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.8.0",
-    "prerelease": "v2.0.0-dev.11",
+    "prerelease": "v2.0.0-dev.12",
     "blocked": false,
     "stable_date": "2026-10-07T04:17:11.999Z",
-    "pre_date": "2026-11-12T22:11:30.478Z"
+    "pre_date": "2026-11-13T16:38:14.476Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.77.0",
     "stable_date": "2026-11-12T06:00:06Z",
-    "prerelease": "v1.78.0-dev.1",
-    "pre_date": "2026-11-12T21:22:35Z",
+    "prerelease": "v1.78.0-dev.2",
+    "pre_date": "2026-11-13T13:33:10Z",
     "blocked": false
   },
   "kiraio": {
