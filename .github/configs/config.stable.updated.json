@@ -252,7 +252,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.instagram.android"
   },
   "automate-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.llamalab.automate",
     "app-name": "automate",
     "rv-brand": "morphe",
@@ -266,7 +266,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.llamalab.automate"
   },
   "speedtest-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "org.zwanoo.android.speedtest",
     "app-name": "speedtest",
     "rv-brand": "morphe",
@@ -280,7 +280,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.zwanoo.android.speedtest"
   },
   "autosync-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.ttxapps.autosync",
     "app-name": "autosync",
     "rv-brand": "morphe",
@@ -294,7 +294,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.ttxapps.autosync"
   },
   "inshorts-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.camerasideas.instashot",
     "app-name": "inshorts",
     "rv-brand": "morphe",
@@ -308,7 +308,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.camerasideas.instashot"
   },
   "vpnify-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.vpn.free.hotspot.secure.vpnify",
     "app-name": "vpnify",
     "rv-brand": "morphe",
@@ -322,7 +322,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.vpn.free.hotspot.secure.vpnify"
   },
   "backdrops-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.backdrops.wallpapers",
     "app-name": "backdrops",
     "rv-brand": "morphe",
@@ -497,7 +497,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.discord"
   },
   "microsoft-edge-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.microsoft.emmx",
     "app-name": "microsoft-edge",
     "rv-brand": "morphe",
@@ -622,7 +622,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.apps.youtube.music"
   },
   "google-photos-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.google.android.apps.photos",
     "app-name": "google-photos",
     "rv-brand": "morphe",
@@ -1316,7 +1316,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.dialer"
   },
   "proton-mail-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "ch.protonmail.android",
     "app-name": "proton-mail",
     "rv-brand": "morphe",
@@ -1333,7 +1333,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/ch.protonmail.android"
   },
   "showly-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.michaldrabik.showly2",
     "app-name": "showly",
     "rv-brand": "morphe",
@@ -1421,7 +1421,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.inputmethod.latin"
   },
   "calorie-counter-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.fatsecret.android",
     "app-name": "calorie-counter",
     "rv-brand": "morphe",

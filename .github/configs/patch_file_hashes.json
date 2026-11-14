@@ -54,7 +54,15 @@
   },
   "bholeykabhakt/revanced-patches-xtra": {
     "dev": {},
-    "stable": {}
+    "stable": {
+      "com.backdrops.wallpapers": "c6a64f6379730ad02fa599b4572fbb83",
+      "com.camerasideas.instashot": "670238d19aa03079677059230448333f",
+      "com.llamalab.automate": "8f88e7d217de914e2d951b401f9ff22d",
+      "com.ttxapps.autosync": "12c3c23a81740493ee7711e8770940a9",
+      "com.vpn.free.hotspot.secure.vpnify": "1e62d2c7fc13fe007adbd13f211ec462",
+      "org.zwanoo.android.speedtest": "ca77b2100f20f403b26630eb04cfea70",
+      "shared": "d4a695998163565512c022c986e1f55e"
+    }
   },
   "brosssh/morphe-patches": {
     "dev": {
@@ -177,14 +185,14 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "e7cf921db5329e3df1cf81de01e5d81d",
-      "com.michaldrabik.showly2": "1526e305065bf9b280ffac7efa6c7daf",
-      "shared": "d91dccb4c20c04cb198e6088aafb441f"
+      "ch.protonmail.android": "179edb2b279d43b3b3ff624dae121e59",
+      "com.michaldrabik.showly2": "4ccd08128ac8e39ca7163ce5faa55d35",
+      "shared": "0c9d85466ef3f1a2549cc1621d86ee36"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
     "dev": {
-      "com.zhiliaoapp.musically": "bd8cae4ce5bf340e3994faf577635803",
+      "com.zhiliaoapp.musically": "dee0198e38e88285db882a539d86bc2d",
       "shared": "ca88f5d913390c9f6a799bfe6f166e72"
     },
     "stable": {
@@ -245,10 +253,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "1b3955b3436a31b0a8e5d3c4c0625415",
-      "com.google.android.youtube": "fe2e01e2619720fab2620432ff1fc9d5",
-      "com.reddit.frontpage": "693cfe70d1c7a44b522c3064337d9553",
-      "shared": "4f895125eaa9c8e0ea05385d8413bbb9"
+      "com.google.android.apps.youtube.music": "6d84122ca4d63aa698a77f9a2b7545d5",
+      "com.google.android.youtube": "6724c6fe32f4d324ac95b2287eab340c",
+      "com.reddit.frontpage": "12056505f5b27f55a435ad2a31c1ae92",
+      "shared": "07429c752574f3ab298ee5d5d01b683e"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "208e1dacd9e69e1d6ac02d64e1a6c540",
@@ -279,8 +287,8 @@
   "quantavil/edge-morphe-patches": {
     "dev": {},
     "stable": {
-      "com.microsoft.emmx": "6aa60cfb49e4185ad36ce7a8641348d2",
-      "shared": "285c206f162c8d5522d4910243aa3d2a"
+      "com.microsoft.emmx": "d1c41aebb58d0edd60db17d7abb8fa66",
+      "shared": "492f74a9ccd3749d3979d08dd93a06ea"
     }
   },
   "revenge-mod/revenge-xposed": {
