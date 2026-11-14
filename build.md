@@ -1,15 +1,11 @@
-youtube-morphe (arm64-v8a): 21.30.216  
-youtube-morphe (arm-v7a): 21.30.216  
-youtube-music-morphe (arm64-v8a): 9.30.53  
-youtube-music-morphe (arm-v7a): 9.30.53  
-youtube-morphe-exp (arm64-v8a): 21.45.82  
-youtube-morphe-exp (arm-v7a): 21.45.82  
-youtube-music-morphe-exp (arm64-v8a): 9.45.51  
-youtube-music-morphe-exp (arm-v7a): 9.45.51  
-reddit-morphe-exp (arm64-v8a): 2026.46.0  
-reddit-morphe-exp (arm-v7a): 2026.46.0  
-reddit-morphe (arm64-v8a): 2026.40.0  
-reddit-morphe (arm-v7a): 2026.40.0  
+automate-morphe (arm64-v8a): 1.51.1  
+automate-morphe (arm-v7a): 1.51.1  
+speedtest-morphe (arm64-v8a): 7.1.4  
+speedtest-morphe (arm-v7a): 7.1.4  
+backdrops-morphe (arm64-v8a): 6.6  
+backdrops-morphe (arm-v7a): 6.6  
+microsoft-edge-morphe (arm64-v8a): 157.0.4341.53  
+microsoft-edge-morphe (arm-v7a): 157.0.4341.53  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -18,8 +14,11 @@ reddit-morphe (arm-v7a): 2026.40.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.1.1-all.jar  
-Patches: icysymmetra/patches-0.11.0-dev.6.mpp  
-[Changelog](https://github.com/icysymmetra/tiktok-patches-for-morphe/releases/tag/v0.11.0-dev.6)
+Patches: BholeyKaBhakt/patches-2.13.0.mpp  
+[Changelog](https://github.com/BholeyKaBhakt/revanced-patches-xtra/releases/tag/v2.13.0)
 
-Patches: MorpheApp/patches-2.3.0-dev.5.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.3.0-dev.5)  
+Patches: hxreborn/patches-1.78.1.mpp  
+[Changelog](https://github.com/hxreborn/morphe-patches/releases/tag/v1.78.1)
+
+Patches: quantavil/patches-1.37.2.mpp  
+[Changelog](https://github.com/quantavil/edge-morphe-patches/releases/tag/v1.37.2)  
