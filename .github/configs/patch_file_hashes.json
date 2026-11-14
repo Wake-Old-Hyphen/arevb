@@ -213,8 +213,8 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "0edb715d21e87bae7c4101db6b76ed61",
-      "shared": "4bc81fbb5699c0be5f6655e785bbbd81"
+      "com.google.android.inputmethod.latin": "e91f8cc96724620fdc272a37d12b4ffe",
+      "shared": "2fb597bf8d48f7bd3918a73ec88a0d69"
     },
     "stable": {
       "com.google.android.inputmethod.latin": "dd9c8c212e4c5165d5a3b69cda35d53b",
