@@ -103,10 +103,10 @@
   },
   "rvxtra": {
     "repo": "BholeyKaBhakt/revanced-patches-xtra",
-    "stable": "v2.13.0",
+    "stable": "v2.14.0",
     "prerelease": "v2.0.4-dev.1",
     "blocked": false,
-    "stable_date": "2026-11-14T07:14:48Z",
+    "stable_date": "2026-11-14T15:34:20Z",
     "pre_date": "2026-05-20T08:17:53Z"
   },
   "meta": {
@@ -135,10 +135,10 @@
   "tiktok": {
     "repo": "icysymmetra/tiktok-patches-for-morphe",
     "stable": "v0.10.0",
-    "prerelease": "v0.11.0-dev.6",
+    "prerelease": "v0.11.0-dev.7",
     "blocked": false,
     "stable_date": "2026-11-11T21:26:37Z",
-    "pre_date": "2026-11-14T01:27:51Z"
+    "pre_date": "2026-11-14T15:11:47Z"
   },
   "x-shim": {
     "enabled": false,
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.78.1",
     "stable_date": "2026-11-14T10:46:23Z",
-    "prerelease": "v1.79.0-dev.2",
-    "pre_date": "2026-11-14T10:54:44Z",
+    "prerelease": "v1.79.0-dev.5",
+    "pre_date": "2026-11-14T14:31:37Z",
     "blocked": false
   },
   "kiraio": {
