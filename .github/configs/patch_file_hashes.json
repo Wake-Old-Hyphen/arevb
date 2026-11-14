@@ -231,7 +231,7 @@
   "kondratjev/morphe-patches": {
     "dev": {},
     "stable": {
-      "com.fatsecret.android": "a3c34d7b9c2f6ee09f01dee83523164e",
+      "com.fatsecret.android": "6ba7f7963e19d692c45891bb74f1f48f",
       "com.soundcloud.android": "838bacba1749fd0a0586d8202441e916",
       "shared": "ae3be9fa5d88e33291e4a0f5fc463beb"
     }
