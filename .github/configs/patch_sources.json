@@ -23,11 +23,11 @@
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
-    "stable": "v2.2.0",
-    "prerelease": "v2.3.0-dev.7",
+    "stable": "v2.3.0",
+    "prerelease": "v2.3.0-dev.9",
     "blocked": false,
-    "stable_date": "2026-11-10T14:41:45Z",
-    "pre_date": "2026-11-15T11:13:07Z"
+    "stable_date": "2026-11-16T13:10:51Z",
+    "pre_date": "2026-11-16T11:07:51Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.79.0",
-    "stable_date": "2026-11-15T07:52:45Z",
-    "prerelease": "v1.80.0-dev.1",
-    "pre_date": "2026-11-15T19:31:18Z",
+    "stable": "v1.80.0",
+    "stable_date": "2026-11-16T08:55:10Z",
+    "prerelease": "v1.80.1-dev.1",
+    "pre_date": "2026-11-16T15:36:05Z",
     "blocked": false
   },
   "kiraio": {
