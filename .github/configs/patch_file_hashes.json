@@ -85,9 +85,9 @@
   },
   "crimera/piko": {
     "dev": {
-      "com.instagram.android": "b5e3cdd9b120d3b6a90d08484a313b93",
-      "com.twitter.android": "1d83198777a5e7df3b175da831f9fc1a",
-      "shared": "d422b5e7a86ace7243b34c24a6af25b5"
+      "com.instagram.android": "0fa5092ac62a3f8d0727f145012ef167",
+      "com.twitter.android": "3bac256e96a13bb7797f924227bed9cc",
+      "shared": "45b809e4f17add404fe5b7c262d8b175"
     },
     "stable": {
       "com.instagram.android": "c13b67ded64f5888dbca1c35c14977ad",
@@ -253,10 +253,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "e46398df179c37761aa86ad25912e086",
-      "com.google.android.youtube": "bfda500df262da1a9f05dda701214434",
-      "com.reddit.frontpage": "4146a108c15067fae73312586efc2dde",
-      "shared": "19c080895fc4849a352c98f64dc0d767"
+      "com.google.android.apps.youtube.music": "1362d2a7f348c1cf74e01f3021206be7",
+      "com.google.android.youtube": "06da4c03b0873fd861e950a3d0bc9111",
+      "com.reddit.frontpage": "e409d16faa1b623c360687fb1a8f7d0e",
+      "shared": "a60041478ed5264cdf168e755b5c37b3"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "e46398df179c37761aa86ad25912e086",
