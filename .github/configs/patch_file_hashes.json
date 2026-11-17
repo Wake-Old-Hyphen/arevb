@@ -9,7 +9,7 @@
       "com.tubitv": "fc311c606f9ce12c99fca616dda555d7",
       "com.univision.prendetv": "639530c7738b9564382d855894b1ccc4",
       "com.wbd.hbomax": "c76f0522add98f1ea0479980ffa64673",
-      "shared": "79314a1885b6ddc892d158902f8cd67b",
+      "shared": "f5adba7a4a60e30a2866895208855524",
       "tv.pluto.android": "4ed99387abbc8e1246f4f5f12cfaec39"
     }
   },
@@ -85,9 +85,9 @@
   },
   "crimera/piko": {
     "dev": {
-      "com.instagram.android": "c13b67ded64f5888dbca1c35c14977ad",
-      "com.twitter.android": "333e61cd2831aace8ead433d56722a39",
-      "shared": "0a00b99b1db2284e02de7fc0da0a6b5d"
+      "com.instagram.android": "c437ebe80bdda3900bddcdff6d9f6331",
+      "com.twitter.android": "f7f02fabdbb00253a54986980b078fc2",
+      "shared": "65969ad26f10b8bd0f92c55ccf797305"
     },
     "stable": {
       "com.instagram.android": "c13b67ded64f5888dbca1c35c14977ad",
