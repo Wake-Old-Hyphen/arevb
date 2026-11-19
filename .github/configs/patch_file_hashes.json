@@ -185,9 +185,9 @@
   "hxreborn/morphe-patches": {
     "dev": {},
     "stable": {
-      "ch.protonmail.android": "dc4a2d1adfd462d9fa1ae4635f6c5fc0",
-      "com.michaldrabik.showly2": "75d71831c7687acb35f708ba598b8738",
-      "shared": "bdddc2c65ea0232d09eb30565379cc5f"
+      "ch.protonmail.android": "6365f5a2aa3ae5e90ad8ad71d267bee2",
+      "com.michaldrabik.showly2": "12fb08b8ed106a08d92d4a4dd2d21749",
+      "shared": "1e541e454fdb61a9392f21209d26d855"
     }
   },
   "icysymmetra/tiktok-patches-for-morphe": {
@@ -213,8 +213,8 @@
   },
   "jasonwu1994/gboard-patches": {
     "dev": {
-      "com.google.android.inputmethod.latin": "e91f8cc96724620fdc272a37d12b4ffe",
-      "shared": "2fb597bf8d48f7bd3918a73ec88a0d69"
+      "com.google.android.inputmethod.latin": "28ccdc04dfba9c512b6b30d4d79a290b",
+      "shared": "c37b126a02867c618967d45af4d5df93"
     },
     "stable": {
       "com.google.android.inputmethod.latin": "dd9c8c212e4c5165d5a3b69cda35d53b",
@@ -253,10 +253,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "4d37b2de794bb61a98b5ab93f6396a00",
-      "com.google.android.youtube": "3cf937c277135759c2604dc425993c48",
-      "com.reddit.frontpage": "ac43b793d30881f982286da20fa00985",
-      "shared": "68d0c3352f717d5d4e9f94e07ce9cfa4"
+      "com.google.android.apps.youtube.music": "0acf7503563c90731dcb73bf6342847f",
+      "com.google.android.youtube": "f7a821772bb56ad05f14a341324fd5f3",
+      "com.reddit.frontpage": "dfa1fb2e74d9f4c72d354f68a1df2d68",
+      "shared": "72ebf2af5b58ab880d64f43867f8efc9"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "e46398df179c37761aa86ad25912e086",
