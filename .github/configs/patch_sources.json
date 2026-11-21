@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.3.0",
-    "prerelease": "v2.4.0-dev.6",
+    "prerelease": "v2.4.0-dev.7",
     "blocked": false,
     "stable_date": "2026-11-16T13:10:51Z",
-    "pre_date": "2026-11-20T13:58:27Z"
+    "pre_date": "2026-11-21T16:17:40Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -47,10 +47,10 @@
   },
   "adobo": {
     "repo": "jkennethcarino/adobo",
-    "stable": "v1.7.0",
+    "stable": "v2.0.1",
     "prerelease": "v2.0.0-dev.9",
     "blocked": false,
-    "stable_date": "2026-10-25T14:41:12Z",
+    "stable_date": "2026-11-21T17:19:34Z",
     "pre_date": "2026-11-21T12:27:48Z"
   },
   "rvexp": {
@@ -103,11 +103,11 @@
   },
   "rvxtra": {
     "repo": "BholeyKaBhakt/revanced-patches-xtra",
-    "stable": "v2.14.0",
-    "prerelease": "v2.15.0-dev.3",
+    "stable": "v2.16.0",
+    "prerelease": "v2.0.4-dev.1",
     "blocked": false,
-    "stable_date": "2026-11-14T15:34:20Z",
-    "pre_date": "2026-11-21T11:26:39Z"
+    "stable_date": "2026-11-21T16:10:42Z",
+    "pre_date": "2026-05-20T08:17:53Z"
   },
   "meta": {
     "repo": "MeridianFresco/morphe-meta-patches",
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.84.0",
-    "stable_date": "2026-11-20T14:00:29Z",
-    "prerelease": "v1.85.0-dev.2",
-    "pre_date": "2026-11-21T08:10:17Z",
+    "stable": "v1.85.0",
+    "stable_date": "2026-11-21T14:12:49Z",
+    "prerelease": "v1.85.1-dev.2",
+    "pre_date": "2026-11-21T21:35:24Z",
     "blocked": false
   },
   "kiraio": {
