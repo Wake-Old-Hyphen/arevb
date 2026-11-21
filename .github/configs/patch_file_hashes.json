@@ -223,8 +223,8 @@
   },
   "jkennethcarino/adobo": {
     "dev": {
-      "com.reddit.frontpage": "e70e4682b3f65a583b334170c3589a96",
-      "shared": "cc86f139c834d2a02cabd52889266e45"
+      "com.reddit.frontpage": "7edce35afeb830bf89611fca6f1eafc5",
+      "shared": "ad8dae43dee9d46deb8e80c43e7e6949"
     },
     "stable": {
       "com.imdb.mobile": "c65259fcffa441f5478aa8c0921507af",
