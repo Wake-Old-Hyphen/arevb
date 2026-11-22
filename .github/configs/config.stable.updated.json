@@ -2,7 +2,7 @@
   "patches-version": "latest",
   "enable-module-update": true,
   "imdb-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.imdb.mobile",
     "app-name": "imdb",
     "rv-brand": "morphe",
@@ -252,7 +252,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.instagram.android"
   },
   "automate-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.llamalab.automate",
     "app-name": "automate",
     "rv-brand": "morphe",
@@ -266,7 +266,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.llamalab.automate"
   },
   "speedtest-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "org.zwanoo.android.speedtest",
     "app-name": "speedtest",
     "rv-brand": "morphe",
@@ -280,7 +280,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.zwanoo.android.speedtest"
   },
   "autosync-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.ttxapps.autosync",
     "app-name": "autosync",
     "rv-brand": "morphe",
@@ -294,7 +294,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.ttxapps.autosync"
   },
   "inshorts-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.camerasideas.instashot",
     "app-name": "inshorts",
     "rv-brand": "morphe",
@@ -308,7 +308,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.camerasideas.instashot"
   },
   "vpnify-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.vpn.free.hotspot.secure.vpnify",
     "app-name": "vpnify",
     "rv-brand": "morphe",
@@ -322,7 +322,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.vpn.free.hotspot.secure.vpnify"
   },
   "backdrops-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.backdrops.wallpapers",
     "app-name": "backdrops",
     "rv-brand": "morphe",
@@ -665,7 +665,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.zhiliaoapp.musically"
   },
   "reddit-morphe-adobo": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.reddit.frontpage",
     "app-name": "reddit",
     "rv-brand": "morphe-adobo",
@@ -1316,7 +1316,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.dialer"
   },
   "proton-mail-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "ch.protonmail.android",
     "app-name": "proton-mail",
     "rv-brand": "morphe",
@@ -1333,7 +1333,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/ch.protonmail.android"
   },
   "showly-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.michaldrabik.showly2",
     "app-name": "showly",
     "rv-brand": "morphe",
@@ -1390,7 +1390,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.instagram.android"
   },
   "gboard-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.inputmethod.latin",
     "app-name": "gboard",
     "rv-brand": "morphe",
@@ -1406,7 +1406,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.inputmethod.latin"
   },
   "gboard-morphe-clone": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.google.android.inputmethod.latin",
     "app-name": "gboard",
     "rv-brand": "morphe-clone",
