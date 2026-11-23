@@ -1,5 +1,5 @@
-prime-video-morphe-androidtv (arm-v7a): 6.23.23+v15.5.0.70-armv7a  
-peacock-morphe-androidtv (all): 7.10.102  
+gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
+gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -8,5 +8,5 @@ peacock-morphe-androidtv (all): 7.10.102
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.3.0-all.jar  
-Patches: ajstrick81/patches-1.61.0.mpp  
-[Changelog](https://github.com/ajstrick81/morphe-androidtv-patches/releases/tag/v1.61.0)  
+Patches: jasonwu1994/patches-4.5.0-dev.1.mpp  
+[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.5.0-dev.1)  
