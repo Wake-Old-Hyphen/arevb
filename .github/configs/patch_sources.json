@@ -16,26 +16,26 @@
   "anddea": {
     "repo": "anddea/revanced-patches",
     "stable": "v4.3.0",
-    "prerelease": "v4.4.0-dev.8",
+    "prerelease": "v4.4.0-dev.9",
     "blocked": false,
     "stable_date": "2026-09-28T12:26:39Z",
-    "pre_date": "2026-11-20T16:51:35Z"
+    "pre_date": "2026-11-23T10:46:28Z"
   },
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.3.0",
-    "prerelease": "v2.4.0-dev.8",
+    "prerelease": "v2.4.0-dev.9",
     "blocked": false,
     "stable_date": "2026-11-16T13:10:51Z",
-    "pre_date": "2026-11-22T13:44:35Z"
+    "pre_date": "2026-11-23T10:40:33Z"
   },
   "piko": {
     "repo": "crimera/piko",
     "stable": "v3.11.1",
-    "prerelease": "v3.12.0-dev.5",
+    "prerelease": "v3.12.0-dev.6",
     "blocked": false,
     "stable_date": "2026-11-10T12:59:39Z",
-    "pre_date": "2026-11-20T23:28:48Z"
+    "pre_date": "2026-11-23T08:00:05Z"
   },
   "hoodles": {
     "repo": "hoo-dles/morphe-patches",
@@ -103,11 +103,11 @@
   },
   "rvxtra": {
     "repo": "BholeyKaBhakt/revanced-patches-xtra",
-    "stable": "v2.16.0",
-    "prerelease": "v2.0.4-dev.1",
+    "stable": "v2.16.1",
+    "prerelease": "v2.16.1-dev.1",
     "blocked": false,
-    "stable_date": "2026-11-21T16:10:42Z",
-    "pre_date": "2026-05-20T08:17:53Z"
+    "stable_date": "2026-11-23T12:34:53Z",
+    "pre_date": "2026-11-23T12:31:29Z"
   },
   "meta": {
     "repo": "MeridianFresco/morphe-meta-patches",
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v4.4.0",
     "stable_date": "2026-11-22T06:17:01Z",
-    "prerelease": "v4.5.0-dev.1",
-    "pre_date": "2026-11-23T01:59:37Z",
+    "prerelease": "v4.5.0-dev.2",
+    "pre_date": "2026-11-23T10:05:06Z",
     "blocked": false
   },
   "instafel": {
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.85.0",
-    "stable_date": "2026-11-21T14:12:49Z",
-    "prerelease": "v1.86.0-dev.4",
-    "pre_date": "2026-11-22T14:14:58Z",
+    "stable": "v1.86.0",
+    "stable_date": "2026-11-23T13:00:56Z",
+    "prerelease": "v1.86.0-dev.6",
+    "pre_date": "2026-11-23T12:43:40Z",
     "blocked": false
   },
   "kiraio": {
@@ -265,8 +265,8 @@
     "repo": "franticg33k/morphe-patches",
     "stable": "v1.7.2",
     "stable_date": "2026-11-03T12:15:43Z",
-    "prerelease": "v1.7.2-dev.1",
-    "pre_date": "2026-11-01T04:38:46Z",
+    "prerelease": "v1.7.3-dev.1",
+    "pre_date": "2026-11-23T15:46:40Z",
     "blocked": false
   },
   "dh6k": {
