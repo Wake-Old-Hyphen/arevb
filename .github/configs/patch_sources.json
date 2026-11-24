@@ -103,11 +103,11 @@
   },
   "rvxtra": {
     "repo": "BholeyKaBhakt/revanced-patches-xtra",
-    "stable": "v2.16.1",
-    "prerelease": "v2.16.1-dev.1",
+    "stable": "v2.16.2",
+    "prerelease": "v2.16.2-dev.1",
     "blocked": false,
-    "stable_date": "2026-11-23T12:34:53Z",
-    "pre_date": "2026-11-23T12:31:29Z"
+    "stable_date": "2026-11-24T04:04:15Z",
+    "pre_date": "2026-11-24T04:01:25Z"
   },
   "meta": {
     "repo": "MeridianFresco/morphe-meta-patches",
@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.61.0",
+    "stable": "v1.61.1",
     "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-11-23T03:09:39Z",
+    "stable_date": "2026-11-24T02:03:14Z",
     "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v4.4.0",
     "stable_date": "2026-11-22T06:17:01Z",
-    "prerelease": "v4.5.0-dev.2",
-    "pre_date": "2026-11-23T10:05:06Z",
+    "prerelease": "v4.5.0-dev.3",
+    "pre_date": "2026-11-24T01:35:35Z",
     "blocked": false
   },
   "instafel": {
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.86.0",
     "stable_date": "2026-11-23T13:00:56Z",
-    "prerelease": "v1.86.0-dev.6",
-    "pre_date": "2026-11-23T12:43:40Z",
+    "prerelease": "v1.87.0-dev.2",
+    "pre_date": "2026-11-23T23:09:39Z",
     "blocked": false
   },
   "kiraio": {
