@@ -16,7 +16,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.imdb.mobile"
   },
   "disneyplus-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.disney.disneyplus",
     "app-name": "disneyplus",
     "rv-brand": "morphe-androidtv",
@@ -29,7 +29,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.disney.disneyplus"
   },
   "prime-video-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.amazon.amazonvideo.livingroom",
     "app-name": "prime-video",
     "rv-brand": "morphe-androidtv",
@@ -43,7 +43,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.amazon.amazonvideo.livingroom"
   },
   "hbomax-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.wbd.hbomax",
     "app-name": "hbomax",
     "rv-brand": "morphe-androidtv",
@@ -56,7 +56,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.wbd.hbomax"
   },
   "peacock-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.peacocktv.peacockandroid",
     "app-name": "peacock",
     "rv-brand": "morphe-androidtv",
@@ -70,7 +70,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.peacocktv.peacockandroid"
   },
   "tubi-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.tubitv",
     "app-name": "tubi",
     "rv-brand": "morphe-androidtv",
@@ -83,7 +83,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.tubitv"
   },
   "vix-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.univision.prendetv",
     "app-name": "vix",
     "rv-brand": "morphe-androidtv",
@@ -96,7 +96,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.univision.prendetv"
   },
   "plutotv-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "tv.pluto.android",
     "app-name": "plutotv",
     "rv-brand": "morphe-androidtv",
@@ -110,7 +110,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/tv.pluto.android"
   },
   "netflix-morphe-androidtv": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.netflix.ninja",
     "app-name": "netflix",
     "rv-brand": "morphe-androidtv",
@@ -252,7 +252,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.instagram.android"
   },
   "automate-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.llamalab.automate",
     "app-name": "automate",
     "rv-brand": "morphe",
@@ -266,7 +266,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.llamalab.automate"
   },
   "speedtest-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "org.zwanoo.android.speedtest",
     "app-name": "speedtest",
     "rv-brand": "morphe",
@@ -280,7 +280,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/org.zwanoo.android.speedtest"
   },
   "autosync-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.ttxapps.autosync",
     "app-name": "autosync",
     "rv-brand": "morphe",
@@ -294,7 +294,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.ttxapps.autosync"
   },
   "inshorts-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.camerasideas.instashot",
     "app-name": "inshorts",
     "rv-brand": "morphe",
@@ -308,7 +308,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.camerasideas.instashot"
   },
   "vpnify-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.vpn.free.hotspot.secure.vpnify",
     "app-name": "vpnify",
     "rv-brand": "morphe",
@@ -322,7 +322,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.vpn.free.hotspot.secure.vpnify"
   },
   "backdrops-morphe": {
-    "enabled": true,
+    "enabled": false,
     "pkg-name": "com.backdrops.wallpapers",
     "app-name": "backdrops",
     "rv-brand": "morphe",
@@ -1316,7 +1316,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/com.google.android.dialer"
   },
   "proton-mail-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "ch.protonmail.android",
     "app-name": "proton-mail",
     "rv-brand": "morphe",
@@ -1333,7 +1333,7 @@
     "github-dlurl": "https://github.com/nullcpy/apks/releases/tag/ch.protonmail.android"
   },
   "showly-morphe": {
-    "enabled": false,
+    "enabled": true,
     "pkg-name": "com.michaldrabik.showly2",
     "app-name": "showly",
     "rv-brand": "morphe",
