@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.3.0",
-    "prerelease": "v2.4.0-dev.11",
+    "prerelease": "v2.4.0-dev.12",
     "blocked": false,
     "stable_date": "2026-11-16T13:10:51Z",
-    "pre_date": "2026-11-24T09:49:16Z"
+    "pre_date": "2026-11-25T09:47:03Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -217,8 +217,8 @@
     "repo": "jasonwu1994/Gboard-patches",
     "stable": "v4.4.0",
     "stable_date": "2026-11-22T06:17:01Z",
-    "prerelease": "v4.5.0-dev.4",
-    "pre_date": "2026-11-24T21:09:39Z",
+    "prerelease": "v4.5.0-dev.7",
+    "pre_date": "2026-11-25T08:46:00Z",
     "blocked": false
   },
   "instafel": {
@@ -231,10 +231,10 @@
   },
   "hxreborn": {
     "repo": "hxreborn/morphe-patches",
-    "stable": "v1.87.0",
-    "stable_date": "2026-11-24T08:23:04Z",
-    "prerelease": "v1.88.0-dev.6",
-    "pre_date": "2026-11-25T00:28:17Z",
+    "stable": "v1.88.0",
+    "stable_date": "2026-11-25T09:51:08Z",
+    "prerelease": "v1.89.0-dev.2",
+    "pre_date": "2026-11-25T14:00:42Z",
     "blocked": false
   },
   "kiraio": {
