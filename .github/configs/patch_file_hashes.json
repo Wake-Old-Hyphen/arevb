@@ -9,8 +9,8 @@
       "com.tubitv": "fc311c606f9ce12c99fca616dda555d7",
       "com.univision.prendetv": "639530c7738b9564382d855894b1ccc4",
       "com.wbd.hbomax": "b9e5d95ea33b60e4e8ccdb1b868a2d3f",
-      "shared": "f58e7d56bb063ba23995ec546bb8b9e6",
-      "tv.pluto.android": "4ed99387abbc8e1246f4f5f12cfaec39"
+      "shared": "ff874bf56d99f4210ec25ab341b672b1",
+      "tv.pluto.android": "f7604b69ab927902a412e2b59cab786b"
     }
   },
   "anddea/revanced-patches": {
@@ -241,7 +241,7 @@
     "stable": {
       "com.fatsecret.android": "6ba7f7963e19d692c45891bb74f1f48f",
       "com.soundcloud.android": "838bacba1749fd0a0586d8202441e916",
-      "shared": "ae3be9fa5d88e33291e4a0f5fc463beb"
+      "shared": "eeeba4a4264fe2fcc53a5bbcaa76733b"
     }
   },
   "kveld9/kveld-morphe-patches": {
@@ -253,10 +253,10 @@
   },
   "morpheapp/morphe-patches": {
     "dev": {
-      "com.google.android.apps.youtube.music": "973f19e5c2fcd55f88ef5dfccd668634",
-      "com.google.android.youtube": "c731bac796dda299c0df24d322c6a8f2",
-      "com.reddit.frontpage": "9669d16c1d7f0aacc54809a313a7c1cb",
-      "shared": "0e007a7ccfdba5821c7e0b138d83a971"
+      "com.google.android.apps.youtube.music": "ead56be607e62b2ef0bae5a1fbd3c022",
+      "com.google.android.youtube": "dc1c1d4142e8ed030c83780d2537e058",
+      "com.reddit.frontpage": "e1e006db4d7113d8eb0dff6b14cdb99d",
+      "shared": "0d29397ab2146f8cf779114eb5c28afa"
     },
     "stable": {
       "com.google.android.apps.youtube.music": "e46398df179c37761aa86ad25912e086",

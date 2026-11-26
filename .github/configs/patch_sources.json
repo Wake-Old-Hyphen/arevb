@@ -24,10 +24,10 @@
   "morphe": {
     "repo": "MorpheApp/morphe-patches",
     "stable": "v2.3.0",
-    "prerelease": "v2.4.0-dev.12",
+    "prerelease": "v2.4.0-dev.14",
     "blocked": false,
     "stable_date": "2026-11-16T13:10:51Z",
-    "pre_date": "2026-11-25T09:47:03Z"
+    "pre_date": "2026-11-25T21:56:24Z"
   },
   "piko": {
     "repo": "crimera/piko",
@@ -166,10 +166,10 @@
   },
   "androidtv": {
     "repo": "ajstrick81/morphe-androidtv-patches",
-    "stable": "v1.61.1",
+    "stable": "v1.61.2",
     "prerelease": "pv-v15-fix-260",
     "blocked": false,
-    "stable_date": "2026-11-24T02:03:14Z",
+    "stable_date": "2026-11-25T23:20:06Z",
     "pre_date": "2026-10-25T23:57:43Z"
   },
   "revenge": {
@@ -192,10 +192,10 @@
     "repo": "IMXEren/mix-patches",
     "host": "gitlab",
     "stable": "v1.8.0",
-    "prerelease": "v2.0.0-dev.14",
+    "prerelease": "v2.0.0-dev.15",
     "blocked": false,
     "stable_date": "2026-10-07T04:17:11.999Z",
-    "pre_date": "2026-11-22T02:37:17.497Z"
+    "pre_date": "2026-11-25T17:26:13.731Z"
   },
   "quantavil": {
     "repo": "quantavil/edge-morphe-patches",
@@ -207,10 +207,10 @@
   },
   "kondratjev": {
     "repo": "kondratjev/morphe-patches",
-    "stable": "v1.29.0",
-    "stable_date": "2026-11-13T20:16:30Z",
-    "prerelease": "v1.29.0-dev.1",
-    "pre_date": "2026-11-13T20:14:31Z",
+    "stable": "v1.29.1",
+    "stable_date": "2026-11-25T20:11:35Z",
+    "prerelease": "v1.29.1-dev.1",
+    "pre_date": "2026-11-25T20:08:47Z",
     "blocked": false
   },
   "gboard": {
@@ -233,8 +233,8 @@
     "repo": "hxreborn/morphe-patches",
     "stable": "v1.88.0",
     "stable_date": "2026-11-25T09:51:08Z",
-    "prerelease": "v1.89.0-dev.2",
-    "pre_date": "2026-11-25T14:00:42Z",
+    "prerelease": "v1.89.0-dev.4",
+    "pre_date": "2026-11-25T20:57:43Z",
     "blocked": false
   },
   "kiraio": {
