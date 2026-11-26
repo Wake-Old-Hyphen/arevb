@@ -1,5 +1,3 @@
-gboard-morphe (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
-gboard-morphe-clone (arm64-v8a): 18.5.4.993608717-release-arm64-v8a  
 youtube-morphe (arm64-v8a): 21.30.216  
 youtube-morphe (arm-v7a): 21.30.216  
 youtube-music-morphe (arm64-v8a): 9.30.53  
@@ -19,8 +17,5 @@ reddit-morphe (arm-v7a): 2026.40.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
 CLI: MorpheApp/morphe-desktop-2.3.0-all.jar  
-Patches: jasonwu1994/patches-4.5.0-dev.7.mpp  
-[Changelog](https://github.com/jasonwu1994/Gboard-patches/releases/tag/v4.5.0-dev.7)
-
-Patches: MorpheApp/patches-2.4.0-dev.12.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.4.0-dev.12)  
+Patches: MorpheApp/patches-2.4.0-dev.14.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.4.0-dev.14)  
